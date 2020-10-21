@@ -1,0 +1,3560 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          54.7959,
+          59.6602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Komi-Permyak",
+        "Glottocode": "komi1269",
+        "ISO639P3code": "koi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          128.0,
+          37.5
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Korean",
+        "Glottocode": "kore1280",
+        "ISO639P3code": "kor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.578,
+          -5.30994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Tukang Besi North",
+        "Glottocode": "tuka1248",
+        "ISO639P3code": "khc"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          160.265,
+          -11.6237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Rennell-Belona",
+        "Glottocode": "renn1242",
+        "ISO639P3code": "mnv"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -66.828,
+          1.91649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Bare",
+        "Glottocode": "bare1276",
+        "ISO639P3code": "bae"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.1469,
+          5.97864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Ngemba",
+        "Glottocode": "ngem1255",
+        "ISO639P3code": "nge"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.7204,
+          68.8326
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Skolt Saami",
+        "Glottocode": "skol1241",
+        "ISO639P3code": "sms"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          47.5,
+          30.17
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Gulf Spoken Arabic",
+        "Glottocode": "gulf1241",
+        "ISO639P3code": "afb"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          179.198088,
+          -8.520813
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Tuvaluan",
+        "Glottocode": "tuva1244",
+        "ISO639P3code": "tvl"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -56.9243,
+          5.64295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Lokono",
+        "Glottocode": "araw1276",
+        "ISO639P3code": "arw"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -149.45,
+          -17.6485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Tahitian",
+        "Glottocode": "tahi1242",
+        "ISO639P3code": "tah"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          19.6555271429,
+          46.9068585714
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Hungarian",
+        "Glottocode": "hung1274",
+        "ISO639P3code": "hun"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -72.199791,
+          11.395566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Wayuu",
+        "Glottocode": "wayu1243",
+        "ISO639P3code": "guc"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.7865,
+          60.3353
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Veps",
+        "Glottocode": "veps1250",
+        "ISO639P3code": "vep"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          170.045,
+          68.6436
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Chukchi",
+        "Glottocode": "chuk1273",
+        "ISO639P3code": "ckt"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.4096,
+          -20.2513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Ndebele",
+        "Glottocode": "nort2795",
+        "ISO639P3code": "nde"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          23.066,
+          67.2527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Tornedalen Finnish",
+        "Glottocode": "torn1244",
+        "ISO639P3code": "fit"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          76.1198,
+          13.5878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Kannada",
+        "Glottocode": "nucl1305",
+        "ISO639P3code": "kan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          48.405,
+          55.8307
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Eastern Mari",
+        "Glottocode": "east2328",
+        "ISO639P3code": "mhr"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.315,
+          -10.5454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Yanesha'",
+        "Glottocode": "yane1238",
+        "ISO639P3code": "ame"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.13,
+          11.8
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Central Kanuri",
+        "Glottocode": "cent2050",
+        "ISO639P3code": "knc"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -63.68,
+          -13.61
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Baure",
+        "Glottocode": "baur1253",
+        "ISO639P3code": "brg"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.443668,
+          49.250402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Muskqueam",
+        "Glottocode": "halk1245",
+        "ISO639P3code": "hur"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.046,
+          43.859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Bosnian",
+        "Glottocode": "bosn1245",
+        "ISO639P3code": "bos"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -66.52,
+          1.48
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Warekena",
+        "Glottocode": "mand1448",
+        "ISO639P3code": "mht"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          94.83,
+          55.07
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Kamas",
+        "Glottocode": "kama1351",
+        "ISO639P3code": "xas"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -69.5705,
+          1.07554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Kotiria",
+        "Glottocode": "guan1269",
+        "ISO639P3code": "gvc"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          21.7932,
+          41.5957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Macedonian",
+        "Glottocode": "mace1250",
+        "ISO639P3code": "mkd"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5292,
+          14.5879
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Kunama",
+        "Glottocode": "kuna1268",
+        "ISO639P3code": "kun"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.4676,
+          48.649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "German",
+        "Glottocode": "stan1295",
+        "ISO639P3code": "deu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.103495,
+          -17.422325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Tonga",
+        "Glottocode": "tong1318",
+        "ISO639P3code": "toi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.1194,
+          6.14153
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Bafut",
+        "Glottocode": "bafu1246",
+        "ISO639P3code": "bfd"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.574,
+          7.12761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Northern Ember\u00e1",
+        "Glottocode": "nort2972",
+        "ISO639P3code": "emp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2305,
+          1.07773
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Dibole",
+        "Glottocode": "dibo1245",
+        "ISO639P3code": "bvx"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.489,
+          -17.0695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Kayardild",
+        "Glottocode": "kaya1319",
+        "ISO639P3code": "gyd"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.882,
+          1.05676
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Borana-Arsi-Guji Oromo",
+        "Glottocode": "bora1271",
+        "ISO639P3code": "gax"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.67225,
+          7.15345
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Yoruba",
+        "Glottocode": "yoru1245",
+        "ISO639P3code": "yor"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          83.7552,
+          18.8832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Kuvi",
+        "Glottocode": "kuvi1243",
+        "ISO639P3code": "kxv"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          143.73,
+          -6.32097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "West Kewa",
+        "Glottocode": "west2599",
+        "ISO639P3code": "kew"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          127.423,
+          0.07337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Taba",
+        "Glottocode": "east2440",
+        "ISO639P3code": "mky"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.40872,
+          32.7415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Central Atlas Tamazight",
+        "Glottocode": "cent2194",
+        "ISO639P3code": "tzm"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          87.5466,
+          63.7551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Ket",
+        "Glottocode": "kett1243",
+        "ISO639P3code": "ket"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.11788,
+          40.4414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Spanish",
+        "Glottocode": "stan1288",
+        "ISO639P3code": "spa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.0033,
+          -0.76075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Yucuna",
+        "Glottocode": "yucu1253",
+        "ISO639P3code": "ycn"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.7231,
+          14.8034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Central Mam",
+        "Glottocode": "mamm1241",
+        "ISO639P3code": "mam"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.512,
+          -2.6013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Sentani",
+        "Glottocode": "nucl1632",
+        "ISO639P3code": "set"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.015,
+          12.0515
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Central Khmer",
+        "Glottocode": "cent1989",
+        "ISO639P3code": "khm"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.289,
+          48.324
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Halh Mongolian",
+        "Glottocode": "halh1238",
+        "ISO639P3code": "khk"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7006,
+          62.8801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "South Saami",
+        "Glottocode": "sout2674",
+        "ISO639P3code": "sma"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          23.8662,
+          -11.1793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Lunda",
+        "Glottocode": "lund1266",
+        "ISO639P3code": "lun"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          88.2121,
+          69.9829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Forest Enets",
+        "Glottocode": "fore1265",
+        "ISO639P3code": "enf"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          61.344,
+          64.4118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Mansi",
+        "Glottocode": "mans1258",
+        "ISO639P3code": "mns"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          168.399,
+          -17.052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Emae",
+        "Glottocode": "emae1237",
+        "ISO639P3code": "mmw"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -60.2209,
+          4.31861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Macushi",
+        "Glottocode": "macu1259",
+        "ISO639P3code": "mbc"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.6489,
+          43.0464
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Italian",
+        "Glottocode": "ital1282",
+        "ISO639P3code": "ita"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.55187,
+          16.9634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Songhay Koyraborro Senni",
+        "Glottocode": "koyr1242",
+        "ISO639P3code": "ses"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.8399,
+          10.8427
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "A\u00f1un",
+        "Glottocode": "para1316",
+        "ISO639P3code": "pbg"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.3475,
+          0.92316
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Koreguaje",
+        "Glottocode": "kore1283",
+        "ISO639P3code": "coe"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          146.18,
+          -30.6481
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Wangaaybuwan-Ngiyambaa",
+        "Glottocode": "wang1291",
+        "ISO639P3code": "wyb"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          47.7236,
+          40.9
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Udi",
+        "Glottocode": "udii1243",
+        "ISO639P3code": "udi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -67.5028,
+          0.69618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Kurripako",
+        "Glottocode": "curr1243",
+        "ISO639P3code": "kpc"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -67.89633,
+          -18.73951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Chipaya",
+        "Glottocode": "chip1262",
+        "ISO639P3code": "cap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          66.1218,
+          62.4308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Khanty",
+        "Glottocode": "khan1273",
+        "ISO639P3code": "kca"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9407,
+          51.6621
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Lower Sorbian",
+        "Glottocode": "lowe1385",
+        "ISO639P3code": "dsb"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          76.7995,
+          11.3456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Alu Kurumba",
+        "Glottocode": "aluk1238",
+        "ISO639P3code": "xua"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -169.86,
+          -19.06
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Niue",
+        "Glottocode": "niue1239",
+        "ISO639P3code": "niu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -60.4145,
+          -28.097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Mocov\u00ed",
+        "Glottocode": "moco1246",
+        "ISO639P3code": "moc"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          168.334,
+          -16.7612
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Lewo",
+        "Glottocode": "lewo1242",
+        "ISO639P3code": "lww"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.0179,
+          31.1056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Hebrew",
+        "Glottocode": "hebr1245",
+        "ISO639P3code": "heb"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -89.443,
+          13.8931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Pipil",
+        "Glottocode": "pipi1250",
+        "ISO639P3code": "ppl"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          82.3004,
+          59.9409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Selkup",
+        "Glottocode": "selk1253",
+        "ISO639P3code": "sel"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          71.0234,
+          66.1775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Nenets",
+        "Glottocode": "nene1249",
+        "ISO639P3code": "yrk"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.430616,
+          34.916974
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Tarifit",
+        "Glottocode": "tari1263",
+        "ISO639P3code": "rif"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          39.6388,
+          38.6147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Zazaki",
+        "Glottocode": "diml1238",
+        "ISO639P3code": "diq"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.646,
+          64.6383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Ume Saami",
+        "Glottocode": "umes1235",
+        "ISO639P3code": "sju"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -70.1939,
+          1.32382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Cubeo",
+        "Glottocode": "cube1242",
+        "ISO639P3code": "cub"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          147.534,
+          -7.76339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Suena",
+        "Glottocode": "suen1241",
+        "ISO639P3code": "sue"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.591,
+          -1.3679
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Mai Brat",
+        "Glottocode": "maib1239",
+        "ISO639P3code": "ayz"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -161.486,
+          60.3062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Central Yupik",
+        "Glottocode": "cent2127",
+        "ISO639P3code": "esu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.228,
+          40.0209
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Mandarin Chinese",
+        "Glottocode": "mand1415",
+        "ISO639P3code": "cmn"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.681,
+          52.59
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Nivkh",
+        "Glottocode": "gily1242",
+        "ISO639P3code": "niv"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0.42458,
+          7.17462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Selee",
+        "Glottocode": "sele1249",
+        "ISO639P3code": "snw"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          82.93402,
+          18.26754
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Konda-Dora",
+        "Glottocode": "kond1295",
+        "ISO639P3code": "kfc"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.543,
+          7.27501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Greenlandic Inuktitut",
+        "Glottocode": "nucl1418",
+        "ISO639P3code": "bsq"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -178.137222,
+          -14.278717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "East Futuna",
+        "Glottocode": "east2447",
+        "ISO639P3code": "fud"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          50.0,
+          59.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Russian",
+        "Glottocode": "russ1263",
+        "ISO639P3code": "rus"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -68.9042,
+          0.440205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Tariano",
+        "Glottocode": "tari1256",
+        "ISO639P3code": "tae"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -66.7714,
+          -8.21692
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Apurin\u00e3",
+        "Glottocode": "apur1254",
+        "ISO639P3code": "apu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.727,
+          -10.6148
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Saliba",
+        "Glottocode": "sali1295",
+        "ISO639P3code": "sbe"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.6246,
+          3.63993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Palik\u00far",
+        "Glottocode": "pali1279",
+        "ISO639P3code": "plu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.865,
+          -14.7927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Mara",
+        "Glottocode": "mara1385",
+        "ISO639P3code": "mec"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          48.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "French",
+        "Glottocode": "stan1290",
+        "ISO639P3code": "fra"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -95.9265,
+          17.3162
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Lealao Chinantec",
+        "Glottocode": "leal1235",
+        "ISO639P3code": "cle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -109.342,
+          -27.113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Rapa Nui",
+        "Glottocode": "rapa1244",
+        "ISO639P3code": "rap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -70.808,
+          0.02193
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Barasana",
+        "Glottocode": "bara1380",
+        "ISO639P3code": "bsn"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          154.797223,
+          1.039166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Kapingamarangi",
+        "Glottocode": "kapi1249",
+        "ISO639P3code": "kpg"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.8658,
+          69.4229
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Inari Saami",
+        "Glottocode": "inar1241",
+        "ISO639P3code": "smn"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          66.56,
+          29.04
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Brahui",
+        "Glottocode": "brah1256",
+        "ISO639P3code": "brh"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.88901,
+          35.1867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Tachawit",
+        "Glottocode": "tach1249",
+        "ISO639P3code": "shy"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.708106,
+          43.438742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Oneida",
+        "Glottocode": "onei1249",
+        "ISO639P3code": "one"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          162.72952,
+          -8.378194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Sikaiana",
+        "Glottocode": "sika1261",
+        "ISO639P3code": "sky"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -157.922908,
+          -9.082238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Penrhyn",
+        "Glottocode": "penr1237",
+        "ISO639P3code": "pnh"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          33.988,
+          6.69756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Murle",
+        "Glottocode": "murl1244",
+        "ISO639P3code": "mur"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -101.631,
+          19.2467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Purepecha",
+        "Glottocode": "pure1242",
+        "ISO639P3code": "tsz"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          164.193,
+          -20.4035
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Kumak",
+        "Glottocode": "kuma1276",
+        "ISO639P3code": "nee"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -66.3068,
+          -1.24449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Nad\u00ebb",
+        "Glottocode": "nade1244",
+        "ISO639P3code": "mbj"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7766,
+          46.2543
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Slovenian",
+        "Glottocode": "slov1268",
+        "ISO639P3code": "slv"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.607,
+          -20.9294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Martuyhunira",
+        "Glottocode": "mart1255",
+        "ISO639P3code": "vma"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          145.362,
+          -4.84265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Usan",
+        "Glottocode": "usan1239",
+        "ISO639P3code": "wnu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.445,
+          39.7176
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Wintu",
+        "Glottocode": "wint1259",
+        "ISO639P3code": "wit"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -69.30827,
+          -12.46525
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "I\u00f1apari",
+        "Glottocode": "inap1242",
+        "ISO639P3code": "inp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.749,
+          33.5123
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Maricopa",
+        "Glottocode": "mari1440",
+        "ISO639P3code": "mrc"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          94.689,
+          61.972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Evenki",
+        "Glottocode": "even1259",
+        "ISO639P3code": "evn"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.716,
+          -7.33458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Indonesian",
+        "Glottocode": "indo1316",
+        "ISO639P3code": "ind"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          76.7651,
+          9.59208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Malayalam",
+        "Glottocode": "mala1464",
+        "ISO639P3code": "mal"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          20.7673,
+          -19.688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Ju/'hoan",
+        "Glottocode": "juho1239",
+        "ISO639P3code": "ktz"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -69.5763,
+          0.579755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Tucano",
+        "Glottocode": "tuca1252",
+        "ISO639P3code": "tuo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          22.4422,
+          -5.72717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Luba-Kasai",
+        "Glottocode": "luba1249",
+        "ISO639P3code": "lua"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          166.589,
+          -20.4145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "West Uvean",
+        "Glottocode": "west2516",
+        "ISO639P3code": "uve"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.7587,
+          -24.368
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Tswana",
+        "Glottocode": "tswa1253",
+        "ISO639P3code": "tsn"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -72.2005,
+          4.38649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Achagua",
+        "Glottocode": "acha1250",
+        "ISO639P3code": "aca"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          78.7024,
+          16.4529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Telugu",
+        "Glottocode": "telu1262",
+        "ISO639P3code": "tel"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.6363,
+          10.7018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Arhuaco",
+        "Glottocode": "arhu1242",
+        "ISO639P3code": "arh"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          52.63548,
+          56.12921
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Udmurt",
+        "Glottocode": "udmu1245",
+        "ISO639P3code": "udm"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          45.3901,
+          52.8548
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Erzya",
+        "Glottocode": "erzy1239",
+        "ISO639P3code": "myv"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.047,
+          43.3646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Bulgarian",
+        "Glottocode": "bulg1262",
+        "ISO639P3code": "bul"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.6038,
+          53.2307
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Belarusan",
+        "Glottocode": "bela1254",
+        "ISO639P3code": "bel"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          71.8421,
+          35.5096
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Phalula",
+        "Glottocode": "phal1254",
+        "ISO639P3code": "phl"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          81.2096,
+          17.6772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Koya",
+        "Glottocode": "koya1251",
+        "ISO639P3code": "kff"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.389526,
+          59.800634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Swedish",
+        "Glottocode": "swed1254",
+        "ISO639P3code": "swe"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          168.275,
+          -17.6841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Mele-Fila",
+        "Glottocode": "mele1250",
+        "ISO639P3code": "mxe"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          126.351,
+          -18.4073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Gooniyandi",
+        "Glottocode": "goon1238",
+        "ISO639P3code": "gni"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.5547,
+          -0.459785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Secoya",
+        "Glottocode": "seco1241",
+        "ISO639P3code": "sey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -98.0272,
+          19.2146
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Ixtenco Otomi",
+        "Glottocode": "ixte1237",
+        "ISO639P3code": "otz"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -70.043515,
+          0.39441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Tuyuca",
+        "Glottocode": "tuyu1244",
+        "ISO639P3code": "tue"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.277,
+          -38.7392
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Mapudungun",
+        "Glottocode": "mapu1245",
+        "ISO639P3code": "arn"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -57.4059,
+          -14.5929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Parec\u00eds",
+        "Glottocode": "pare1272",
+        "ISO639P3code": "pab"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -59.3528,
+          7.50851
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Warao",
+        "Glottocode": "wara1303",
+        "ISO639P3code": "wba"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          21.9192,
+          44.3238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Serbian",
+        "Glottocode": "serb1264",
+        "ISO639P3code": "srp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          154.971,
+          -5.67474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Teop",
+        "Glottocode": "teop1238",
+        "ISO639P3code": "tio"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.449,
+          -28.705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Arabana",
+        "Glottocode": "arab1267",
+        "ISO639P3code": "ard"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          32.8667,
+          39.8667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Turkish",
+        "Glottocode": "nucl1301",
+        "ISO639P3code": "tur"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          91.9998,
+          24.977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Khasi",
+        "Glottocode": "khas1269",
+        "ISO639P3code": "kha"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -57.08816,
+          -25.60551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Guarani",
+        "Glottocode": "para1311",
+        "ISO639P3code": "gug"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -176.207,
+          -13.2903
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Wallisian",
+        "Glottocode": "wall1257",
+        "ISO639P3code": "wls"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.31622,
+          43.2787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Basque",
+        "Glottocode": "basq1248",
+        "ISO639P3code": "eus"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.7804,
+          11.1513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Hausa",
+        "Glottocode": "haus1257",
+        "ISO639P3code": "hau"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -109.38,
+          36.33
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Navajo",
+        "Glottocode": "nava1243",
+        "ISO639P3code": "nav"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          53.3,
+          32.9
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Western Farsi",
+        "Glottocode": "west2369",
+        "ISO639P3code": "pes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -140.108,
+          -8.89412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "North Marquesan",
+        "Glottocode": "nort2845",
+        "ISO639P3code": "mrq"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -94.2738,
+          47.347
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Ojibwe",
+        "Glottocode": "chip1241",
+        "ISO639P3code": "ciw"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.76137,
+          36.4103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Kabyle",
+        "Glottocode": "kaby1243",
+        "ISO639P3code": "kab"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -45.1299,
+          -6.10712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Canela",
+        "Glottocode": "cane1242",
+        "ISO639P3code": "ram"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.769495,
+          11.52392
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Bagirmi",
+        "Glottocode": "bagi1246",
+        "ISO639P3code": "bmi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -134.97,
+          -23.1095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Mangareva",
+        "Glottocode": "mang1401",
+        "ISO639P3code": "mrv"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -7.77879,
+          29.7854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Tachelhit",
+        "Glottocode": "tach1250",
+        "ISO639P3code": "shi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          75.9161,
+          12.2443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Kodagu",
+        "Glottocode": "koda1255",
+        "ISO639P3code": "kfa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.3087,
+          -11.1086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Yine",
+        "Glottocode": "yine1238",
+        "ISO639P3code": "pib"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.537,
+          -3.06952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Kuot",
+        "Glottocode": "kuot1243",
+        "ISO639P3code": "kto"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -19.0212,
+          63.4837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Icelandic",
+        "Glottocode": "icel1247",
+        "ISO639P3code": "isl"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -15.7354766667,
+          12.75752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Jola-Fonyi",
+        "Glottocode": "jola1263",
+        "ISO639P3code": "dyo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          42.6728,
+          54.1855
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Moksha",
+        "Glottocode": "moks1248",
+        "ISO639P3code": "mdf"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.6235,
+          59.3802
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Vod",
+        "Glottocode": "voti1245",
+        "ISO639P3code": "vot"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2106,
+          73.1354
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Nganasan",
+        "Glottocode": "ngan1291",
+        "ISO639P3code": "nio"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.707536,
+          -49.303195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Qawasqar",
+        "Glottocode": "qawa1238",
+        "ISO639P3code": "alc"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.747,
+          14.06
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Tagalog",
+        "Glottocode": "taga1270",
+        "ISO639P3code": "tgl"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.5577,
+          64.7628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Finnish",
+        "Glottocode": "finn1318",
+        "ISO639P3code": "fin"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -78.3729,
+          0.31776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Imbabura Highland Quichua",
+        "Glottocode": "imba1240",
+        "ISO639P3code": "qvi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -155.43,
+          19.6297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Hawaiian",
+        "Glottocode": "hawa1245",
+        "ISO639P3code": "haw"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.4096,
+          -15.3331
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Trinitario",
+        "Glottocode": "trin1274",
+        "ISO639P3code": "trn"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -67.438886,
+          2.924844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Yavitero",
+        "Glottocode": "yavi1244",
+        "ISO639P3code": "yvt"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -72.3507,
+          -12.1018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Nanti",
+        "Glottocode": "nant1250",
+        "ISO639P3code": "cox"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          54.946,
+          64.0527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Komi-Zyrian",
+        "Glottocode": "komi1268",
+        "ISO639P3code": "kpv"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          176.541,
+          -38.2881
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Maori",
+        "Glottocode": "maor1246",
+        "ISO639P3code": "mri"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.7101,
+          4.30688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Turkana",
+        "Glottocode": "turk1308",
+        "ISO639P3code": "tuv"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -97.622482,
+          17.046881
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Chalcatongo Mixtec",
+        "Glottocode": "sanm1295",
+        "ISO639P3code": "mig"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          23.13,
+          38.36
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Greek",
+        "Glottocode": "mode1248",
+        "ISO639P3code": "ell"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          79.2534,
+          15.8787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Chenchu",
+        "Glottocode": "chen1255",
+        "ISO639P3code": "cde"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -70.184,
+          0.436515
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Siriano",
+        "Glottocode": "siri1274",
+        "ISO639P3code": "sri"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          154.975,
+          3.84
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Nukuoro",
+        "Glottocode": "nuku1260",
+        "ISO639P3code": "nkr"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.0,
+          53.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "English",
+        "Glottocode": "stan1293",
+        "ISO639P3code": "eng"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          22.1113,
+          68.725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "North Saami",
+        "Glottocode": "nort2671",
+        "ISO639P3code": "sme"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -78.3401,
+          1.21652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Awa-Cuaiquer",
+        "Glottocode": "awac1239",
+        "ISO639P3code": "kwi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4098,
+          51.2403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Upper Sorbian",
+        "Glottocode": "uppe1395",
+        "ISO639P3code": "hsb"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -70.3853,
+          -0.59023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Retuar\u00e3",
+        "Glottocode": "tani1257",
+        "ISO639P3code": "tnc"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -159.78,
+          -21.23
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Rarotongan",
+        "Glottocode": "raro1241",
+        "ISO639P3code": "rar"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -116.408,
+          46.3073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Nez Perce",
+        "Glottocode": "nezp1238",
+        "ISO639P3code": "nez"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -68.5953,
+          4.37718
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Piapoco",
+        "Glottocode": "piap1246",
+        "ISO639P3code": "pio"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          100.671,
+          14.192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Thai",
+        "Glottocode": "thai1261",
+        "ISO639P3code": "tha"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.9091,
+          15.3529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Garifuna",
+        "Glottocode": "gari1256",
+        "ISO639P3code": "cab"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          168.822,
+          -12.2766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Anuta",
+        "Glottocode": "tiko1237",
+        "ISO639P3code": "tkp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.10437,
+          49.873398
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Czech",
+        "Glottocode": "czec1258",
+        "ISO639P3code": "ces"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          170.215,
+          -19.5303
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Futuna-Aniwa",
+        "Glottocode": "futu1245",
+        "ISO639P3code": "fut"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -98.9042,
+          34.9403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Kiowa",
+        "Glottocode": "kiow1266",
+        "ISO639P3code": "kio"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.709,
+          30.4096
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Koasati",
+        "Glottocode": "koas1236",
+        "ISO639P3code": "cku"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          80.27811,
+          20.10446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Southern Gondi",
+        "Glottocode": "sout2711",
+        "ISO639P3code": "ggo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.982,
+          45.555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Croatian",
+        "Glottocode": "croa1245",
+        "ISO639P3code": "hrv"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -5.87709,
+          11.632
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Supyire Senoufo",
+        "Glottocode": "supy1237",
+        "ISO639P3code": "spp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          46.569,
+          56.22
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Western Mari",
+        "Glottocode": "west2392",
+        "ISO639P3code": "mrj"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.594,
+          -9.57135
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Huallaga Hu\u00e1nuco Quechua",
+        "Glottocode": "hual1241",
+        "ISO639P3code": "qub"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -175.25,
+          -21.17
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Tongan",
+        "Glottocode": "tong1325",
+        "ISO639P3code": "ton"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          143.572,
+          -4.71731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Yimas",
+        "Glottocode": "yima1243",
+        "ISO639P3code": "yee"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.774071,
+          20.681188
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Vietnamese",
+        "Glottocode": "viet1252",
+        "ISO639P3code": "vie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -110.305,
+          40.0965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Ute-Southern Paiute",
+        "Glottocode": "utes1238",
+        "ISO639P3code": "ute"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.003,
+          10.514
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Krongo",
+        "Glottocode": "kron1241",
+        "ISO639P3code": "kgo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.9665,
+          20.7926
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Burmese",
+        "Glottocode": "nucl1310",
+        "ISO639P3code": "mya"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -69.4955,
+          0.58157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Desano",
+        "Glottocode": "desa1247",
+        "ISO639P3code": "des"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -70.5327,
+          0.55582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Tatuyo",
+        "Glottocode": "tatu1247",
+        "ISO639P3code": "tav"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -16.1711,
+          16.82
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Ghadamsi",
+        "Glottocode": "zena1248",
+        "ISO639P3code": "zen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -69.6465,
+          0.06168
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Carapana",
+        "Glottocode": "cara1272",
+        "ISO639P3code": "cbc"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          159.701,
+          -5.49029
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Ontong Java",
+        "Glottocode": "onto1237",
+        "ISO639P3code": "ojv"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.75725,
+          -17.20849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Shona",
+        "Glottocode": "shon1251",
+        "ISO639P3code": "sna"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -56.0182,
+          2.94789
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Ndyuka-Trio Pidgin",
+        "Glottocode": "ndyu1241",
+        "ISO639P3code": "njt"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -56.0329,
+          -20.6614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Ter\u00eana",
+        "Glottocode": "tere1279",
+        "ISO639P3code": "ter"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -171.83,
+          -13.92
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Samoan",
+        "Glottocode": "samo1305",
+        "ISO639P3code": "smo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.462,
+          25.2954
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Garo",
+        "Glottocode": "garo1247",
+        "ISO639P3code": "grt"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          43.78613,
+          41.850397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Georgian",
+        "Glottocode": "nucl1302",
+        "ISO639P3code": "kat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          78.825989,
+          10.520219
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Tamil",
+        "Glottocode": "tami1289",
+        "ISO639P3code": "tam"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -171.780833,
+          -9.227642
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Tokelauan",
+        "Glottocode": "toke1240",
+        "ISO639P3code": "tkl"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -138.979,
+          -9.75663
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "South Marquesan",
+        "Glottocode": "sout2866",
+        "ISO639P3code": "mqm"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.528,
+          -9.11217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Tetun",
+        "Glottocode": "tetu1245",
+        "ISO639P3code": "tet"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.73169,
+          22.5908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Tuareg",
+        "Glottocode": "taha1241",
+        "ISO639P3code": "thv"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          166.247188,
+          -10.173335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Pileni",
+        "Glottocode": "pile1238",
+        "ISO639P3code": "piv"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          38.8762,
+          -9.75639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Mwera",
+        "Glottocode": "mwer1248",
+        "ISO639P3code": "mwe"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.78479,
+          48.545705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Slovak",
+        "Glottocode": "slov1269",
+        "ISO639P3code": "slk"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          126.507,
+          -8.65843
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Makalero",
+        "Glottocode": "maka1316",
+        "ISO639P3code": "mkz"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.6163,
+          54.2996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Kashubian",
+        "Glottocode": "kash1274",
+        "ISO639P3code": "csb"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -61.1833,
+          -11.6667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Kwaza",
+        "Glottocode": "kwaz1243",
+        "ISO639P3code": "xwa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -70.0749,
+          -0.14459
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Macuna",
+        "Glottocode": "macu1260",
+        "ISO639P3code": "myy"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.945,
+          49.796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Ukrainian",
+        "Glottocode": "ukra1253",
+        "ISO639P3code": "ukr"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -53.6971,
+          -13.296
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Wauja",
+        "Glottocode": "waur1244",
+        "ISO639P3code": "wau"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          82.4881,
+          19.0534
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Duruwa",
+        "Glottocode": "duru1236",
+        "ISO639P3code": "pci"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.0237,
+          0.31733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Siona",
+        "Glottocode": "sion1247",
+        "ISO639P3code": "snn"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.6255,
+          51.8439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Polish",
+        "Glottocode": "poli1260",
+        "ISO639P3code": "pol"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          74.8236,
+          36.2161
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Burushaski",
+        "Glottocode": "buru1296",
+        "ISO639P3code": "bsk"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.81149,
+          9.158
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Lele",
+        "Glottocode": "lele1276",
+        "ISO639P3code": "lln"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          47.8951,
+          41.5157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Lezgi",
+        "Glottocode": "lezg1247",
+        "ISO639P3code": "lez"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
