@@ -2,6 +2,12 @@ import pathlib
 
 from cldfbench import Dataset as BaseDataset, CLDFSpec
 
+NegNexType = {
+    'Complete difference from SN: lexical item' : 'Complete Difference from SN: Lexical item',
+    'Two_strategies: (1) Lexical item; (2) Lexical Item': 'Two_strategies: (1) Lexical item; (2) Lexical item',
+    'Two_strategies_TA: (1) Lexical item;  (2) SN': 'Two_strategies_TA: (1) Lexical item; (2) SN',
+}
+
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
@@ -34,7 +40,7 @@ class Dataset(BaseDataset):
             for pid in ['SN', 'NegEx_Form', 'NegExType']:
                 args.writer.objects['ValueTable'].append(dict(
                     ID='{}-{}'.format(lid, pid),
-                    Value=row[pid],
+                    Value=row[pid] if pid != 'NegExType' else NegNexType.get(row[pid], row[pid]),
                     Language_ID=lid,
                     Parameter_ID=pid,
                     Comment=row['Comment'],
