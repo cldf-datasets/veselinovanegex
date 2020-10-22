@@ -6,13 +6,14 @@
         }
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
+    "dc:source": "sources.bib",
     "dcat:accessURL": "https://github.com/cldf-datasets/veselinovanegex",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/veselinovanegex",
-            "dc:created": "5aef1e6"
+            "dc:created": "959ba29"
         },
         {
             "rdf:type": "prov:Entity",

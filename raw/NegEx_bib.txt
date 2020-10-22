@@ -1,0 +1,1846 @@
+@book{RN686,
+   author = {Abbott, Clifford},
+   title = {Oneida},
+   publisher = {LINCOM Europa},
+   address = {München},
+   year = {2000},
+   type = {Book}
+}
+
+@inbook{RN2,
+   author = {Abott, Miriam},
+   title = {Macushi},
+   booktitle = {Handbook of Amazonian Languages, v. 3},
+   editor = {Derbyshire, Desmond C. and Pullum, Geoffrey .},
+   publisher = {Mouton de Gruyter},
+   address = {Berlin},
+   volume = {3},
+   pages = {23 - 160},
+   year = {1991},
+   type = {Book Section}
+}
+
+@phdthesis{RN2616,
+   author = {Agbetsoamedo, Yvonne},
+   title = {Topics in the grammar of Selee},
+   university = {Stockholm University},
+   year = {2014},
+   type = {Thesis}
+}
+
+@book{RN2618,
+   author = {Aikhenvald, Alexandra Y.},
+   title = {Bare},
+   publisher = {LINCOM EUROPA},
+   address = {München},
+   series = {Languages of the World/Materials},
+   year = {1995},
+   type = {Book}
+}
+
+@inbook{RN2330,
+   author = {Aikhenvald, Alexandra Y.},
+   title = {Warekena},
+   booktitle = {Handbook of Amazonian Languages},
+   editor = {Derbyshire, Desmod C. and Pullum, Geoffrey K.},
+   publisher = {Mouton de Gruyter},
+   address = {Berlin},
+   volume = {IV},
+   pages = {225-440},
+   year = {1998},
+   type = {Book Section}
+}
+
+@inbook{RN2316,
+   author = {Aikhenvald, Alexandra Y.},
+   title = {Negation in Tariana: A North Arawak Perspective in Light of Areal Diffusion},
+   booktitle = {Negation in Arawak Languages},
+   editor = {Michael, Lev and Granadillo, Tania},
+   series = {Brill's Studies in the Indigenous Languages of the Americas},
+   publisher = {Brill},
+   address = {Leiden/Boston},
+   pages = {86-120},
+   year = {2014},
+   type = {Book Section}
+}
+
+@article{RN2359,
+   author = {Álvarez, José},
+   title = {El Añú o Paraujano, una lengua Arahuaca moribunda},
+   journal = {Lingüística},
+   volume = {22},
+   pages = {129-159},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@book{RN341,
+   author = {Andronov, Michail. S.},
+   title = {The Brahui Language},
+   publisher = {"Nauka" Publishing House, Central Department of Oriental Literature},
+   address = {Moscow},
+   year = {1980},
+   type = {Book}
+}
+
+@book{RN1205,
+   author = {Aoki, Haruo},
+   title = {Nez Perce Grammar},
+   publisher = {University of California Press},
+   address = {Berkeley},
+   series = {University of California Publications in Linguistics },
+   year = {1970},
+   type = {Book}
+}
+
+@book{RN1422,
+   author = {Ariste, Paul},
+   title = {A Grammar of the Votic Language},
+   publisher = {Indiana University Publications},
+   address = {Bloomington},
+   series = {Uralic and Altaic Series},
+   year = {1968},
+   type = {Book}
+}
+
+@inbook{RN2318,
+   author = {Ball, Christopher},
+   title = {Negation in Wauja Discourse},
+   booktitle = {Negation in Arawak Languages},
+   editor = {Michael, Lev and Granadillo, Tania},
+   series = {Brill's Studies in the Indigenous Languages of the Americas},
+   publisher = {Brill},
+   address = {Leiden/Boston},
+   pages = {147-168},
+   year = {2014},
+   type = {Book Section}
+}
+
+@book{RN2375,
+   author = {Barnes, Janet},
+   title = {Diccionario Bilingüe Tuyuca-Español, Español-Tuyuca.},
+   publisher = {Fundación para el Desarrollo de los Pueblos Marginados},
+   address = {Bogotá, Colombia},
+   year = {2012},
+   type = {Book}
+}
+
+@book{RN368,
+   author = {Bender, Lionel M.},
+   title = {Kunama},
+   publisher = {LINCOM Europa},
+   address = {Munich},
+   series = {LANGUAGES OF THE WORLD/Materials 59},
+   year = {1996},
+   type = {Book}
+}
+
+@book{RN2357,
+   author = {Bendor-Samuel, John},
+   title = {An outline of the grammatical and phonological structure of Terêna},
+   publisher = {D.F.: SIL},
+   address = {Brasilia},
+   year = {1961},
+   type = {Book}
+}
+
+@book{RN680,
+   author = {Berman, Ruth Aronson},
+   title = {The Structure of Modern Hebrew},
+   publisher = {University Publishing Projects, Ltd.},
+   address = {Tel Aviv},
+   year = {1978},
+   type = {Book}
+}
+
+@book{RN1361,
+   author = {Besnier, Niko},
+   title = {Tuvaluan},
+   publisher = {Routhledge},
+   address = {London},
+   year = {2000},
+   type = {Book}
+}
+
+@phdthesis{RN2117,
+   author = {Bode, Oduntan Gbolahan},
+   title = {Yoruba Clause Structure},
+   university = {University of Iowa},
+   type = {Ph.D. Thesis},
+   year = {2000},
+   type = {Thesis}
+}
+
+@phdthesis{RN2574,
+   author = {Bordal, Heidi Valentin},
+   title = {Negation of existential predications in Swedish: a corpus study},
+   university = {Stockholm University},
+   type = {M.A. Thesis},
+   year = {2017},
+   type = {Thesis}
+}
+
+@phdthesis{RN2373,
+   author = {Bostrom, Paula Kaye},
+   title = {Nominalizations and Relative Clauses in Tatuyo: A Prototype Approach.},
+   university = {University of Texas at Arlington},
+   year = {1998},
+   type = {Thesis}
+}
+
+@book{RN681,
+   author = {Bowden, John},
+   title = {Taba: description of a South Halmahera language},
+   publisher = {Pacific Linguistics, Research School of Pacific and Asian Studies},
+   address = {Canberra},
+   year = {2001},
+   type = {Book}
+}
+
+@book{RN2122,
+   author = {Bowern, Claire and Lotridge, Victoria },
+   title = {Ndebele},
+   publisher = {LINCOM EUROPA},
+   address = {München},
+   series = {Languages of the World Materials},
+   year = {2002},
+   type = {Edited Book}
+}
+
+@inbook{RN2319,
+   author = {Brandão, Ana Paula Barros},
+   title = {Standard and Non-Standard Negation in Paresi},
+   booktitle = {Negation in Arawak Languages},
+   editor = {Michael, Lev and Granadillo, Tania},
+   series = {Brill's Studies in the Indigenous Languages of the Americas},
+   publisher = {Brill},
+   address = {Leiden/Boston},
+   pages = {169-183},
+   year = {2014},
+   type = {Book Section}
+}
+
+@inbook{RN1164,
+   author = {Broschart, Jürgen},
+   title = {Negation in Tongan},
+   booktitle = {Negation in Oceanic Languages},
+   editor = {Hovdaugen, Even and Mosel, Ulrike},
+   publisher = {LINCOM Europa},
+   address = {Munich},
+   pages = {96-114},
+   year = {1999},
+   type = {Book Section}
+}
+
+@phdthesis{RN2368,
+   author = {Bruil, Martine},
+   title = {Clause-typing and evidentiality in Ecuadorian Siona},
+   university = {Univesiteit Leiden},
+   year = {2014},
+   type = {Thesis}
+}
+
+@book{RN27,
+   author = {Burling, Robbins},
+   title = {A Garo Grammar},
+   publisher = {Deccan College Postgraduate and Research Institute},
+   address = {Poona},
+   series = {Deccan College Monograph Series: 25},
+   year = {1961},
+   type = {Book}
+}
+
+@book{RN2111,
+   author = {Burrow, T. and Bhattacharya, S.},
+   title = {The Parji Language: A Dravidian Language of Bastar},
+   publisher = {Steven Austin and Sons Ltd.},
+   address = {Herford},
+   year = {1953},
+   type = {Book}
+}
+
+@article{RN1249,
+   author = {Buse, J. E},
+   title = {The Structure of Rarotongan Nominal, Negative and Conjunctival Pieces},
+   journal = {Bulletin of the School of Oriental and African Studies, University of London},
+   volume = {26},
+   number = {2},
+   pages = {393-419},
+   year = {1963},
+   type = {Journal Article}
+}
+
+@book{RN36,
+   author = {Campbell, Lyle.},
+   title = {The Pipil Language of El Salvador},
+   publisher = {Mouton Publishers},
+   address = {Berlin},
+   year = {1985},
+   type = {Book}
+}
+
+@book{RN2332,
+   author = {Captain, David and Captain, Linda},
+   title = {Diccionario Basico Ilustrado:  Wayuunaiki-Espanol; Espanol-Wayuunaiki},
+   publisher = {Edit. Fundación para el Desarrollo de los Pueblos Marginados},
+   address = {Bogotá},
+   year = {2005},
+   type = {Book}
+}
+
+@book{RN38,
+   author = {Carlson, Robert},
+   title = {A Grammar of Supyire},
+   publisher = {Mouton de Gruyter},
+   address = {Berlin},
+   year = {1994},
+   type = {Book}
+}
+
+@book{RN1270,
+   author = {Carroll, Vern},
+   title = {An Outline of the Structure of the Language of Nukuoro},
+   publisher = {The Polynesian Society},
+   address = {Wellington},
+   volume = {2, 4},
+   year = {1965},
+   type = {Book}
+}
+
+@book{RN2120,
+   author = {Carter, Hazel},
+   title = {An outline of Chitonga grammar},
+   publisher = {Bookworld Publishers},
+   address = {Lusaka, Zambia},
+   year = {2002},
+   type = {Book}
+}
+
+@book{RN1218,
+   author = {Cerrón-Palomino, Rodolfo},
+   title = {El chipaya o la lengua de los hombres del agua},
+   publisher = {Fondo Editorial del Pontìficia Universidad Católica del Perú},
+   address = {Lima},
+   year = {2006},
+   type = {Book}
+}
+
+@phdthesis{RN2362,
+   author = {Chacon, Thiago Costa},
+   title = {The phonology and morphology of kubeo: The documentation, theory, and description of an amazonian language},
+   university = {University of Hawai’i at Manoa},
+   year = {2012},
+   type = {Thesis}
+}
+
+@book{RN1217,
+   author = {Chamoreau, Claudine},
+   title = {Grammaire du purépecha},
+   publisher = {LINCOM Europa},
+   address = {Munich},
+   series = {LINCOM Studies in Native American Linguistics},
+   year = {2003},
+   type = {Book}
+}
+
+@inbook{RN1199,
+   author = {Chumbow, Beban S. and Tamanji, Pius},
+   title = {Bafut},
+   booktitle = {Typological Studies in Negation},
+   editor = {Kahrel, Peter and van den Berg, René},
+   publisher = {John Benjamins Publishing Company},
+   address = {Amsterdam},
+   pages = {211-236},
+   year = {1994},
+   type = {Book Section}
+}
+
+@book{RN456,
+   author = {Clairis, Christos},
+   title = {El Qawasqar},
+   publisher = {Faculdad de Filosofía y Humanidades},
+   address = {Valdivia, Chile},
+   year = {1985},
+   type = {Book}
+}
+
+@book{RN1170,
+   author = {Clark, Ross},
+   title = {Aspects of Proto-Polynesian Syntax},
+   publisher = {Linguistic Society of New Zealand},
+   address = {Auckland},
+   year = {1976},
+   type = {Book}
+}
+
+@inbook{RN1256,
+   author = {Clark, Ross},
+   title = {Ifira-Mele},
+   booktitle = {The Oceanic Languages},
+   editor = {Lynch, John and Ross, Malcolm and Crowley, Terry},
+   publisher = {Curzon},
+   address = {Richmond, Surrey},
+   pages = {681-693},
+   year = {2002},
+   type = {Book Section}
+}
+
+@book{RN2119,
+   author = {Cole, Desmond and Mokaila, Dingaan Mpho},
+   title = {A Course in Tswana},
+   publisher = {Georgetown University},
+   address = {Washington D. C.},
+   year = {1962},
+   type = {Book}
+}
+
+@book{RN2365,
+   author = {Cook, Dorothy M. and Criswell, Linda L.},
+   title = {El idioma koreguaje (Tucano Occidental)},
+   publisher = {Asociación Instituto Lingüístico de Verano},
+   address = {Santafé de Bogotá, Colombia},
+   year = {1993},
+   type = {Book}
+}
+
+@book{RN48,
+   author = {Craig, Colette G.},
+   title = {The structure of Jacaltec},
+   publisher = {University of Texas Press},
+   address = {Austin and London},
+   year = {1977},
+   type = {Book}
+}
+
+@inbook{RN2372,
+   author = {Criswell, Linda and Brandrup, Beverly},
+   title = {Un bosquejo fonológico y grammatical del Siriano},
+   booktitle = {Lenguas indígenas de Colombia: una visión descriptiva},
+   editor = {González de Pérez, María Stella and Rodríguez de Montes, María Luisa},
+   publisher = {Instituto Caro y Cuervo},
+   address = {Bogotá},
+   year = {2000},
+   type = {Book Section}
+}
+
+@phdthesis{RN380,
+   author = {Curnow, Timothy Jowan},
+   title = {A grammar of Awa Pit (Cuaiquer): An indigenous language of south-western Colombia},
+   university = {Australian National University},
+   type = {Ph. D. dissertation},
+   year = {1997},
+   type = {Thesis}
+}
+
+@book{RN51,
+   author = {Cyffer, Norbert},
+   title = {A Sketch of Kanuri},
+   publisher = {Rüdiger Köppe Verlag},
+   address = {Köln},
+   series = {Grammatische Analysen, Afrikanischer Sprachen: 9},
+   year = {1998},
+   type = {Book}
+}
+
+@book{RN2617,
+   author = {Dale, Desmond},
+   title = {A basic Shona-English dictionary},
+   publisher = {Mambo Press},
+   year = {1975},
+   type = {Book}
+}
+
+@book{RN53,
+   author = {Day, Christopher},
+   title = {The Jacaltec Language},
+   publisher = {Indiana University Publications},
+   year = {1973},
+   type = {Book}
+}
+
+@inbook{RN676,
+   author = {de Groot, Casper},
+   title = {Hungarian},
+   booktitle = {Typological Studies in Negation},
+   editor = {Kahrel, Peter and van der Berg, Rene},
+   publisher = {John Benjamins Publishing Company},
+   address = {Amsterdam},
+   pages = {143-162},
+   year = {1994},
+   type = {Book Section}
+}
+
+@book{RN59,
+   author = {Dench, Alan},
+   title = {Martuthunira. A Language of the Pilbara Region of Western Australia},
+   publisher = {Pacific Linguistics},
+   address = {Canberra},
+   year = {1995},
+   type = {Book}
+}
+
+@phdthesis{RN66,
+   author = {Dol, Philomena Hedwig},
+   title = {A Grammar of Maybrat},
+   university = {Grafisch Bedrijf, Universitet Leiden},
+   type = {Ph. D. Thesis},
+   year = {1999},
+   type = {Thesis}
+}
+
+@book{RN69,
+   author = {Donaldson, Tamsin},
+   title = {Ngiyambaa: The language of the Wangaaybuwan},
+   publisher = {Cambridge University Press},
+   address = {Cambridge},
+   year = {1980},
+   type = {Book}
+}
+
+@book{RN1451,
+   author = {Donner, Kai and Joki, A.J.},
+   title = {Kamassisches Wörterbuch : nebst Sprachproben und Hauptzygen der Grammatik. bearbeitet und herausgegeben Von A.J. Joki},
+   publisher = {Suomalais-ugrilainen seura},
+   address = {Helsinki},
+   series = {Lexica Societatis Fenno-Ugricae},
+   year = {1944},
+   type = {Book}
+}
+
+@book{RN70,
+   author = {Donohue, Mark},
+   title = {A Grammar of Tukang Besi},
+   publisher = {Mouton de Gruyter},
+   address = {Berlin},
+   year = {1999},
+   type = {Book}
+}
+
+@book{RN73,
+   author = {Du Feu, Veronica},
+   title = {Rapanui},
+   publisher = {Routledge},
+   address = {London},
+   series = {Descriptive Grammars},
+   year = {1996},
+   type = {Book}
+}
+
+@book{RN2349,
+   author = {Duff-Tripp, Martha},
+   title = {Gramática del idioma yanesha’ (amuesha)},
+   publisher = {Ministerio de Educación and Instituto Lingüístico de Verano},
+   address = {Lima:},
+   series = {Serie Lingüística Peruana},
+   year = {1997},
+   type = {Book}
+}
+
+@book{RN2128,
+   author = {Ebert, Karen},
+   title = {Koḍava },
+   publisher = {LINCOM EUROPA},
+   address = {München},
+   year = {1996},
+   type = {Book}
+}
+
+@book{RN2358,
+   author = {Ekdahl, Elizabeth Muriel and Butler, Nancy Evelyn},
+   title = {Aprenda Terena},
+   publisher = {Summer Institute of Linguistics},
+   address = {Brasilia},
+   volume = {1},
+   year = {1979},
+   type = {Book}
+}
+
+@book{RN1235,
+   author = {Elbert, Samuel H.},
+   title = {Grammar and comparative study of the language of Kapingamarangi. Texts and word lists},
+   publisher = {Pacific Science Board, National Research Council},
+   address = {Washington},
+   series = {Coordinated Investigation of Micronesian Anthropology (1947-1949), CIMA report 3},
+   year = {1948},
+   type = {Book}
+}
+
+@book{RN1240,
+   author = {Elbert, Samuel H. and Monberg, Torben},
+   title = {From the two Canoes: Oral Traditions of Rennell and Bellona Islands},
+   publisher = {Danish National Museum in Cooperation with the University of Hawaii Press},
+   address = {Honolulu/Copenhagen},
+   volume = {1},
+   year = {1965},
+   type = {Book}
+}
+
+@book{RN641,
+   author = {Elbert, Samuel H. and Pukui, Mary Kawena},
+   title = {Hawaiian Grammar},
+   publisher = {University of Hawai'i Press},
+   address = {Honolulu},
+   year = {1979},
+   type = {Book}
+}
+
+@book{RN2036,
+   author = {England, Nora C.},
+   title = {A Grammar of Mam, a Mayan Language},
+   publisher = {University of Texas Press},
+   address = {Austin},
+   year = {1983},
+   type = {Book}
+}
+
+@book{RN81,
+   author = {Evans, Nicholas D.},
+   title = {A Grammar of Kayardild},
+   publisher = {Mouton de Gruyter},
+   address = {Berlin},
+   year = {1995},
+   type = {Book}
+}
+
+@inbook{RN2317,
+   author = {Facundes, Sidi},
+   title = {Negation in Apurinã (Arawak)},
+   booktitle = {Negation in Arawak Languages},
+   editor = {Michael, Lev and Granadillo, Tania},
+   series = {Brill's Studies in the Indigenous Languages of the Americas},
+   publisher = {Brill},
+   address = {Leiden/Boston},
+   pages = {121-146},
+   year = {2014},
+   type = {Book Section}
+}
+
+@book{RN88,
+   author = {Foley, William A.},
+   title = {The Yimas Language of New Guinea},
+   publisher = {Stanford University Press},
+   address = {Stanford, California},
+   year = {1991},
+   type = {Book}
+}
+
+@book{RN89,
+   author = {Fortescue, Michael},
+   title = {West Greenlandic},
+   publisher = {Croom Helm},
+   address = {London},
+   series = {Croom Helm Descriptive Grammars},
+   year = {1984},
+   type = {Book}
+}
+
+@book{RN642,
+   author = {Frajzyngier, Zygmunt},
+   title = {A Grammar of Lele},
+   publisher = {CSLI Publications: Center for the Study of Language and Information},
+   address = {Standford, CA},
+   series = {Stanford Monographs in African Languages},
+   year = {2001},
+   type = {Book}
+}
+
+@book{RN93,
+   author = {Frank, Paul},
+   title = {Ika Syntax},
+   publisher = {The Summer Institute of Linguistics and University of Texas at Arlington},
+   series = {Studies in the Languages of Colombia},
+   year = {1990},
+   type = {Book}
+}
+
+@book{RN691,
+   author = {Franklin, Karl J. and Franklin, Joice},
+   title = {A Kewa Dictionary with Supplementary Grammatical and Anthropological Materials},
+   publisher = {The Australian National University: Research School of Pacific Studies},
+   address = {Canberra},
+   series = {Pacific Linguistics Series C No. 53},
+   year = {1978},
+   type = {Book}
+}
+
+@book{RN2104,
+   author = {George, K. M.},
+   title = {Malayalam Grammar and Reader},
+   publisher = {St. Joseph's Press Trivandrum-14},
+   address = {Trivandrum},
+   year = {1971},
+   type = {Book}
+}
+
+@book{RN95,
+   author = {Givón, T. and Southern Ute Tribe},
+   title = {Ute Reference Grammar},
+   publisher = {Ute Press},
+   address = {Ignacio, Colorado},
+   year = {1980},
+   type = {Book}
+}
+
+@book{RN458,
+   author = {Gordon, Lynn},
+   title = {Maricopa Morphology and Syntax},
+   publisher = {University of California Press},
+   address = {Berkeley},
+   series = {University of California Publications in Linguistics 108},
+   year = {1986},
+   type = {Book}
+}
+
+@inbook{RN2315,
+   author = {Granadillo, Tania},
+   title = {On Negation in Kurripak Ehe-Khenim },
+   booktitle = {Negation in Arawak Languages},
+   editor = {Michael, Lev and Granadillo, Tania},
+   series = {Brill's Studies in the Indigenous Languages of the Americas},
+   publisher = {Brill},
+   address = {Leiden/Boston},
+   pages = {74-85},
+   year = {2014},
+   type = {Book Section}
+}
+
+@phdthesis{RN2164,
+   author = {Gualdieri, Cecilia Beatriz},
+   title = {Mocovi (Guaicuru): Fonologia e morfossintaxe},
+   university = {Universidade Estadual de Campinas},
+   type = {Ph.D.},
+   year = {1998},
+   type = {Thesis}
+}
+
+@book{RN104,
+   author = {Guasch, Antonio, S. I.},
+   title = {El Idioma Guaraní},
+   publisher = {Cepag},
+   address = {Asunción},
+   year = {1996},
+   type = {Book}
+}
+
+@phdthesis{RN1231,
+   author = {Hamari, Arja},
+   title = {The negation of stative relation clauses in the Mordvin languages},
+   university = {University of Turku},
+   type = {Ph.D.},
+   year = {2007},
+   type = {Thesis}
+}
+
+@phdthesis{RN2334,
+   author = {Hanson, Rebecca},
+   title = {A grammar of Yine (Piro)},
+   university = {La Trobe University},
+   type = {Ph.D.},
+   year = {2010},
+   type = {Thesis}
+}
+
+@book{RN1348,
+   author = {Harlow, Ray},
+   title = {Māori: A Linguistic Introduction},
+   publisher = {Cambridge University Press},
+   address = {Cambridge},
+   year = {2007},
+   type = {Book}
+}
+
+@book{RN1209,
+   author = {Harries, Lyndon},
+   title = {A Grammar of Mwera},
+   publisher = {Witwaterstrand University Press},
+   address = {Johannesburg},
+   year = {1950},
+   type = {Book}
+}
+
+@book{RN1204,
+   author = {Harris, Alice C.},
+   title = {Georgian Syntax: A Study in Relational Grammar},
+   publisher = {Cambridge University Press},
+   address = {Cambridge},
+   year = {1981},
+   type = {Book}
+}
+
+@inbook{RN673,
+   author = {Hartzler, Margaret},
+   title = {Sentani},
+   booktitle = {Typological Studies in Negation},
+   editor = {Kahrel, Peter and van den Berg, René},
+   series = {Typological Studies in Language},
+   publisher = {John Benjamins Publishing Company},
+   address = {Amsterdam},
+   pages = {51-64},
+   year = {1994},
+   type = {Book Section}
+}
+
+@book{RN112,
+   author = {Haspelmath, Martin},
+   title = {A Grammar of Lezgian},
+   publisher = {Mouton de Gruyter},
+   address = {Berlin},
+   year = {1993},
+   type = {Book}
+}
+
+@book{RN113,
+   author = {Heath, Jeffrey},
+   title = {Basic Materials in Mara: Grammar, Texts and Dictionary},
+   publisher = {The Australian National University: Research School of Pacific Studies},
+   address = {Canberra},
+   year = {1981},
+   type = {Book}
+}
+
+@book{RN114,
+   author = {Heath, Jeffrey},
+   title = {A Grammar of Koyra Chiini.  The Songhay of Timbuktu},
+   publisher = {Mouton de Gruyter},
+   address = {Berlin},
+   year = {1999},
+   type = {Book}
+}
+
+@book{RN596,
+   author = {Herrity, Peter},
+   title = {Slovene: A Comprehensive Grammar},
+   publisher = {Routhledge},
+   address = {London},
+   year = {2000},
+   type = {Book}
+}
+
+@book{RN654,
+   author = {Hualde, José Ignacio and de Urbina, Jon Ortiz},
+   title = {A Grammar of Basque},
+   publisher = {Mouton de Gruyter},
+   address = {Berlin},
+   year = {2003},
+   type = {Book}
+}
+
+@book{RN2096,
+   author = {Huber, Juliette},
+   title = {A Grammar of Makalero, A Papuan language from East Timor},
+   publisher = {LOT},
+   address = {Utrecht},
+   year = {2011},
+   type = {Book}
+}
+
+@book{RN132,
+   author = {Huttar, George L. and Huttar, Mary L.},
+   title = {Ndyuka},
+   publisher = {Routledge},
+   address = {London},
+   series = {Descriptive Grammars},
+   year = {1994},
+   type = {Book}
+}
+
+@book{RN2110,
+   author = {Israel, Motchakon},
+   title = {A Grammar of the Kuvi Language, with texts and vocabulary},
+   publisher = {Dravidian Linguistics Association},
+   address = {Trivandrum},
+   year = {1979},
+   type = {Book}
+}
+
+@book{RN136,
+   author = {Jacobson, Steven A. and Jacobson, Anna W.},
+   title = {A Practical Grammar of the Central Alaskan  Yup'ik Eskimo Language.},
+   publisher = {Alaska Native Language Center and Program, University of Alaska Fairbanks.},
+   address = {Fairbanks},
+   year = {1995},
+   type = {Book}
+}
+
+@book{RN2367,
+   author = {Johnson, Orville E. and Levinsohn, Stephen H.},
+   title = {Gramática Secoya},
+   publisher = {Instituto Lingüístico de Verano},
+   address = {Quito, Ecuador},
+   series = {Cuadernos Etnolingüísticos 11},
+   year = {1990},
+   type = {Book}
+}
+
+@book{RN2548,
+   author = {Jones, Wendell and Jones, Paula},
+   title = {Diccionario bilingüe. Eduria & Barasana-Español. Español-Eduria & Barasana},
+   publisher = {Editorial Fundación para el Desarrollo de los Pueblos Marginados},
+   address = {Bogotá},
+   year = {2009},
+   type = {Book}
+}
+
+@book{RN2105,
+   author = {Kapp, Dieter B.},
+   title = {Ālu-Kuṟumbaru Nāyan: Die Sprache der Ālu-Kuṟumbas: Grammatik, Texte, Wörterbuch },
+   publisher = {Otto Harrasowitz},
+   address = {Wiesbaden},
+   series = {Neuindische Studien},
+   year = {1982},
+   type = {Book}
+}
+
+@phdthesis{RN2118,
+   author = {Kawasha, Boniface Kaumba},
+   title = {Lunda grammar: a morphosyntactic and semantic analysis},
+   university = {University of Eugene},
+   year = {2003},
+   type = {Thesis}
+}
+
+@phdthesis{RN2256,
+   author = {Kimball, Geoffrey D.},
+   title = {A Descriptive Grammar of Koasati},
+   university = {Tulane University},
+   type = {Ph. D.},
+   year = {1985},
+   type = {Thesis}
+}
+
+@inbook{RN2127,
+   author = {Korhonen, Mikko},
+   title = {The Lapp Language},
+   booktitle = {The Uralic Languages. Description, History and Foreign Influences},
+   editor = {Sinor, Denis},
+   address = {Leiden / New York / Købemhavn / Köln},
+   pages = {41-57},
+   year = {1988},
+   type = {Book Section}
+}
+
+@book{RN2108,
+   author = {Krishnamurti, Bhadriraju},
+   title = {Koṇḍa or Kūbi: a Dravidian language (Texts, grammar, and vocabulary)},
+   publisher = {Tribal Cultural Research and Tranining Institute, Government of Andhra Pradesh},
+   address = {Hyderabad},
+   year = {1969},
+   type = {Book}
+}
+
+@book{RN2106,
+   author = {Krishnamurti, Bhadriraju and Gwynn, J. P. L.},
+   title = {A Grammar of Modern Telugu},
+   publisher = {Oxford University Press},
+   address = {Oxford},
+   year = {1985},
+   type = {Book}
+}
+
+@article{RN1247,
+   author = {Krupa, Viktor},
+   title = {Syntax of Verbal Nouns in Marquesan},
+   journal = {Oceanic Linguistics},
+   volume = {44},
+   number = {2},
+   pages = {505-516},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@misc{RN2619,
+   number = {2018-11-30},
+   year = {2012},
+   type = {Web Page}
+}
+
+@book{RN376,
+   author = {Lastra, Yolandra},
+   title = {Ixtenco Otomí},
+   publisher = {LINCOM Europa},
+   address = {Munich},
+   series = {Languages of the World/Materials 19},
+   year = {1998},
+   type = {Book}
+}
+
+@book{RN2356,
+   author = {Launey, Michel},
+   title = {Awna Parikwaki: Introduction à la langue Palikur de Guyane et de l’Amapá},
+   publisher = {IRD},
+   address = {Paris},
+   year = {2003},
+   type = {Book}
+}
+
+@inbook{RN1172,
+   author = {Lazard, Gilbert and Peltzer, Louise},
+   title = {La négation en tahitien},
+   booktitle = {Negation in Oceanic Languages},
+   editor = {Hovdaugen, Even and Mosel, Ulrike},
+   publisher = {LINCOM Europa},
+   address = {Munich},
+   pages = {141-162},
+   year = {1999},
+   type = {Book Section}
+}
+
+@book{RN2103,
+   author = {Lehmann, Thomas},
+   title = {A Grammar of Modern Tamil},
+   publisher = {Pondicherry Institute of Linguistics and Culture},
+   address = {Pondicherry},
+   year = {1993},
+   type = {Book}
+}
+
+@inbook{RN1027,
+   author = {Leitch, Myles},
+   title = {Babole},
+   booktitle = {Typological Studies in Negaion},
+   editor = {Kahrel, Peter and van den Berg, René},
+   publisher = {John Benjamins Publishing Company},
+   address = {Amsterdam},
+   pages = {190-210},
+   year = {1994},
+   type = {Book Section}
+}
+
+@inbook{RN1219,
+   author = {Leitch, Myles},
+   title = {Babole},
+   booktitle = {The Bantu Languages},
+   editor = {Nurse, Derek and Philippson, Gérard},
+   publisher = {Routhledge},
+   address = {London},
+   pages = {392-421},
+   year = {2003},
+   type = {Book Section}
+}
+
+@phdthesis{RN2107,
+   author = {Lincoln, Neville John},
+   title = {A Desriptive Analysis of the Adilabad Dialect of Gondi},
+   university = {Cornell University},
+   year = {1969},
+   type = {Thesis}
+}
+
+@book{RN169,
+   author = {Lorimer, Lt. Col. D. L.},
+   title = {The Burushaski Language},
+   publisher = {Institutet for Sammenlignende Kulturforskning},
+   address = {Oslo},
+   series = {Serie B: Skrifter XXIX},
+   year = {1935},
+   type = {Book}
+}
+
+@book{RN690,
+   author = {Lyth, R. E.},
+   title = {A Murle Grammar},
+   publisher = {University of Khartoum, Sudan Research Unit, Faculty of Arts},
+   address = {Khartoum},
+   series = {Linguistic Monograph Papers No. 7},
+   year = {1971},
+   type = {Book}
+}
+
+@book{RN174,
+   author = {Macaulay, Monica.},
+   title = {A grammar of Chalcatongo Mixtec},
+   publisher = {University of California Press},
+   address = {Berkeley},
+   year = {1996},
+   type = {Book}
+}
+
+@phdthesis{RN2125,
+   author = {Mahdi, Qasim},
+   title = {The Spoken Arabic of Baṣra, Iraq. A Descriptive Study of Phonology, Morphology and Syntax},
+   university = {University of Exeter},
+   type = {Ph.D. thesis},
+   year = {1985},
+   type = {Thesis}
+}
+
+@book{RN590,
+   author = {Mahootian, Shahrzad},
+   title = {Persian},
+   publisher = {Routhledge},
+   address = {London},
+   year = {1997},
+   type = {Book}
+}
+
+@inbook{RN1158,
+   author = {Margetts, Anna},
+   title = {Negation in Saliba},
+   booktitle = {Negation in Oceanic Languages},
+   editor = {Hovdaugen, Even and Mosel, Ulrike},
+   publisher = {LINCOM Europa},
+   address = {Munich},
+   pages = {20-44},
+   year = {1999},
+   type = {Book Section}
+}
+
+@inbook{RN2135,
+   author = {Mettouchi, Amina},
+   title = {The System of Negation in Berber},
+   booktitle = {Negation Patterns in West African Languages and beyond},
+   editor = {Cyffer, Norbert and Ebermann, Erwin and Ziegelmeyer, Georg},
+   publisher = {John Benjamins},
+   address = {Amsterdam/New York},
+   pages = {287-306},
+   year = {2009},
+   type = {Book Section}
+}
+
+@book{RN2361,
+   author = {Metzger, Ronald G.},
+   title = {Gramática Popular del Carapana},
+   publisher = {Instituto Linguistico de Verano},
+   address = {Bogotá, Colombia},
+   year = {1981},
+   type = {Book}
+}
+
+@inbook{RN2320,
+   author = {Michael, Lev},
+   title = {Negation in Nanti},
+   booktitle = {Negation in Arawak Languages},
+   editor = {Michael, Lev and Granadillo, Tania},
+   series = {Brill's Studies in the Indigenous Languages of the Americas},
+   publisher = {Brill},
+   address = {Leiden/Boston},
+   pages = {184-215},
+   year = {2014},
+   type = {Book Section}
+}
+
+@inbook{RN2322,
+   author = {Michael, Lev},
+   title = {A Typological and Comparative Perspective on Negation in Arawak Languages},
+   booktitle = {Negation in Arawak Languages},
+   editor = {Michael, Lev and Granadillo, Tania},
+   series = {Brill's Studies in the Indigenous Languages of the Americas},
+   publisher = {Brill},
+   address = {Leiden/Boston},
+   pages = {241-300},
+   year = {2014},
+   type = {Book Section}
+}
+
+@phdthesis{RN671,
+   author = {Miestamo, Matti},
+   title = {Clausal Negation: A Typological Study},
+   university = {University of Helsinki},
+   type = {Ph.D. A revised version of this work was published by Mouton de Gruyter /Berlin},
+   year = {2003},
+   type = {Thesis}
+}
+
+@inbook{RN2097,
+   author = {Miestamo, Matti and Koponen, Eino},
+   title = {Negation in Skolt Saami},
+   booktitle = {Negation in Uralic Languages},
+   editor = {Miestamo, Matti and Wagner-Nagy, Beáta and Tamm, Anne},
+   year = {Forthcoming},
+   type = {Book Section}
+}
+
+@book{RN2182,
+   author = {Morrison, W. M.},
+   title = {Grammar and dictonary of the Bulua-Lulua language as spoken in the Upper Kasai and Congo basin},
+   publisher = {American Tract Society},
+   address = {New York},
+   year = {1906},
+   type = {Book}
+}
+
+@book{RN1216,
+   author = {Mortensen, Charles Arthur},
+   title = {A Reference Grammar of Northern Embera Languages},
+   publisher = {SIL International and University of Texas at Arlington},
+   address = {Arlington, TX},
+   series = {Studies in the Languages of Colombia},
+   year = {1999},
+   type = {Book}
+}
+
+@book{RN204,
+   author = {Mosel, Ulrike and Hovhaugen, Even},
+   title = {A Reference Grammar of Samoan},
+   publisher = {Scandinavian University Press, The Institute for Comparative Research Human Culture.},
+   year = {1994},
+   type = {Book}
+}
+
+@inbook{RN1972,
+   author = {Mosel, Ulrike and Spriggs, Ruth Saovanna},
+   title = {Negation in Teop (Bougainville, North Solomon Islands)},
+   booktitle = {Negation in Oceanic languages},
+   editor = {Hovdaugen, Even and Mosel, Ulrike},
+   publisher = {LINCOM EUROPA},
+   address = {München},
+   pages = {45-56},
+   year = {1999},
+   type = {Book Section}
+}
+
+@phdthesis{RN2333,
+   author = {Mosonyi, Jorge C.},
+   title = {El idioma yavitero: ensayo de gramática y diccionario},
+   university = {Universidad Central de Venezuela},
+   type = {Ph.D.},
+   year = {1987},
+   type = {Thesis}
+}
+
+@inbook{RN1169,
+   author = {Moyse-Faurie, Claire},
+   title = {Negation in East Futunan},
+   booktitle = {Negation in Oceanic Languages},
+   editor = {Hovdaugen, Even and Mosel, Ulrike},
+   publisher = {LINCOM Europa},
+   address = {Munich},
+   pages = {115-131},
+   year = {1999},
+   type = {Book Section}
+}
+
+@inbook{RN1161,
+   author = {Moyse-Faurie, Claire and Ozanne-Rivierre, Françoise},
+   title = {Negation in New Caledonia and Loyalty Islands Languages},
+   booktitle = {Negation in Oceanic Languages},
+   editor = {Hovdaugen, Even and Mosel, Ulrike},
+   publisher = {LINCOM Europa},
+   address = {Munich},
+   pages = {57-79},
+   year = {1999},
+   type = {Book Section}
+}
+
+@inbook{RN2314,
+   author = {Munro, Pamela and Gallagher, Caitlin E.},
+   title = {Garifuna Negatives},
+   booktitle = {Negation in Arawak Languages},
+   editor = {Michael, Lev and Granadillo, Tania},
+   series = {Brill's Studies in the Indigenous Languages of the Americas},
+   publisher = {Brill},
+   address = {Leiden/Boston},
+   pages = {13-53},
+   year = {2014},
+   type = {Book Section}
+}
+
+@book{RN1253,
+   author = {Næss, Åshild},
+   title = {Pileni},
+   publisher = {Lincom Europa},
+   address = {München},
+   year = {2000},
+   type = {Book}
+}
+
+@inbook{RN670,
+   author = {Nedjalkov, Igor},
+   title = {Evenki},
+   booktitle = {Typological Studies in Negation},
+   editor = {Kahrel, Peter and van den Berg, René},
+   series = {Typological Studies in Language},
+   publisher = {John Benjamins Publishing Company},
+   address = {Amsterdam},
+   pages = {1-34},
+   year = {1994},
+   type = {Book Section}
+}
+
+@book{RN210,
+   author = {Nedjalkov, Igor},
+   title = {Evenki},
+   publisher = {Routledge},
+   address = {London},
+   series = {Descriptive Grammars},
+   year = {1997},
+   type = {Book}
+}
+
+@book{RN384,
+   author = {Newman, Paul},
+   title = {The Hausa language: an encyclopedic reference grammar},
+   publisher = {Yale University Press},
+   address = {New Haven},
+   ISBN = {0-300-08189-8},
+   year = {2000},
+   type = {Book}
+}
+
+@book{RN220,
+   author = {Okell, John},
+   title = {Burmese: An Introduction to the Spoken Language},
+   publisher = {Northern Illinois University, Center for Southeast Asian Studies},
+   address = {n.p.},
+   volume = {1},
+   series = {Southeast Asian Language Text Series},
+   year = {1994},
+   type = {Book}
+}
+
+@book{RN223,
+   author = {Osada, Toshiki},
+   title = {A Reference Grammar of Mundari},
+   publisher = {Institute for he Study of Languages and Cultures of Asia and Africa},
+   address = {Tokyo},
+   year = {1992},
+   type = {Book}
+}
+
+@book{RN2355,
+   author = {Parker, Steven G.},
+   title = {Datos de la lengua iñapari},
+   publisher = {Ministerio de Educación and Instituto Lingüístico de Verano},
+   address = {Yarinacocha:},
+   series = {Documento de Trabajo 27},
+   year = {1995},
+   type = {Book}
+}
+
+@inbook{RN2313,
+   author = {Patte, Marie-France},
+   title = {Negation in Guianese Lokono/Arawak},
+   booktitle = {Negation in Arawak Languages},
+   editor = {Michael, Lev and Granadillo, Tania},
+   series = {Brill's Studies in the Indigenous Languages of the Americas},
+   publisher = {Brill},
+   address = {Leiden/Boston},
+   pages = {54-73},
+   year = {2014},
+   type = {Book Section}
+}
+
+@book{RN692,
+   author = {Penchoen, Thomas G.},
+   title = {Tamazight of the Ayt Ndhir},
+   publisher = {Undena Publications},
+   address = {Los Angeles},
+   year = {1973},
+   type = {Book}
+}
+
+@book{RN2091,
+   author = {Pitkin, Harvey},
+   title = {Wintu Grammar},
+   publisher = {University of California Press},
+   address = {Berkeley/Los Angeles/London},
+   series = {University of California Publications in Linguistics},
+   year = {1984},
+   type = {Book}
+}
+
+@book{RN1272,
+   author = {Polinskaja, Maria},
+   title = {Jazyk Niue},
+   publisher = {Izdatel'skaja firma "Vostochnaja literatura" RAN},
+   address = {Moskva},
+   year = {1995},
+   type = {Book}
+}
+
+@inbook{RN238,
+   author = {Popjes, Jack and Popjes, Jo},
+   title = {Canela-Kraho},
+   booktitle = {Handbook of Amazonian Languages 1},
+   editor = {Derbyshire, Desmod C. and Pullum, Geoffrey},
+   publisher = {Mouton de Gruyter},
+   address = {Berlin},
+   pages = {128-199},
+   year = {1986},
+   type = {Book Section}
+}
+
+@book{RN597,
+   author = {Pugh, Stefan M. and Press, Ian},
+   title = {Ukrainian},
+   publisher = {Routhledge},
+   address = {London},
+   year = {1999},
+   type = {Book}
+}
+
+@book{RN2377,
+   author = {Ramirez, Henri},
+   title = {A Fala Tukano dos Ye’pâ-Masa},
+   publisher = {Inspetoria Salesiana Missionária da Amazônia, CEDEM},
+   address = {Manaus},
+   year = {1997},
+   type = {Book}
+}
+
+@book{RN245,
+   author = {Reesink, Ger P.},
+   title = {Structures and their functions in Usan. A Papuan Language of Papua New Guinea},
+   publisher = {John Benjamins Publishing Company},
+   address = {Amsterdam},
+   year = {1987},
+   type = {Book}
+}
+
+@book{RN467,
+   author = {Reh, Mechthild},
+   title = {Die Krongo-Sprache},
+   publisher = {Dietrich Reimer Verlag},
+   address = {Berlin},
+   year = {1985},
+   type = {Book}
+}
+
+@book{RN2047,
+   author = {Rensch, Karl},
+   title = {Te lea faka'uvea. Introduction à la langue de Wallis},
+   publisher = {Archipelago Press},
+   address = {Canberra},
+   year = {1982},
+   type = {Book}
+}
+
+@inbook{RN2321,
+   author = {Rose, Françoise},
+   title = {Negation and Irrealis in Mojeño Trinitario},
+   booktitle = {Negation in Arawak Languages},
+   editor = {Michael, Lev and Granadillo, Tania},
+   series = {Brill's Studies in the Indigenous Languages of the Americas},
+   publisher = {Brill},
+   address = {Leiden/Boston},
+   year = {2014},
+   type = {Book Section}
+}
+
+@inbook{RN1080,
+   author = {Rothstein, Robert A.},
+   title = {Polish},
+   booktitle = {The Slavonic Languages},
+   editor = {Comrie, Bernard and Corbett, Greville G.},
+   publisher = {Routhledge},
+   address = {London},
+   pages = {686-785},
+   year = {1993},
+   type = {Book Section}
+}
+
+@book{RN254,
+   author = {Rupp, James E.},
+   title = {Lealao Chinantec Syntax},
+   publisher = {The Summer Institute of Linguistics and University of Texas at Arlington},
+   address = {n.p.},
+   year = {1989},
+   type = {Book}
+}
+
+@book{RN2550,
+   author = {Rupp, James E. and Rupp, Nadine},
+   title = {Diccionario chinanteco de San Juan Lealao Oaxaca},
+   publisher = {Instituto Lingüístico de Verano},
+   address = {Tuscon},
+   series = {Serie de vocabularios y diccionarios indígenas ”Mariano Silva y Aceves"},
+   year = {1996},
+   type = {Book}
+}
+
+@inbook{RN1019,
+   author = {Sandonato, Marie},
+   title = {Zazaki},
+   booktitle = {Typological Studies in Negation},
+   editor = {Kahrel, Peter and van den Berg, René},
+   publisher = {John Benjamins Publishing Company},
+   address = {Amsterdam},
+   pages = {125-142},
+   year = {1994},
+   type = {Book Section}
+}
+
+@book{RN259,
+   author = {Sapir, J. David},
+   title = {A Grammar of Diola-Fogny},
+   publisher = {Cambridge University Press},
+   address = {Cambridge},
+   volume = {3},
+   series = {West African Language Monographs},
+   year = {1965},
+   type = {Book}
+}
+
+@book{RN262,
+   author = {Schachter, Paul.},
+   title = {Tagalog Reference Grammar},
+   publisher = {University of California Press},
+   address = {Berkeley},
+   year = {1972},
+   type = {Book}
+}
+
+@inbook{RN2350,
+   author = {Schauer, Stanley and Schauer, Junia},
+   title = {El Yucuna},
+   booktitle = {Lenguas indígenas de Colombia: una visión descriptiva},
+   editor = {González de Pérez, María Stella  and Rodríguez de Montes, María Luisa},
+   publisher = {Instituto Caro y Cuervo},
+   address = {Santafé de Bogotá},
+   year = {2000},
+   type = {Book Section}
+}
+
+@inbook{RN1086,
+   author = {Short, David},
+   title = {Slovak},
+   booktitle = {The Slavonic Languages},
+   editor = {Comrie, Bernard and Corbett, Greville G.},
+   publisher = {Routhledge},
+   address = {London},
+   pages = {533-592},
+   year = {1993},
+   type = {Book Section}
+}
+
+@phdthesis{RN2363,
+   author = {Silva, Wilson de Lima},
+   title = {A descriptive grammar of Desano},
+   university = {University of Utah},
+   year = {2012},
+   type = {Thesis}
+}
+
+@inbook{RN1413,
+   author = {Simoncsics, Péter},
+   title = {Kamassian},
+   booktitle = {The Uralic Languages},
+   editor = {Abondolo, Daniel},
+   publisher = {Routhledge},
+   address = {London},
+   pages = {580-601},
+   year = {1998},
+   type = {Book Section}
+}
+
+@book{RN2366,
+   author = {Smothermon, Jeffrey R. and Smothermon, Josephine H. and Frank, Paul S.},
+   title = {Bosquejo del Macuna: Aspectos de la cultura material de los macunas, fonología, gramática},
+   publisher = {Associación Instituto Lingüístico de Verano},
+   address = {Santafé de Bogotá, Colombia},
+   year = {1995},
+   type = {Book}
+}
+
+@book{RN273,
+   author = {Sneddon, James Neil},
+   title = {Indonesian: A Comprehensive Grammar},
+   publisher = {Routledge},
+   address = {London},
+   series = {Routledge Grammars},
+   year = {1996},
+   type = {Book}
+}
+
+@book{RN664,
+   author = {Snyman, J. W.},
+   title = {An Introduction to the !Kung Language},
+   publisher = {A. A. Balkema},
+   address = {Cape Town},
+   year = {1970},
+   type = {Book}
+}
+
+@book{RN274,
+   author = {Sohn, Ho-min},
+   title = {Korean},
+   publisher = {Routledge},
+   address = {London},
+   year = {1994},
+   type = {Book}
+}
+
+@book{RN277,
+   author = {Sridhar, S. N.},
+   title = {Kannada},
+   publisher = {Routledge},
+   address = {London},
+   series = {Croom Helm descriptive grammars},
+   year = {1990},
+   type = {Book}
+}
+
+@book{RN2364,
+   author = {Stenzel, Kristine},
+   title = {A Reference Grammar of Kotiria (Wanano).},
+   publisher = {University of Nebraska Press},
+   address = {Lincoln NE/London},
+   year = {2013},
+   type = {Book}
+}
+
+@book{RN280,
+   author = {Stevenson, R.G.},
+   title = {Bagirmi Grammar},
+   publisher = {Faculty of Arts, University of Khartum},
+   address = {Khartum},
+   volume = {3},
+   series = {Linguistic Monograph Series},
+   year = {1969},
+   type = {Book}
+}
+
+@inbook{RN1087,
+   author = {Stone, Gerald},
+   title = {Sorbian (Upper and Lower)},
+   booktitle = {The Slavonic Languages},
+   editor = {Comrie, Bernard and Corbett, Greville G.},
+   publisher = {Routhledge},
+   address = {London},
+   pages = {593-685},
+   year = {1993},
+   type = {Book Section}
+}
+
+@book{RN2374,
+   author = {Strom, Clay},
+   title = {Retuarã Syntax},
+   publisher = {The Summer Institute of Linguistics and the University of Texas at Arlington},
+   address = {Arlington, TX},
+   series = {Studies in the Indigenous Languages of Colombia},
+   year = {1992},
+   type = {Book}
+}
+
+@book{RN283,
+   author = {Stroomer, Harry},
+   title = {A Grammar of Boraana Oromo (Kenya)},
+   publisher = {Rüdiger Köppe Verlag},
+   address = {Köln},
+   year = {1995},
+   type = {Book}
+}
+
+@book{RN1202,
+   author = {Suttles, Wayne},
+   title = {Musqueam Reference Grammar},
+   publisher = {UBC Press},
+   address = {Vancouver, Toronto},
+   year = {2004},
+   type = {Book}
+}
+
+@book{RN294,
+   author = {Thompson, Laurence C.},
+   title = {A Vietnamese Grammar},
+   publisher = {University of Washington},
+   address = {Seattle},
+   year = {1965},
+   type = {Book}
+}
+
+@book{RN2042,
+   author = {Tregear, Edward},
+   title = {A Dictionary of Mangareva (or Gambier Islands)},
+   publisher = {Published under the authority of the Board of Directors of the New Zealand Institute},
+   year = {1899},
+   type = {Book}
+}
+
+@book{RN2113,
+   author = {Trivedi, Govind Mohan},
+   title = {Linguistic Study of the Chenchus of Andhra Pradesh},
+   publisher = {Anthropological Survery of India, Government of India},
+   address = {Calcutta},
+   year = {1978},
+   type = {Book}
+}
+
+@book{RN1424,
+   author = {Tuldava, Juhan},
+   title = {Estonian: Textbook, Grammar, Exercises, Conversation},
+   publisher = {Indiana University, Research Institute for Inner Asian Studies},
+   address = {Bloomington},
+   year = {1994},
+   type = {Book}
+}
+
+@book{RN2109,
+   author = {Tyler, Stephen B.},
+   title = {Koya: An Outline Grammar},
+   publisher = {University of California Press},
+   address = {Berkeley and Los Angeles},
+   series = {University of California Publications in Linguistics},
+   year = {1969},
+   type = {Book}
+}
+
+@book{RN2093,
+   author = {Valentine, J. Randolph},
+   title = {Nishnaabemwin Reference Grammar},
+   publisher = {University of Toronto Press},
+   address = {Toronto Buffalo London},
+   year = {2001},
+   type = {Book}
+}
+
+@book{RN307,
+   author = {Vall, M. N. and Kanakin, I. A.},
+   title = {Ocherk fonologii i grammatiki ketskogo jazyka},
+   publisher = {Nauka, Sibirskoe otdelenie},
+   address = {Novosibirsk},
+   year = {1990},
+   type = {Book}
+}
+
+@book{RN1198,
+   author = {van der Voort, Hein},
+   title = {A Grammar of Kwaza},
+   publisher = {Mouton de Gruyter},
+   address = {Berlin},
+   year = {2004},
+   type = {Book}
+}
+
+@book{RN1211,
+   author = {van Klinken, Catharina Lumien},
+   title = {A Grammar of the Fehan dialect of Tehun},
+   publisher = {Pacific Linguistics},
+   address = {Canberra},
+   year = {1999},
+   type = {Book}
+}
+
+@book{RN1415,
+   author = {Vasikova, L. P.},
+   title = {Sopostovitel'naja grammatika russkogo i marijskix jazykov},
+   publisher = {Marijskoe Knizhnoe Izdatel'stvo},
+   address = {Jokshar-Ola},
+   year = {1990},
+   type = {Book}
+}
+
+@inbook{RN1171,
+   author = {Vonen, Arnfinn Muruvik},
+   title = {Negation in Tokelauan},
+   booktitle = {Negation in Oceanic Languages},
+   editor = {Hovdaugen, Even and Mosel, Ulrike},
+   publisher = {LINCOM Europa},
+   address = {Munich},
+   pages = {132-140},
+   year = {1999},
+   type = {Book Section}
+}
+
+@book{RN314,
+   author = {Ward, Ida C.},
+   title = {An Introduction to the Yoruba Language},
+   publisher = {W. Heffer & Sons Ltd.},
+   address = {Cambridge, UK},
+   year = {1952},
+   type = {Book}
+}
+
+@book{RN315,
+   author = {Watkins, Laurel},
+   title = {A Grammar of Kiowa},
+   publisher = {University of Nebraska Press},
+   address = {Lincoln},
+   year = {1984},
+   type = {Book}
+}
+
+@book{RN316,
+   author = {Weber, David J.},
+   title = {A Grammar of Huallaga (Huánuco) Quechua.},
+   publisher = {University of California Press},
+   address = {Berkeley},
+   year = {1989},
+   type = {Book}
+}
+
+@inbook{RN1033,
+   author = {Weir, E. M. Helen},
+   title = {Nadëb},
+   booktitle = {Typological Studies in Negation},
+   editor = {Kahrel, Peter and Van den Berg, René},
+   publisher = {John Benjamins Publishing Company},
+   address = {Amsterdam},
+   chapter = {13},
+   pages = {291-324},
+   year = {1994},
+   type = {Book Section}
+}
+
+@book{RN684,
+   author = {Werner, Heinrich},
+   title = {Die Ketische Sprache},
+   publisher = {Harrassowiz Verlag},
+   address = {Wiesbaden},
+   series = {Tunguso-Sibirica 3},
+   year = {1997},
+   type = {Book}
+}
+
+@phdthesis{RN2129,
+   author = {Westerlund, Torbjörn},
+   title = {Finite verbs in Ngarla (Pama-Nyungan, Ngayarta).},
+   university = {Uppsala University},
+   year = {2013},
+   type = {Thesis}
+}
+
+@inbook{RN674,
+   author = {Wiedenhof, Jeroen},
+   title = {Standard Mandarin},
+   booktitle = {Typological Studies in Negation},
+   editor = {Kahrel, Peter and van den Berg, René},
+   series = {Typological Studies in Language},
+   publisher = {John Benjamins Publishing Company},
+   address = {Amsterdam},
+   pages = {93-124},
+   year = {1994},
+   type = {Book Section}
+}
+
+@book{RN344,
+   author = {Wilson, Darryl},
+   title = {Suena Grammar},
+   publisher = {Summer Institute of Linguistics},
+   address = {Ukarumpa, Papua New Guinea},
+   series = {Workpapers Papua New Guinea Languages 8},
+   year = {1974},
+   type = {Book}
+}
+
+@article{RN1356,
+   author = {Wilson, William H.},
+   title = {The o/a Distinction in Hawaiian Possessives},
+   journal = {Oceanic Linguistics},
+   volume = {15},
+   number = {1-2},
+   pages = {39-50},
+   year = {1976},
+   type = {Journal Article}
+}
+
+@book{RN1425,
+   author = {Winkler, Eberhard},
+   title = {Udmurt},
+   publisher = {LINCOM EUROPA},
+   address = {München},
+   series = {Languages of the World Materials},
+   year = {2001},
+   type = {Book}
+}
+
+@book{RN688,
+   author = {Young, Robert W. and Morgan, Willam},
+   title = {The Navajo Language: A Grammar and Colloquial Dictionary},
+   publisher = {University of New Mexico Press.},
+   address = {Albuquerque},
+   edition = {Revised Edition},
+   year = {1987},
+   type = {Book}
+}
+

@@ -1,724 +1,724 @@
 ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source
-aca-SN,aca,SN,"AUX/part: ho-ka-agr(gen., num.)-tam Vsub (indic)",,afir=terminaci├│n afirmativa,
-aca-NegEx_Form,aca,NegEx_Form,(1) hiní; (2) coacao,,afir=terminaci├│n afirmativa,
-aca-NegExType,aca,NegExType,Two_strategies: (1) Lexical item; (2) Lexical item,,afir=terminaci├│n afirmativa,
-xua-SN,xua,SN,suffix: -le,,The distribution is dependent on tense,
-xua-NegEx_Form,xua,NegEx_Form,(1) ille NON-PST; (2) untji for PST,,The distribution is dependent on tense,
-xua-NegExType,xua,NegExType,"Two_strategies_TA: (1) Morphologically different from SN, (2) Lexical item",,The distribution is dependent on tense,
-pbg-SN,pbg,SN,Morph:  V-pe (suffix),,there is a form nnawa 'no.estar' used a neg marker in subordinate clauses,
+aca-SN,aca,SN,"AUX/part: ho-ka-agr(gen., num.)-tam Vsub (indic)",,afir=terminaci├│n afirmativa,RN2322[247]
+aca-NegEx_Form,aca,NegEx_Form,(1) hiní; (2) coacao,,afir=terminaci├│n afirmativa,"RN2316[118, 117]"
+aca-NegExType,aca,NegExType,Two_strategies: (1) Lexical item; (2) Lexical item,,afir=terminaci├│n afirmativa,veselinova2013
+xua-SN,xua,SN,suffix: -le,,The distribution is dependent on tense,"RN2105[141, 151-152]"
+xua-NegEx_Form,xua,NegEx_Form,(1) ille NON-PST; (2) untji for PST,,The distribution is dependent on tense,"RN2105[141, 151-152]"
+xua-NegExType,xua,NegExType,"Two_strategies_TA: (1) Morphologically different from SN, (2) Lexical item",,The distribution is dependent on tense,veselinova2013
+pbg-SN,pbg,SN,Morph:  V-pe (suffix),,there is a form nnawa 'no.estar' used a neg marker in subordinate clauses,RN2322[254]
 pbg-NegEx_Form,pbg,NegEx_Form,ee-pe 'have-NEG',,there is a form nnawa 'no.estar' used a neg marker in subordinate clauses,
-pbg-NegExType,pbg,NegExType,SN,,there is a form nnawa 'no.estar' used a neg marker in subordinate clauses,
-tkp-SN,tkp,SN,part: sise,,,
-tkp-NegEx_Form,tkp,NegEx_Form,siei,,,
-tkp-NegExType,tkp,NegExType,Complete Difference from SN: Lexical item,,,
-apu-SN,apu,SN,Part: kuna V,,,
-apu-NegEx_Form,apu,NegEx_Form,kuna+ awa 'exist',,,
-apu-NegExType,apu,NegExType,SN,,,
+pbg-NegExType,pbg,NegExType,SN,,there is a form nnawa 'no.estar' used a neg marker in subordinate clauses,veselinova2013
+tkp-SN,tkp,SN,part: sise,,,RN1170[86]
+tkp-NegEx_Form,tkp,NegEx_Form,siei,,,RN1170[86]
+tkp-NegExType,tkp,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+apu-SN,apu,SN,Part: kuna V,,,RN2322[245]
+apu-NegEx_Form,apu,NegEx_Form,kuna+ awa 'exist',,,RN2317[128]
+apu-NegExType,apu,NegExType,SN,,,veselinova2013
 ard-SN,ard,SN,part: malyka,,,
 ard-NegEx_Form,ard,NegEx_Form,padni,,,
-ard-NegExType,ard,NegExType,Constructionally different from SN,,,
-arh-SN,arh,SN,suffix: –(u)ʔ,,,
-arh-NegEx_Form,arh,NegEx_Form,be-–(u)ʔ,,,
-arh-NegExType,arh,NegExType,SN,,,
-kwi-SN,kwi,SN,bi-partite: shi VERB-ma,,this is an internediate type I didn't have in IJL article; the negative copula used with shi (SN) is used in ascriptive statements only; make sure you mention it when you write the LT article,
-kwi-NegEx_Form,kwi,NegEx_Form,(1) way 'lack'; (2) shi--ma (SN),,this is an internediate type I didn't have in IJL article; the negative copula used with shi (SN) is used in ascriptive statements only; make sure you mention it when you write the LT article,
-kwi-NegExType,kwi,NegExType,Two_strategies: (1) Lexical item (2) SN,,this is an internediate type I didn't have in IJL article; the negative copula used with shi (SN) is used in ascriptive statements only; make sure you mention it when you write the LT article,
-bfd-SN,bfd,SN,kaa VERB wa’a/sì,,,
-bfd-NegEx_Form,bfd,NegEx_Form,kaa…wa’a/sì  (SN),,,
-bfd-NegExType,bfd,NegExType,SN,,,
-bmi-SN,bmi,SN,part: li,,,
-bmi-NegEx_Form,bmi,NegEx_Form,gwoto,,,
-bmi-NegExType,bmi,NegExType,Complete Difference from SN: Lexical item,,,
+ard-NegExType,ard,NegExType,Constructionally different from SN,,,veselinova2013
+arh-SN,arh,SN,suffix: –(u)ʔ,,,"RN93[49, 64]"
+arh-NegEx_Form,arh,NegEx_Form,be-–(u)ʔ,,,RN93[69]
+arh-NegExType,arh,NegExType,SN,,,veselinova2013
+kwi-SN,kwi,SN,bi-partite: shi VERB-ma,,this is an internediate type I didn't have in IJL article; the negative copula used with shi (SN) is used in ascriptive statements only; make sure you mention it when you write the LT article,RN380[331-333]
+kwi-NegEx_Form,kwi,NegEx_Form,(1) way 'lack'; (2) shi--ma (SN),,this is an internediate type I didn't have in IJL article; the negative copula used with shi (SN) is used in ascriptive statements only; make sure you mention it when you write the LT article,"RN380[332,  226]"
+kwi-NegExType,kwi,NegExType,Two_strategies: (1) Lexical item (2) SN,,this is an internediate type I didn't have in IJL article; the negative copula used with shi (SN) is used in ascriptive statements only; make sure you mention it when you write the LT article,veselinova2013
+bfd-SN,bfd,SN,kaa VERB wa’a/sì,,,RN1199[214-215]
+bfd-NegEx_Form,bfd,NegEx_Form,kaa…wa’a/sì  (SN),,,"RN1199[214-215, 233]"
+bfd-NegExType,bfd,NegExType,SN,,,veselinova2013
+bmi-SN,bmi,SN,part: li,,,"RN280[83, 91, 130]"
+bmi-NegEx_Form,bmi,NegEx_Form,gwoto,,,RN280[165]
+bmi-NegExType,bmi,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 bsn-SN,bsn,SN,Morph: -be- (suffix)+ change constituent order,,,
 bsn-NegEx_Form,bsn,NegEx_Form,bãdi-,,,
-bsn-NegExType,bsn,NegExType,Complete Difference from SN: Lexical item,,,
-bae-SN,bae,SN,Part: hena V-(waka),,,
-bae-NegEx_Form,bae,NegEx_Form,(1) bed'waka; (2) ind'waka 'nothing',,,
-bae-NegExType,bae,NegExType,Complete Difference from SN: Lexical item,,,
+bsn-NegExType,bsn,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+bae-SN,bae,SN,Part: hena V-(waka),,,"RN2322[245, 252-3]"
+bae-NegEx_Form,bae,NegEx_Form,(1) bed'waka; (2) ind'waka 'nothing',,,"RN2618[43-4, in passium]"
+bae-NegExType,bae,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 eus-SN,eus,SN,part: ez,,,
 eus-NegEx_Form,eus,NegEx_Form,ez (SN) izan/egon 'be',,,
-eus-NegExType,eus,NegExType,SN,,,
-brg-SN,brg,SN,Part: noka V,,,
+eus-NegExType,eus,NegExType,SN,,,veselinova2013
+brg-SN,brg,SN,Part: noka V,,,RN2322[245]
 brg-NegEx_Form,brg,NegEx_Form,"nka-wo (SN+COP, frozen)",,,
-brg-NegExType,brg,NegExType,Complete Difference from SN: Lexical item,,,
+brg-NegExType,brg,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 bel-SN,bel,SN,part: ne,,,
 bel-NegEx_Form,bel,NegEx_Form,nema/njama,,,
-bel-NegExType,bel,NegExType,Complete Difference from SN: Lexical item,,,
-gax-SN,gax,SN,prefix: kim-,,Move the dot from Ethiopia to Kenya; Stroomer worked in Kenya,
-gax-NegEx_Form,gax,NegEx_Form,kim-[SN]-jira 'be somewhere',,Move the dot from Ethiopia to Kenya; Stroomer worked in Kenya,
-gax-NegExType,gax,NegExType,SN,,Move the dot from Ethiopia to Kenya; Stroomer worked in Kenya,
+bel-NegExType,bel,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+gax-SN,gax,SN,prefix: kim-,,Move the dot from Ethiopia to Kenya; Stroomer worked in Kenya,RN283[83]
+gax-NegEx_Form,gax,NegEx_Form,kim-[SN]-jira 'be somewhere',,Move the dot from Ethiopia to Kenya; Stroomer worked in Kenya,RN283[83]
+gax-NegExType,gax,NegExType,SN,,Move the dot from Ethiopia to Kenya; Stroomer worked in Kenya,veselinova2013
 bos-SN,bos,SN,part: ne,,,
 bos-NegEx_Form,bos,NegEx_Form,nema,,,
-bos-NegExType,bos,NegExType,Complete Difference from SN: Lexical item,,,
-brh-SN,brh,SN,suffix:-pa-/-fa-/ta-/-par-/-far,,,
-brh-NegEx_Form,brh,NegEx_Form,(1) a-ffa-(in non-PST); (2)  all-(in PST),,,
-brh-NegExType,brh,NegExType,Two_strategies_TA: (1) Lexical item; (2) Lexical Item,,,
+bos-NegExType,bos,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+brh-SN,brh,SN,suffix:-pa-/-fa-/ta-/-par-/-far,,,"RN341[57, 61, 69, 72, 73, 76]"
+brh-NegEx_Form,brh,NegEx_Form,(1) a-ffa-(in non-PST); (2)  all-(in PST),,,RN341[79]
+brh-NegExType,brh,NegExType,Two_strategies_TA: (1) Lexical item; (2) Lexical Item,,,veselinova2013
 bul-SN,bul,SN,part: ne,,,
 bul-NegEx_Form,bul,NegEx_Form,njama,,,
-bul-NegExType,bul,NegExType,Complete Difference from SN: Lexical item,,,
-mya-SN,mya,SN,bi-partite: ma-VERBí-hpù,,,
-mya-NegEx_Form,mya,NegEx_Form,Ma-hyí-hpù SN-exist-SN,,,
-mya-NegExType,mya,NegExType,SN,,,
-bsk-SN,bsk,SN,prefix: a-,,This is the Yasin dialect; the German grammar I worked from for the verbs is about the Hunza dialect,
+bul-NegExType,bul,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+mya-SN,mya,SN,bi-partite: ma-VERBí-hpù,,,RN220[149]
+mya-NegEx_Form,mya,NegEx_Form,Ma-hyí-hpù SN-exist-SN,,,RN220[149]
+mya-NegExType,mya,NegExType,SN,,,veselinova2013
+bsk-SN,bsk,SN,prefix: a-,,This is the Yasin dialect; the German grammar I worked from for the verbs is about the Hunza dialect,RN169[305]
 bsk-NegEx_Form,bsk,NegEx_Form,up'i,,This is the Yasin dialect; the German grammar I worked from for the verbs is about the Hunza dialect,
-bsk-NegExType,bsk,NegExType,Complete Difference from SN: Lexical item,,This is the Yasin dialect; the German grammar I worked from for the verbs is about the Hunza dialect,
+bsk-NegExType,bsk,NegExType,Complete Difference from SN: Lexical item,,This is the Yasin dialect; the German grammar I worked from for the verbs is about the Hunza dialect,veselinova2013
 ram-SN,ram,SN,part: nare,,,
 ram-NegEx_Form,ram,NegEx_Form,nare [SN]+ N,,,
-ram-NegExType,ram,NegExType,SN,,,
-cbc-SN,cbc,SN,Morph: -e/-eti or -ẽ/-ẽti Morph: -e/-eti or -ẽ/-ẽti,,,
-cbc-NegEx_Form,cbc,NegEx_Form,"mani-'there is not, not have'",,,
-cbc-NegExType,cbc,NegExType,Complete Difference from SN: Lexical item,,,
-tzm-SN,tzm,SN,part: ur,,,
-tzm-NegEx_Form,tzm,NegEx_Form,ur N,,,
-tzm-NegExType,tzm,NegExType,SN,,,
-knc-SN,knc,SN,suffix: (1) -bâ; (2) -(n)nyí,,,
+ram-NegExType,ram,NegExType,SN,,,veselinova2013
+cbc-SN,cbc,SN,Morph: -e/-eti or -ẽ/-ẽti Morph: -e/-eti or -ẽ/-ẽti,,,RN2361[61]
+cbc-NegEx_Form,cbc,NegEx_Form,"mani-'there is not, not have'",,,RN2361[97]
+cbc-NegExType,cbc,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+tzm-SN,tzm,SN,part: ur,,,RN692[63]
+tzm-NegEx_Form,tzm,NegEx_Form,ur N,,,RN692[63]
+tzm-NegExType,tzm,NegExType,SN,,,veselinova2013
+knc-SN,knc,SN,suffix: (1) -bâ; (2) -(n)nyí,,,RN51[39-40]
 knc-NegEx_Form,knc,NegEx_Form,bâ (free form),,,
-knc-NegExType,knc,NegExType,Mophologically different from SN,,,
-khm-SN,khm,SN,part: min,,,
+knc-NegExType,knc,NegExType,Mophologically different from SN,,,veselinova2013
+khm-SN,khm,SN,part: min,,,RN671[245]
 khm-NegEx_Form,khm,NegEx_Form,khmian,,,
-khm-NegExType,khm,NegExType,Complete Difference from SN: Lexical item,,,
-mam-SN,mam,SN,part: miyaal7 (nyaa7),,classificatory negative existentials; I am using the retired code [mvc] in all of my geocoded files,
-mam-NegEx_Form,mam,NegEx_Form,mi7aal (human) mixti7 (non-human),,classificatory negative existentials; I am using the retired code [mvc] in all of my geocoded files,
-mam-NegExType,mam,NegExType,Constructionally different from SN,,classificatory negative existentials; I am using the retired code [mvc] in all of my geocoded files,
-esu-SN,esu,SN,suffix: -nrite,,,
+khm-NegExType,khm,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+mam-SN,mam,SN,part: miyaal7 (nyaa7),,classificatory negative existentials; I am using the retired code [mvc] in all of my geocoded files,RN2036[244]
+mam-NegEx_Form,mam,NegEx_Form,mi7aal (human) mixti7 (non-human),,classificatory negative existentials; I am using the retired code [mvc] in all of my geocoded files,RN2036[88]
+mam-NegExType,mam,NegExType,Constructionally different from SN,,classificatory negative existentials; I am using the retired code [mvc] in all of my geocoded files,veselinova2013
+esu-SN,esu,SN,suffix: -nrite,,,RN136[25]
 esu-NegEx_Form,esu,NegEx_Form,(1) taite; (2) -nrite,,,
-esu-NegExType,esu,NegExType,Two_strategies: (1) Lexical item (2) SN,,,
-mig-SN,mig,SN,clitic: tu-,,That's for Chlalcatongo Mixtec; move the dot,
-mig-NegEx_Form,mig,NegEx_Form,túu,,That's for Chlalcatongo Mixtec; move the dot,
-mig-NegExType,mig,NegExType,Constructionally different from SN,,That's for Chlalcatongo Mixtec; move the dot,
-cde-SN,cde,SN,particle: VERB-INF + lēdu/le,,two diff NegEX,
-cde-NegEx_Form,cde,NegEx_Form,(1) un-; (2) le:-,,two diff NegEX,
-cde-NegExType,cde,NegExType,Two_strategies_TA: (1) Lexical item; (2) SN,,two diff NegEX,
-cap-SN,cap,SN,part: ana,,,
-cap-NegEx_Form,cap,NegEx_Form,ana [SN] N zhel- 'be',,,
-cap-NegExType,cap,NegExType,SN,,,
-ckt-SN,ckt,SN,bi-partite: a-VERBí-ka,,,
+esu-NegExType,esu,NegExType,Two_strategies: (1) Lexical item (2) SN,,,veselinova2013
+mig-SN,mig,SN,clitic: tu-,,That's for Chlalcatongo Mixtec; move the dot,RN174[98]
+mig-NegEx_Form,mig,NegEx_Form,túu,,That's for Chlalcatongo Mixtec; move the dot,RN174[122]
+mig-NegExType,mig,NegExType,Constructionally different from SN,,That's for Chlalcatongo Mixtec; move the dot,veselinova2013
+cde-SN,cde,SN,particle: VERB-INF + lēdu/le,,two diff NegEX,"RN2113[54, 70, 80]"
+cde-NegEx_Form,cde,NegEx_Form,(1) un-; (2) le:-,,two diff NegEX,"RN2113[46, 47]"
+cde-NegExType,cde,NegExType,Two_strategies_TA: (1) Lexical item; (2) SN,,two diff NegEX,veselinova2013
+cap-SN,cap,SN,part: ana,,,RN1218[203]
+cap-NegEx_Form,cap,NegEx_Form,ana [SN] N zhel- 'be',,,RN1218[203]
+cap-NegExType,cap,NegExType,SN,,,veselinova2013
+ckt-SN,ckt,SN,bi-partite: a-VERBí-ka,,,RN671[250]
 ckt-NegEx_Form,ckt,NegEx_Form,ujŋe + N.PRIVATIVE CASE,,,
-ckt-NegExType,ckt,NegExType,Complete Difference from SN: Lexical item,,,
+ckt-NegExType,ckt,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 hrv-SN,hrv,SN,part: ne,,,
 hrv-NegEx_Form,hrv,NegEx_Form,nema,,,
-hrv-NegExType,hrv,NegExType,Complete Difference from SN: Lexical item,,,
-cub-SN,cub,SN,"Morph: -be-; nothing is said about change of word order; but generally, it is very flexible",,,
-cub-NegEx_Form,cub,NegEx_Form,"kɨ-be-AFF 'exist-neg' (regular negation, by SN)",,,
-cub-NegExType,cub,NegExType,SN,,,
-ces-SN,ces,SN,part/prefix:- ne,,"Markus Giger (p.c.) should be listed too, make sure I spell his last name correctly",
-ces-NegEx_Form,ces,NegEx_Form,(1) ne-; (2) neni,,"Markus Giger (p.c.) should be listed too, make sure I spell his last name correctly",
-ces-NegExType,ces,NegExType,Two_strategies: (1) SN (dominant); (2) Lexical item,,"Markus Giger (p.c.) should be listed too, make sure I spell his last name correctly",
-des-SN,des,SN,Morph:-be/-bi/-bidi,,,
-des-NegEx_Form,des,NegEx_Form,(1) mãɾĩ; (2) badi,,,
-des-NegExType,des,NegExType,Complete Difference from SN: Lexical item,,,
-bvx-SN,bvx,SN,prefix: -ká-,,,
-bvx-NegEx_Form,bvx,NegEx_Form,há-tí 'LOC-neg.be',,,
-bvx-NegExType,bvx,NegExType,Constructionally different from SN,,,
-pci-SN,pci,SN,suffix: -e/-o-PERS.NUM.G,,,
-pci-NegEx_Form,pci,NegEx_Form,"cila-'does not exist, ist not found'",,,
-pci-NegExType,pci,NegExType,Mophologically different from SN,,,
-fud-SN,fud,SN,"verb: lee'se, le'aise; particle: le",,,
-fud-NegEx_Form,fud,NegEx_Form,le'e/le'ai,,,
-fud-NegExType,fud,NegExType,Constructionally different from SN,,,
-mhr-SN,mhr,SN,AUX: a-,,add to refs Wagner-Nagy a& Viola  2009: 136,
-mhr-NegEx_Form,mhr,NegEx_Form,uke,,add to refs Wagner-Nagy a& Viola  2009: 136,
-mhr-NegExType,mhr,NegExType,Complete Difference from SN: Lexical item,,add to refs Wagner-Nagy a& Viola  2009: 136,
-mmw-SN,mmw,SN,particle: sē,,,
-mmw-NegEx_Form,mmw,NegEx_Form,ikai,,,
-mmw-NegExType,mmw,NegExType,Complete Difference from SN: Lexical item,,,
+hrv-NegExType,hrv,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+cub-SN,cub,SN,"Morph: -be-; nothing is said about change of word order; but generally, it is very flexible",,,"RN2362[45, in passim]"
+cub-NegEx_Form,cub,NegEx_Form,"kɨ-be-AFF 'exist-neg' (regular negation, by SN)",,,"RN2362[2, 76]"
+cub-NegExType,cub,NegExType,SN,,,veselinova2013
+ces-SN,ces,SN,part/prefix:- ne,,"Markus Giger (p.c.) should be listed too, make sure I spell his last name correctly","RN1086[512, Shirokova et al 1973: 396,]"
+ces-NegEx_Form,ces,NegEx_Form,(1) ne-; (2) neni,,"Markus Giger (p.c.) should be listed too, make sure I spell his last name correctly","RN1086[512, Shirokova et al 1973: 396,]"
+ces-NegExType,ces,NegExType,Two_strategies: (1) SN (dominant); (2) Lexical item,,"Markus Giger (p.c.) should be listed too, make sure I spell his last name correctly",veselinova2013
+des-SN,des,SN,Morph:-be/-bi/-bidi,,,"RN2363[76, in passim]"
+des-NegEx_Form,des,NegEx_Form,(1) mãɾĩ; (2) badi,,,"RN2363[209, ff]"
+des-NegExType,des,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+bvx-SN,bvx,SN,prefix: -ká-,,,RN1219[403]
+bvx-NegEx_Form,bvx,NegEx_Form,há-tí 'LOC-neg.be',,,RN1027[195-9]
+bvx-NegExType,bvx,NegExType,Constructionally different from SN,,,veselinova2013
+pci-SN,pci,SN,suffix: -e/-o-PERS.NUM.G,,,RN2111[64-67]
+pci-NegEx_Form,pci,NegEx_Form,"cila-'does not exist, ist not found'",,,RN2111[64-67]
+pci-NegExType,pci,NegExType,Mophologically different from SN,,,veselinova2013
+fud-SN,fud,SN,"verb: lee'se, le'aise; particle: le",,,"RN1169[116, in passim]"
+fud-NegEx_Form,fud,NegEx_Form,le'e/le'ai,,,"RN1169[116, in passim]"
+fud-NegExType,fud,NegExType,Constructionally different from SN,,,veselinova2013
+mhr-SN,mhr,SN,AUX: a-,,add to refs Wagner-Nagy a& Viola  2009: 136,"RN1415[72, Jeremy Bradley p.c.]"
+mhr-NegEx_Form,mhr,NegEx_Form,uke,,add to refs Wagner-Nagy a& Viola  2009: 136,"RN1415[72, Jeremy Bradley p.c.]"
+mhr-NegExType,mhr,NegExType,Complete Difference from SN: Lexical item,,add to refs Wagner-Nagy a& Viola  2009: 136,veselinova2013
+mmw-SN,mmw,SN,particle: sē,,,RN1170[in passim]
+mmw-NegEx_Form,mmw,NegEx_Form,ikai,,,RN1170[in passim]
+mmw-NegExType,mmw,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 eng-SN,eng,SN,AUX+part: do/be/OTHER not,,,
 eng-NegEx_Form,eng,NegEx_Form,(1) no (2) BE-NEG,,,
-eng-NegExType,eng,NegExType,Two_strategies: (1) negative indefinite pronoun (2) SN,,,
-myv-SN,myv,SN,particle: a/,,,
-myv-NegEx_Form,myv,NegEx_Form,aras,,,
-myv-NegExType,myv,NegExType,Complete Difference from SN: Lexical item,,,
-est-SN,est,SN,part: ei,,,
-est-NegEx_Form,est,NegEx_Form,(1) pole 'not be'; (2) eij [SN],,,
-est-NegExType,est,NegExType,Two_strategies: (1) Lexical item (2) SN,,,
-evn-SN,evn,SN,Aux: e-,,,
-evn-NegEx_Form,evn,NegEx_Form,achin,,,
-evn-NegExType,evn,NegExType,Complete Difference from SN: Lexical item,,,
+eng-NegExType,eng,NegExType,Two_strategies: (1) negative indefinite pronoun (2) SN,,,veselinova2013
+myv-SN,myv,SN,particle: a/,,,RN1231[in passim]
+myv-NegEx_Form,myv,NegEx_Form,aras,,,RN1231[91]
+myv-NegExType,myv,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+est-SN,est,SN,part: ei,,,RN1424[in passim]
+est-NegEx_Form,est,NegEx_Form,(1) pole 'not be'; (2) eij [SN],,,RN1424[25]
+est-NegExType,est,NegExType,Two_strategies: (1) Lexical item (2) SN,,,veselinova2013
+evn-SN,evn,SN,Aux: e-,,,RN670[2]
+evn-NegEx_Form,evn,NegEx_Form,achin,,,"RN670[2, Nedjalkov 1997: 97]"
+evn-NegExType,evn,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 fin-SN,fin,SN,e- [SN],,,
 fin-NegEx_Form,fin,NegEx_Form,e- [SN] olem 'be.CNG],,,
-fin-NegExType,fin,NegExType,SN,,,
+fin-NegExType,fin,NegExType,SN,,,veselinova2013
 enf-SN,enf,SN,Aux: ńi-,,,
 enf-NegEx_Form,enf,NegEx_Form,d'ago,,,
-enf-NegExType,enf,NegExType,Complete Difference from SN: Lexical item,,,
+enf-NegExType,enf,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 fra-SN,fra,SN,bi-partite: ne .... pas,,,
 fra-NegEx_Form,fra,NegEx_Form,il n'y a pas,,,
-fra-NegExType,fra,NegExType,SN,,,
-fut-SN,fut,SN,bi-partitie: se .... Ma,,,
-fut-NegEx_Form,fut,NegEx_Form,"skikai, jikai",,,
-fut-NegExType,fut,NegExType,Complete Difference from SN: Lexical item,,,
-cab-SN,cab,SN,Part/Morph/NegEx: mama V/m-V (prefix)/úwa+Verb base stam,,,
-cab-NegEx_Form,cab,NegEx_Form,úwa,,,
-cab-NegExType,cab,NegExType,Complete Difference from SN: Lexical item,,,
-grt-SN,grt,SN,suffix: -ja,,,
-grt-NegEx_Form,grt,NegEx_Form,dong-ja 'there is-NEG',,,
-grt-NegExType,grt,NegExType,SN,,,
-kat-SN,kat,SN,part: ar(a),,,
-kat-NegEx_Form,kat,NegEx_Form,ar uarsebniat 'NEG they.exist',,,
-kat-NegExType,kat,NegExType,SN,,,
+fra-NegExType,fra,NegExType,SN,,,veselinova2013
+fut-SN,fut,SN,bi-partitie: se .... Ma,,,RN1170[in passim]
+fut-NegEx_Form,fut,NegEx_Form,"skikai, jikai",,,RN1170[in passim]
+fut-NegExType,fut,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+cab-SN,cab,SN,Part/Morph/NegEx: mama V/m-V (prefix)/úwa+Verb base stam,,,"RN2322[245, 254, 256]"
+cab-NegEx_Form,cab,NegEx_Form,úwa,,,"RN2314[34-5, 38)]"
+cab-NegExType,cab,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+grt-SN,grt,SN,suffix: -ja,,,RN27[74]
+grt-NegEx_Form,grt,NegEx_Form,dong-ja 'there is-NEG',,,RN27[74]
+grt-NegExType,grt,NegExType,SN,,,veselinova2013
+kat-SN,kat,SN,part: ar(a),,,RN671[263]
+kat-NegEx_Form,kat,NegEx_Form,ar uarsebniat 'NEG they.exist',,,RN1204[274]
+kat-NegExType,kat,NegExType,SN,,,veselinova2013
 deu-SN,deu,SN,part: nicht,,,
 deu-NegEx_Form,deu,NegEx_Form,(1) kein (2) nicht,,,
-deu-NegExType,deu,NegExType,Two_strategies: (1) negative indefinite pronoun (2) SN,,,
-zen-SN,zen,SN,part: wəl,,,
-zen-NegEx_Form,zen,NegEx_Form,wƏl d,,,
-zen-NegExType,zen,NegExType,SN,,,
+deu-NegExType,deu,NegExType,Two_strategies: (1) negative indefinite pronoun (2) SN,,,veselinova2013
+zen-SN,zen,SN,part: wəl,,,RN2135[288-289]
+zen-NegEx_Form,zen,NegEx_Form,wƏl d,,,RN2135[288-289)]
+zen-NegExType,zen,NegExType,SN,,,veselinova2013
 gni-SN,gni,SN,part: mangaddi,,,
 gni-NegEx_Form,gni,NegEx_Form,ma?ami,,,
-gni-NegExType,gni,NegExType,Complete Difference from SN: Lexical item,,,
+gni-NegExType,gni,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 ell-SN,ell,SN,part: dhen,,,
 ell-NegEx_Form,ell,NegEx_Form,dhen [SN] écho-'have.3SG'+TENSE,,,
-ell-NegExType,ell,NegExType,SN,,,
-bsq-SN,bsq,SN,suffix: -it,,,
-bsq-NegEx_Form,bsq,NegEx_Form,ROOT-it 'SN',,,
-bsq-NegExType,bsq,NegExType,SN,,,
-gug-SN,gug,SN,bi-partite: n(d)a ... i,,,
-gug-NegEx_Form,gug,NegEx_Form,"n-oimé-i SN-exist-SN (semi-lexicalized, still completely transparent)",,,
-gug-NegExType,gug,NegExType,SN,,,
-afb-SN,afb,SN,part: ma(a)/mu(u),,"This is for Basra Spoken Arabic, move the dot",
-afb-NegEx_Form,afb,NegEx_Form,maa'ku,,"This is for Basra Spoken Arabic, move the dot",
-afb-NegExType,afb,NegExType,Complete Difference from SN: Lexical item,,"This is for Basra Spoken Arabic, move the dot",
+ell-NegExType,ell,NegExType,SN,,,veselinova2013
+bsq-SN,bsq,SN,suffix: -it,,,"RN89[136, Michael Forstescue p.c.]"
+bsq-NegEx_Form,bsq,NegEx_Form,ROOT-it 'SN',,,"RN89[136, Michael Forstescue p.c.]"
+bsq-NegExType,bsq,NegExType,SN,,,veselinova2013
+gug-SN,gug,SN,bi-partite: n(d)a ... i,,,RN671[268]
+gug-NegEx_Form,gug,NegEx_Form,"n-oimé-i SN-exist-SN (semi-lexicalized, still completely transparent)",,,"RN104[187, Dejan Matic, p.c.]"
+gug-NegExType,gug,NegExType,SN,,,veselinova2013
+afb-SN,afb,SN,part: ma(a)/mu(u),,"This is for Basra Spoken Arabic, move the dot",RN2125[236]
+afb-NegEx_Form,afb,NegEx_Form,maa'ku,,"This is for Basra Spoken Arabic, move the dot",RN2125[239]
+afb-NegExType,afb,NegExType,Complete Difference from SN: Lexical item,,"This is for Basra Spoken Arabic, move the dot",veselinova2013
 khk-SN,khk,SN,suffix: guy,,,
 khk-NegEx_Form,khk,NegEx_Form,guy (free from or a suffix),,,
-khk-NegExType,khk,NegExType,Mophologically different from SN,,,
-hau-SN,hau,SN,part: (1) bá; (2) bā,,,
-hau-NegEx_Form,hau,NegEx_Form,(1) babù; (2) bâ,,,
-hau-NegExType,hau,NegExType,Two_strategies: (1) Lexical item; (2) Lexical item,,,
-haw-SN,haw,SN,several: (1) verb: 'a'ole; (2) part: 'a'ohe,,,
-haw-NegEx_Form,haw,NegEx_Form,(1) 'a'ole; (2) a'o'he;,,,
-haw-NegExType,haw,NegExType,Two_strategies_TA: (1) Lexical item; (2) SN,,,
-heb-SN,heb,SN,part: lo,,"plus , Tal Linzen, Patric Lebebswerd p.c.",
-heb-NegEx_Form,heb,NegEx_Form,(1)  eyn; (2) lo,,"plus , Tal Linzen, Patric Lebebswerd p.c.",
-heb-NegExType,heb,NegExType,Two_strategies_TA: (1) Lexical item; (2) SN,,"plus , Tal Linzen, Patric Lebebswerd p.c.",
+khk-NegExType,khk,NegExType,Mophologically different from SN,,,veselinova2013
+hau-SN,hau,SN,part: (1) bá; (2) bā,,,RN384[357]
+hau-NegEx_Form,hau,NegEx_Form,(1) babù; (2) bâ,,,RN384[357]
+hau-NegExType,hau,NegExType,Two_strategies: (1) Lexical item; (2) Lexical item,,,veselinova2013
+haw-SN,haw,SN,several: (1) verb: 'a'ole; (2) part: 'a'ohe,,,RN641[142]
+haw-NegEx_Form,haw,NegEx_Form,(1) 'a'ole; (2) a'o'he;,,,"RN641[142, Pila Wilson, p.c.]"
+haw-NegExType,haw,NegExType,Two_strategies_TA: (1) Lexical item; (2) SN,,,veselinova2013
+heb-SN,heb,SN,part: lo,,"plus , Tal Linzen, Patric Lebebswerd p.c.",RN680[220]
+heb-NegEx_Form,heb,NegEx_Form,(1)  eyn; (2) lo,,"plus , Tal Linzen, Patric Lebebswerd p.c.",RN680[220]
+heb-NegExType,heb,NegExType,Two_strategies_TA: (1) Lexical item; (2) SN,,"plus , Tal Linzen, Patric Lebebswerd p.c.",veselinova2013
 qub-SN,qub,SN,bi-partite: mana ...-cho,,,
 qub-NegEx_Form,qub,NegEx_Form,mana --chu,,,
-qub-NegExType,qub,NegExType,SN,,,
-hun-SN,hun,SN,part: nem,,,
-hun-NegEx_Form,hun,NegEx_Form,nincs,,,
-hun-NegExType,hun,NegExType,Complete Difference from SN: Lexical item,,,
+qub-NegExType,qub,NegExType,SN,,,veselinova2013
+hun-SN,hun,SN,part: nem,,,RN676[147-8]
+hun-NegEx_Form,hun,NegEx_Form,nincs,,,RN676[147-8]
+hun-NegExType,hun,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 isl-SN,isl,SN,part: ekki,,,
 isl-NegEx_Form,isl,NegEx_Form,(1) enginn; (2) ekki .. Neinn,,,
-isl-NegExType,isl,NegExType,Two_strategies: (1) negative indefinite pronoun (2) SN,,,
+isl-NegExType,isl,NegExType,Two_strategies: (1) negative indefinite pronoun (2) SN,,,veselinova2013
 qvi-SN,qvi,SN,bi-partite: (mana) -chu,,,
 qvi-NegEx_Form,qvi,NegEx_Form,(mana) -chu [SN],,,
-qvi-NegExType,qvi,NegExType,SN,,,
-inp-SN,inp,SN,Morph: aa-V (prefix),,,
-inp-NegEx_Form,inp,NegEx_Form,(1) aaráwama; (2) paísini,,,
-inp-NegExType,inp,NegExType,Two_strategies: (1) Lexical item; (2) Lexical item,,,
-smn-SN,smn,SN,Aux: i-,,haven't really done but it got picked up and rely on the fact that Saami dialects are not that diff/t,
-smn-NegEx_Form,smn,NegEx_Form,i- [SN],,haven't really done but it got picked up and rely on the fact that Saami dialects are not that diff/t,
-smn-NegExType,smn,NegExType,SN,,haven't really done but it got picked up and rely on the fact that Saami dialects are not that diff/t,
-ind-SN,ind,SN,part: tidak,,,
-ind-NegEx_Form,ind,NegEx_Form,(1) tiada; (2) tidak ada,,,
-ind-NegExType,ind,NegExType,Two_strategies: (1) Lexical item (2) SN (dominant),,,
+qvi-NegExType,qvi,NegExType,SN,,,veselinova2013
+inp-SN,inp,SN,Morph: aa-V (prefix),,,RN2322[254]
+inp-NegEx_Form,inp,NegEx_Form,(1) aaráwama; (2) paísini,,,RN2355[43]
+inp-NegExType,inp,NegExType,Two_strategies: (1) Lexical item; (2) Lexical item,,,veselinova2013
+smn-SN,smn,SN,Aux: i-,,haven't really done but it got picked up and rely on the fact that Saami dialects are not that diff/t,RN2127[56]
+smn-NegEx_Form,smn,NegEx_Form,i- [SN],,haven't really done but it got picked up and rely on the fact that Saami dialects are not that diff/t,RN2127[56]
+smn-NegExType,smn,NegExType,SN,,haven't really done but it got picked up and rely on the fact that Saami dialects are not that diff/t,veselinova2013
+ind-SN,ind,SN,part: tidak,,,RN273[195]
+ind-NegEx_Form,ind,NegEx_Form,(1) tiada; (2) tidak ada,,,"RN273[264, in passim]"
+ind-NegExType,ind,NegExType,Two_strategies: (1) Lexical item (2) SN (dominant),,,veselinova2013
 ita-SN,ita,SN,part: non,,SN precedes the whole existential construction; just like in Spanish. Not sure if this should count as a constructional difference,
 ita-NegEx_Form,ita,NegEx_Form,non EX-construction [SN],,SN precedes the whole existential construction; just like in Spanish. Not sure if this should count as a constructional difference,
-ita-NegExType,ita,NegExType,SN,,SN precedes the whole existential construction; just like in Spanish. Not sure if this should count as a constructional difference,
-otz-SN,otz,SN,part: hingi/hina,,"I had written that this differs in form only, but I think this is wrong",
-otz-NegEx_Form,otz,NegEx_Form,(1) ša-kha NEG-be; (2) ša-phod NEG-have; (3) kho(ng) mɨi  NEG 'be',,"I had written that this differs in form only, but I think this is wrong",
-otz-NegExType,otz,NegExType,Several NegEX_free variation: Constructions,,"I had written that this differs in form only, but I think this is wrong",
-dyo-SN,dyo,SN,several: (1) suffix -ut (non-fut); (2) prefix: lɛt-,,,
-dyo-NegEx_Form,dyo,NegEx_Form,(1) lɛt (non-fut); (2) -lɛt,,,
-dyo-NegExType,dyo,NegExType,Two_strategies: (1) Lexical item (2) SN,,,
-ktz-SN,ktz,SN,part: |óá,,,
-ktz-NegEx_Form,ktz,NegEx_Form,|óá o [SN be],,,
-ktz-NegExType,ktz,NegExType,SN,,,
-kab-SN,kab,SN,part: u(r),,,
-kab-NegEx_Form,kab,NegEx_Form,ulaš,,,
-kab-NegExType,kab,NegExType,Complete Difference from SN: Lexical item,,,
+ita-NegExType,ita,NegExType,SN,,SN precedes the whole existential construction; just like in Spanish. Not sure if this should count as a constructional difference,veselinova2013
+otz-SN,otz,SN,part: hingi/hina,,"I had written that this differs in form only, but I think this is wrong",RN376[27]
+otz-NegEx_Form,otz,NegEx_Form,(1) ša-kha NEG-be; (2) ša-phod NEG-have; (3) kho(ng) mɨi  NEG 'be',,"I had written that this differs in form only, but I think this is wrong",RN376[28]
+otz-NegExType,otz,NegExType,Several NegEX_free variation: Constructions,,"I had written that this differs in form only, but I think this is wrong",veselinova2013
+dyo-SN,dyo,SN,several: (1) suffix -ut (non-fut); (2) prefix: lɛt-,,,"RN259[30, 33, 94]"
+dyo-NegEx_Form,dyo,NegEx_Form,(1) lɛt (non-fut); (2) -lɛt,,,"RN259[30, 33, 94]"
+dyo-NegExType,dyo,NegExType,Two_strategies: (1) Lexical item (2) SN,,,veselinova2013
+ktz-SN,ktz,SN,part: |óá,,,RN664[in passim]
+ktz-NegEx_Form,ktz,NegEx_Form,|óá o [SN be],,,RN664[in passim]
+ktz-NegExType,ktz,NegExType,SN,,,veselinova2013
+kab-SN,kab,SN,part: u(r),,,RN2135[288-289]
+kab-NegEx_Form,kab,NegEx_Form,ulaš,,,"RN2135[288-289, Amina Mettouchi, p.c.]"
+kab-NegExType,kab,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 xas-SN,xas,SN,several: (1) part: ej; (2) Aux: e- (fut),,,
 xas-NegEx_Form,xas,NegEx_Form,naga,,,
-xas-NegExType,xas,NegExType,Complete Difference from SN: Lexical item,,,
-kan-SN,kan,SN,suffix:- illa,,,
-kan-NegEx_Form,kan,NegEx_Form,illa,,,
-kan-NegExType,kan,NegExType,Mophologically different from SN,,,
-kpg-SN,kpg,SN,several: (1) part: tē; (2) part: hakarē,,,
-kpg-NegEx_Form,kpg,NegEx_Form,(1) hakaree; (2) teai,,,
-kpg-NegExType,kpg,NegExType,Two_strategies: (1) Lexical item; (2) Lexical item,,,
+xas-NegExType,xas,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+kan-SN,kan,SN,suffix:- illa,,,"RN277[111-112, 220]"
+kan-NegEx_Form,kan,NegEx_Form,illa,,,"RN277[111-2, 220]"
+kan-NegExType,kan,NegExType,Mophologically different from SN,,,veselinova2013
+kpg-SN,kpg,SN,several: (1) part: tē; (2) part: hakarē,,,"RN1235[30, 48, in passim]"
+kpg-NegEx_Form,kpg,NegEx_Form,(1) hakaree; (2) teai,,,"RN1235[30, 48, in passim]"
+kpg-NegExType,kpg,NegExType,Two_strategies: (1) Lexical item; (2) Lexical item,,,veselinova2013
 csb-SN,csb,SN,part: ne,,,
 csb-NegEx_Form,csb,NegEx_Form,n¡ ma,,,
-csb-NegExType,csb,NegExType,Complete Difference from SN: Lexical item,,,
-gyd-SN,gyd,SN,several: (1) suffix: Tharri; (2) suffix: -nangku(ru); (3) suffix: -warri 'PRIVATIVE),,,
-gyd-NegEx_Form,gyd,NegEx_Form,warrira,,,
-gyd-NegExType,gyd,NegExType,Mophologically different from SN,,,
-ket-SN,ket,SN,part: bən,,,
-ket-NegEx_Form,ket,NegEx_Form,bəŋsa,,,
-ket-NegExType,ket,NegExType,Complete Difference from SN: Lexical item,,,
+csb-NegExType,csb,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+gyd-SN,gyd,SN,several: (1) suffix: Tharri; (2) suffix: -nangku(ru); (3) suffix: -warri 'PRIVATIVE),,,"RN81[256-257, 288, 374]"
+gyd-NegEx_Form,gyd,NegEx_Form,warrira,,,"RN81[375l, Round 2009: 158]"
+gyd-NegExType,gyd,NegExType,Mophologically different from SN,,,veselinova2013
+ket-SN,ket,SN,part: bən,,,RN684[181]
+ket-NegEx_Form,ket,NegEx_Form,bəŋsa,,,RN307[82]
+ket-NegExType,ket,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 kca-SN,kca,SN,several: (1) part: at; (2) indetermined: ăntom,,,
 kca-NegEx_Form,kca,NegEx_Form,ăntom,,,
-kca-NegExType,kca,NegExType,Complete Difference from SN: Lexical item,,,
+kca-NegExType,kca,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 kha-SN,kha,SN,prefix: m-,,,
 kha-NegEx_Form,kha,NegEx_Form,m-dong 'SN-be',,,
-kha-NegExType,kha,NegExType,SN,,,
-kio-SN,kio,SN,bi-partite: hɔ́n .... -(C) ɔ́/-gú,,,
-kio-NegEx_Form,kio,NegEx_Form,hé,,,
-kio-NegExType,kio,NegExType,Complete Difference from SN: Lexical item,,,
+kha-NegExType,kha,NegExType,SN,,,veselinova2013
+kio-SN,kio,SN,bi-partite: hɔ́n .... -(C) ɔ́/-gú,,,"RN315[204, 214]"
+kio-NegEx_Form,kio,NegEx_Form,hé,,,RN315[216]
+kio-NegExType,kio,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 cku-SN,cku,SN,suffix: PERS.NUMBER-ǫ,,,
 cku-NegEx_Form,cku,NegEx_Form,exist-SN,,,
-cku-NegExType,cku,NegExType,SN,,,
-kfa-SN,kfa,SN,suffix: (1) -le (non-PST); (2) -le/-ille (PST),,,
-kfa-NegEx_Form,kfa,NegEx_Form,ille,,,
-kfa-NegExType,kfa,NegExType,Mophologically different from SN,,,
+cku-NegExType,cku,NegExType,SN,,,veselinova2013
+kfa-SN,kfa,SN,suffix: (1) -le (non-PST); (2) -le/-ille (PST),,,"RN2128[22, 27, 41]"
+kfa-NegEx_Form,kfa,NegEx_Form,ille,,,"RN2128[22, 27, 41]"
+kfa-NegExType,kfa,NegExType,Mophologically different from SN,,,veselinova2013
 koi-SN,koi,SN,Aux: o-/e-,,,
 koi-NegEx_Form,koi,NegEx_Form,abu-,,,
-koi-NegExType,koi,NegExType,Complete Difference from SN: Lexical item,,,
+koi-NegExType,koi,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 kpv-SN,kpv,SN,several: (1) Aux: o-/e- (non-PERFECT); (2) part: abu (PERFECT),,,
 kpv-NegEx_Form,kpv,NegEx_Form,(1) abu-; (2) SN,,,
-kpv-NegExType,kpv,NegExType,Two_strategies_TA: (1) Lexical item; (2) SN,,,
-kfc-SN,kfc,SN,suffix: -t,,,
-kfc-NegEx_Form,kfc,NegEx_Form,sil,,,
-kfc-NegExType,kfc,NegExType,Complete Difference from SN: Lexical item,,,
+kpv-NegExType,kpv,NegExType,Two_strategies_TA: (1) Lexical item; (2) SN,,,veselinova2013
+kfc-SN,kfc,SN,suffix: -t,,,"RN2108[283, 289]"
+kfc-NegEx_Form,kfc,NegEx_Form,sil,,,RN2108[289]
+kfc-NegExType,kfc,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 kor-SN,kor,SN,part: an,,,
 kor-NegEx_Form,kor,NegEx_Form,ops-ta,,,
-kor-NegExType,kor,NegExType,Complete Difference from SN: Lexical item,,,
-coe-SN,coe,SN,Morph: -máˀ/-ma/-mane,,,
-coe-NegEx_Form,coe,NegEx_Form,"peo- 'not be, not have'",,,
-coe-NegExType,coe,NegExType,Complete Difference from SN: Lexical item,,,
-gvc-SN,gvc,SN,Morph:-ér +unclear about change of word order; on the whole w.o. is flexible,,,
-gvc-NegEx_Form,gvc,NegEx_Form,"bãdia; used for LOC as well; however the expression of LOC is more complex, see the grammar",,,
-gvc-NegExType,gvc,NegExType,Complete Difference from SN: Lexical item,,,
-kff-SN,kff,SN,several: (1) suffix: -o-/-ō-/-ū-/-v-/-vō-/vū (non-PST); (2) Aux: ill- (PST),,,
-kff-NegEx_Form,kff,NegEx_Form,ill-,,,
-kff-NegExType,kff,NegExType,Complete Difference from SN: Lexical item,,,
-kgo-SN,kgo,SN,several: (1) bipartite: áŋ…é; (2) Aux: t-ittà,,the conditioning of this alternation is not clea,
-kgo-NegEx_Form,kgo,NegEx_Form,t-ìttà,,the conditioning of this alternation is not clea,
-kgo-NegExType,kgo,NegExType,Two_strategies: (1) Lexical item (2) SN,,the conditioning of this alternation is not clea,
-nee-SN,nee,SN,kio,,,
-nee-NegEx_Form,nee,NegEx_Form,kia,,,
-nee-NegExType,nee,NegExType,Constructionally different from SN,,,
-kun-SN,kun,SN,suffix: -mme/nume,,be-TENSE-NEG/SN,
-kun-NegEx_Form,kun,NegEx_Form,kos-TENSE-mme,,be-TENSE-NEG/SN,
-kun-NegExType,kun,NegExType,SN,,be-TENSE-NEG/SN,
+kor-NegExType,kor,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+coe-SN,coe,SN,Morph: -máˀ/-ma/-mane,,,"RN2365[61, in passim]"
+coe-NegEx_Form,coe,NegEx_Form,"peo- 'not be, not have'",,,RN2365[62]
+coe-NegExType,coe,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+gvc-SN,gvc,SN,Morph:-ér +unclear about change of word order; on the whole w.o. is flexible,,,RN2364[246 ff]
+gvc-NegEx_Form,gvc,NegEx_Form,"bãdia; used for LOC as well; however the expression of LOC is more complex, see the grammar",,,RN2364[202]
+gvc-NegExType,gvc,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+kff-SN,kff,SN,several: (1) suffix: -o-/-ō-/-ū-/-v-/-vō-/vū (non-PST); (2) Aux: ill- (PST),,,"RN2109[83, 96-99]"
+kff-NegEx_Form,kff,NegEx_Form,ill-,,,RN2109[33-5]
+kff-NegExType,kff,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+kgo-SN,kgo,SN,several: (1) bipartite: áŋ…é; (2) Aux: t-ittà,,the conditioning of this alternation is not clea,"RN467[253, 370]"
+kgo-NegEx_Form,kgo,NegEx_Form,t-ìttà,,the conditioning of this alternation is not clea,RN467[374]
+kgo-NegExType,kgo,NegExType,Two_strategies: (1) Lexical item (2) SN,,the conditioning of this alternation is not clea,veselinova2013
+nee-SN,nee,SN,kio,,,RN1161[60]
+nee-NegEx_Form,nee,NegEx_Form,kia,,,RN1161[61]
+nee-NegExType,nee,NegExType,Constructionally different from SN,,,veselinova2013
+kun-SN,kun,SN,suffix: -mme/nume,,be-TENSE-NEG/SN,RN671[298-9]
+kun-NegEx_Form,kun,NegEx_Form,kos-TENSE-mme,,be-TENSE-NEG/SN,RN368[41-43]
+kun-NegExType,kun,NegExType,SN,,be-TENSE-NEG/SN,veselinova2013
 kto-SN,kto,SN,part: təle,,,
 kto-NegEx_Form,kto,NegEx_Form,karuk,,,
-kto-NegExType,kto,NegExType,Complete Difference from SN: Lexical item,,,
-kpc-SN,kpc,SN,Part: khen V,,,
-kpc-NegEx_Form,kpc,NegEx_Form,(1) SN; (2) SN+pakapa 'someone sees',,,
-kpc-NegExType,kpc,NegExType,Two_strategies: (1) SN (2) Constructionally different from SN,,,
-kxv-SN,kxv,SN,suffix: ʔ(V),,hil is used in progressive tenses,
-kxv-NegEx_Form,kxv,NegEx_Form,hil-,,hil is used in progressive tenses,
-kxv-NegExType,kxv,NegExType,Two_strategies: (1) Constructionally different from SN; (2) SN,,hil is used in progressive tenses,
+kto-NegExType,kto,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+kpc-SN,kpc,SN,Part: khen V,,,RN2322[245]
+kpc-NegEx_Form,kpc,NegEx_Form,(1) SN; (2) SN+pakapa 'someone sees',,,RN2315[75]
+kpc-NegExType,kpc,NegExType,Two_strategies: (1) SN (2) Constructionally different from SN,,,veselinova2013
+kxv-SN,kxv,SN,suffix: ʔ(V),,hil is used in progressive tenses,"RN2110[62-63, 135-136, 166]"
+kxv-NegEx_Form,kxv,NegEx_Form,hil-,,hil is used in progressive tenses,"RN2110[60-63, 107]"
+kxv-NegExType,kxv,NegExType,Two_strategies: (1) Constructionally different from SN; (2) SN,,hil is used in progressive tenses,veselinova2013
 xwa-SN,xwa,SN,suffix: -'he,,Stealing the dot to insert Kwaza,
 xwa-NegEx_Form,xwa,NegEx_Form,a-'he [exist-SN],,Stealing the dot to insert Kwaza,
-xwa-NegExType,xwa,NegExType,SN,,Stealing the dot to insert Kwaza,
-cle-SN,cle,SN,negative word/prefix:  ʔa1ʔe2/ʔa1-,,translation of the forms in NegEx: SN exist],
-cle-NegEx_Form,cle,NegEx_Form,ʔa1ʔe2 sia2,,translation of the forms in NegEx: SN exist],
-cle-NegExType,cle,NegExType,SN,,translation of the forms in NegEx: SN exist],
-lln-SN,lln,SN,part: ɗé,,"translations of the forms in the NegEx : exist SN/lack, not exist",
-lln-NegEx_Form,lln,NegEx_Form,(1) wíléʔ; (2) màní ʔé;,,"translations of the forms in the NegEx : exist SN/lack, not exist",
-lln-NegExType,lln,NegExType,Two_strategies: (1) Lexical item (2) SN,,"translations of the forms in the NegEx : exist SN/lack, not exist",
-lww-SN,lww,SN,tri-partite: pe…re (poli),,,
-lww-NegEx_Form,lww,NegEx_Form,locative construction negated by SN,,,
-lww-NegExType,lww,NegExType,SN,,,
-lez-SN,lez,SN,suffix:- -č,,,
-lez-NegEx_Form,lez,NegEx_Form,awa-c [locative copula + SN],,,
-lez-NegExType,lez,NegExType,SN,,,
-arw-SN,arw,SN,Part/Morph: V khro/ kho/ma-V (prefix),,it looks like the privative is used for the negation of ascriptive predications,
-arw-NegEx_Form,arw,NegEx_Form,"kawan 'lack, be missing'",,it looks like the privative is used for the negation of ascriptive predications,
-arw-NegExType,arw,NegExType,Complete Difference from SN: Lexical item,,it looks like the privative is used for the negation of ascriptive predications,
-dsb-SN,dsb,SN,prefix: - nje-,,,
+xwa-NegExType,xwa,NegExType,SN,,Stealing the dot to insert Kwaza,veselinova2013
+cle-SN,cle,SN,negative word/prefix:  ʔa1ʔe2/ʔa1-,,translation of the forms in NegEx: SN exist],"RN254[30, 44]"
+cle-NegEx_Form,cle,NegEx_Form,ʔa1ʔe2 sia2,,translation of the forms in NegEx: SN exist],RN254[11]
+cle-NegExType,cle,NegExType,SN,,translation of the forms in NegEx: SN exist],veselinova2013
+lln-SN,lln,SN,part: ɗé,,"translations of the forms in the NegEx : exist SN/lack, not exist",RN642[297]
+lln-NegEx_Form,lln,NegEx_Form,(1) wíléʔ; (2) màní ʔé;,,"translations of the forms in the NegEx : exist SN/lack, not exist",RN642[213]
+lln-NegExType,lln,NegExType,Two_strategies: (1) Lexical item (2) SN,,"translations of the forms in the NegEx : exist SN/lack, not exist",veselinova2013
+lww-SN,lww,SN,tri-partite: pe…re (poli),,,RN671[305)]
+lww-NegEx_Form,lww,NegEx_Form,locative construction negated by SN,,,RN671[401]
+lww-NegExType,lww,NegExType,SN,,,veselinova2013
+lez-SN,lez,SN,suffix:- -č,,,"RN112[127, 245]"
+lez-NegEx_Form,lez,NegEx_Form,awa-c [locative copula + SN],,,RN112[136]
+lez-NegExType,lez,NegExType,SN,,,veselinova2013
+arw-SN,arw,SN,Part/Morph: V khro/ kho/ma-V (prefix),,it looks like the privative is used for the negation of ascriptive predications,RN2322[245]
+arw-NegEx_Form,arw,NegEx_Form,"kawan 'lack, be missing'",,it looks like the privative is used for the negation of ascriptive predications,RN2313[71]
+arw-NegExType,arw,NegExType,Complete Difference from SN: Lexical item,,it looks like the privative is used for the negation of ascriptive predications,veselinova2013
+dsb-SN,dsb,SN,prefix: - nje-,,,RN1087[666]
 dsb-NegEx_Form,dsb,NegEx_Form,SN+dajo (SN+ existential construction),,,
-dsb-NegExType,dsb,NegExType,SN,,,
-lua-SN,lua,SN,prefix: ka-,,,
-lua-NegEx_Form,lua,NegEx_Form,SN-ena,,,
-lua-NegExType,lua,NegExType,Two_strategies: (1) Lexical item (2) SN,,,
-lun-SN,lun,SN,several: (1) part: nehi; (2) bi-partite: hí-….-kú; (3) negative word: wányi,,need to firugre out the semantics of that negative existential,
-lun-NegEx_Form,lun,NegEx_Form,"osi 'not be, none, nothing, nowhere'",,need to firugre out the semantics of that negative existential,
-lun-NegExType,lun,NegExType,Complete Difference from SN: Lexical item,,need to firugre out the semantics of that negative existential,
+dsb-NegExType,dsb,NegExType,SN,,,veselinova2013
+lua-SN,lua,SN,prefix: ka-,,,RN2182[58]
+lua-NegEx_Form,lua,NegEx_Form,SN-ena,,,"RN2182[80, 333]"
+lua-NegExType,lua,NegExType,Two_strategies: (1) Lexical item (2) SN,,,veselinova2013
+lun-SN,lun,SN,several: (1) part: nehi; (2) bi-partite: hí-….-kú; (3) negative word: wányi,,need to firugre out the semantics of that negative existential,RN2118[218 ff]
+lun-NegEx_Form,lun,NegEx_Form,"osi 'not be, none, nothing, nowhere'",,need to firugre out the semantics of that negative existential,RN2118[234]
+lun-NegExType,lun,NegExType,Complete Difference from SN: Lexical item,,need to firugre out the semantics of that negative existential,veselinova2013
 mkd-SN,mkd,SN,part: ne,,,
 mkd-NegEx_Form,mkd,NegEx_Form,nema,,,
-mkd-NegExType,mkd,NegExType,Complete Difference from SN: Lexical item,,,
+mkd-NegExType,mkd,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 myy-SN,myy,SN,Morph:-be.,,,
 myy-NegEx_Form,myy,NegEx_Form,"bãdi (NegEx, Poss, Loc)",,,
-myy-NegExType,myy,NegExType,Complete Difference from SN: Lexical item,,,
-mbc-SN,mbc,SN,part: pra,,it is used as an emphatic negator with verbs,
-mbc-NegEx_Form,mbc,NegEx_Form,pîn,,it is used as an emphatic negator with verbs,
-mbc-NegExType,mbc,NegExType,Complete Difference from SN: Lexical item,,it is used as an emphatic negator with verbs,
-ayz-SN,ayz,SN,part/negative word: fe,,,
-ayz-NegEx_Form,ayz,NegEx_Form,fe/mfe,,,
-ayz-NegExType,ayz,NegExType,Constructionally different from SN,,,
-mkz-SN,mkz,SN,part/negative word: nomo,,,
+myy-NegExType,myy,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+mbc-SN,mbc,SN,part: pra,,it is used as an emphatic negator with verbs,RN2[55]
+mbc-NegEx_Form,mbc,NegEx_Form,pîn,,it is used as an emphatic negator with verbs,RN2[55-58]
+mbc-NegExType,mbc,NegExType,Complete Difference from SN: Lexical item,,it is used as an emphatic negator with verbs,veselinova2013
+ayz-SN,ayz,SN,part/negative word: fe,,,RN66[315]
+ayz-NegEx_Form,ayz,NegEx_Form,fe/mfe,,,RN66[192]
+ayz-NegExType,ayz,NegExType,Constructionally different from SN,,,veselinova2013
+mkz-SN,mkz,SN,part/negative word: nomo,,,"RN2096[242, in passim]"
 mkz-NegEx_Form,mkz,NegEx_Form,na'an,,,
-mkz-NegExType,mkz,NegExType,Complete Difference from SN: Lexical item,,,
-mal-SN,mal,SN,suffix: -illa,,,
-mal-NegEx_Form,mal,NegEx_Form,illa,,,
-mal-NegExType,mal,NegExType,Mophologically different from SN,,,
-cmn-SN,cmn,SN,several: (1) part: bù; (2) verb (phrase): méi(yŏu),,,
-cmn-NegEx_Form,cmn,NegEx_Form,méi (you),,,
-cmn-NegExType,cmn,NegExType,Two_strategies_TA: (1) Lexical item;  (2) Constructionally different from SN,,,
-mrv-SN,mrv,SN,verb: e kore/kakkore,,,
-mrv-NegEx_Form,mrv,NegEx_Form,kore,,,
-mrv-NegExType,mrv,NegExType,Constructionally different from SN,,,
+mkz-NegExType,mkz,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+mal-SN,mal,SN,suffix: -illa,,,"RN2104[30,  53]"
+mal-NegEx_Form,mal,NegEx_Form,illa,,,"RN2104[21, 23]"
+mal-NegExType,mal,NegExType,Mophologically different from SN,,,veselinova2013
+cmn-SN,cmn,SN,several: (1) part: bù; (2) verb (phrase): méi(yŏu),,,RN671[248]
+cmn-NegEx_Form,cmn,NegEx_Form,méi (you),,,RN674[103]
+cmn-NegExType,cmn,NegExType,Two_strategies_TA: (1) Lexical item;  (2) Constructionally different from SN,,,veselinova2013
+mrv-SN,mrv,SN,verb: e kore/kakkore,,,RN2042[in passim]
+mrv-NegEx_Form,mrv,NegEx_Form,kore,,,RN2042[in passim]
+mrv-NegExType,mrv,NegExType,Constructionally different from SN,,,veselinova2013
 mns-SN,mns,SN,"part: at, āt'im",,,
 mns-NegEx_Form,mns,NegEx_Form,"āt'I, āt'im",,,
-mns-NegExType,mns,NegExType,Two_strategies_TA: (1) Lexical item;  (2) Constructionally different from SN,,,
-mri-SN,mri,SN,verb: kaōre,,,
-mri-NegEx_Form,mri,NegEx_Form,kaōre,,,
-mri-NegExType,mri,NegExType,Constructionally different from SN,,,
+mns-NegExType,mns,NegExType,Two_strategies_TA: (1) Lexical item;  (2) Constructionally different from SN,,,veselinova2013
+mri-SN,mri,SN,verb: kaōre,,,"RN1348[154, 161]"
+mri-NegEx_Form,mri,NegEx_Form,kaōre,,,"RN1348[154, 161]"
+mri-NegExType,mri,NegExType,Constructionally different from SN,,,veselinova2013
 arn-SN,arn,SN,suffix: -la,,no special negative existential but there is a distinction between permanent be nge- and temporary be m├╝le-,
 arn-NegEx_Form,arn,NegEx_Form,nge-la-e-i-i-0-mew 'be-NEG-INV-IND-3-3A,,no special negative existential but there is a distinction between permanent be nge- and temporary be m├╝le-,
-arn-NegExType,arn,NegExType,SN,,no special negative existential but there is a distinction between permanent be nge- and temporary be m├╝le-,
-mec-SN,mec,SN,several: (1) part: ganagu (non-fut); (2) prefix: gu- (non-fut); (3) ŋula (fut),,,
-mec-NegEx_Form,mec,NegEx_Form,maƛuy,,,
-mec-NegExType,mec,NegExType,Complete Difference from SN: Lexical item,,,
-mrc-SN,mrc,SN,bi-partite: waly-/aly-...–ma,,,
-mrc-NegEx_Form,mrc,NegEx_Form,kuvar,,,
-mrc-NegExType,mrc,NegExType,Complete Difference from SN: Lexical item,,,
-vma-SN,vma,SN,part: mir.ta,,,
+arn-NegExType,arn,NegExType,SN,,no special negative existential but there is a distinction between permanent be nge- and temporary be m├╝le-,veselinova2013
+mec-SN,mec,SN,several: (1) part: ganagu (non-fut); (2) prefix: gu- (non-fut); (3) ŋula (fut),,,RN113[191]
+mec-NegEx_Form,mec,NegEx_Form,maƛuy,,,RN113[149-150]
+mec-NegExType,mec,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+mrc-SN,mrc,SN,bi-partite: waly-/aly-...–ma,,,"RN458[26, 144]"
+mrc-NegEx_Form,mrc,NegEx_Form,kuvar,,,RN458[81]
+mrc-NegExType,mrc,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+vma-SN,vma,SN,part: mir.ta,,,"RN59[235, 178]"
 vma-NegEx_Form,vma,NegEx_Form,mir.ta,,,
-vma-NegExType,vma,NegExType,Constructionally different from SN,,,
-mxe-SN,mxe,SN,bi-partite: (se)…kē,,,
-mxe-NegEx_Form,mxe,NegEx_Form,saai,,,
-mxe-NegExType,mxe,NegExType,Complete Difference from SN: Lexical item,,,
-moc-SN,moc,SN,part: (1) se; (2) mesqay,,there is also a special neg of ID and property; take it for the LT article,
-moc-NegEx_Form,moc,NegEx_Form,qayka,,there is also a special neg of ID and property; take it for the LT article,
-moc-NegExType,moc,NegExType,Complete Difference from SN: Lexical item,,there is also a special neg of ID and property; take it for the LT article,
-mdf-SN,mdf,SN,several: (1) part: af; (2) prefix: apak-; (3) Aux: əź-/iź-,,"I'm grouping it with all F-Cs; essentially, this is like Russian and Hungarian",
-mdf-NegEx_Form,mdf,NegEx_Form,"(1) aš, ajaš; (2) SN",,"I'm grouping it with all F-Cs; essentially, this is like Russian and Hungarian",
-mdf-NegExType,mdf,NegExType,Two_strategies_TA: (1) Lexical item;  (2) Constructionally different from SN,,"I'm grouping it with all F-Cs; essentially, this is like Russian and Hungarian",
-muw-SN,muw,SN,"prefix: ka- (attached to the subject pronoun, not the negated verb)",,"I'm grouping it with all F-Cs; essentially, this is like Russian and Hungarian",
-muw-NegEx_Form,muw,NegEx_Form,(1) baŋgaʔi (different forms according to animacy); (2),,"I'm grouping it with all F-Cs; essentially, this is like Russian and Hungarian",
-muw-NegExType,muw,NegExType,Two_strategies_TA: (1) Lexical item; (2) SN,,"I'm grouping it with all F-Cs; essentially, this is like Russian and Hungarian",
-mur-SN,mur,SN,part: alaŋ or ŋaan,,,
-mur-NegEx_Form,mur,NegEx_Form,adhi,,,
-mur-NegExType,mur,NegExType,Complete Difference from SN: Lexical item,,,
-hur-SN,hur,SN,part: ʔə̀wə,,was listed as Halkomelem,
-hur-NegEx_Form,hur,NegEx_Form,ʔə̀wəteʔ,,was listed as Halkomelem,
-hur-NegExType,hur,NegExType,Complete Difference from SN: Lexical item,,was listed as Halkomelem,
-mwe-SN,mwe,SN,prefix: -ka-,,,
-mwe-NegEx_Form,mwe,NegEx_Form,jwakwa,,,
-mwe-NegExType,mwe,NegExType,Complete Difference from SN: Lexical item,,,
-mbj-SN,mbj,SN,verb: dooh,,,
-mbj-NegEx_Form,mbj,NegEx_Form,dooh,,,
-mbj-NegExType,mbj,NegExType,Constructionally different from SN,,,
-cox-SN,cox,SN,"Part: tera, hara, matsi V",,,
-cox-NegEx_Form,cox,NegEx_Form,mameri,,,
-cox-NegExType,cox,NegExType,Complete Difference from SN: Lexical item,,,
+vma-NegExType,vma,NegExType,Constructionally different from SN,,,veselinova2013
+mxe-SN,mxe,SN,bi-partite: (se)…kē,,,RN1256[in passim]
+mxe-NegEx_Form,mxe,NegEx_Form,saai,,,RN1256[692]
+mxe-NegExType,mxe,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+moc-SN,moc,SN,part: (1) se; (2) mesqay,,there is also a special neg of ID and property; take it for the LT article,RN2164[121ff]
+moc-NegEx_Form,moc,NegEx_Form,qayka,,there is also a special neg of ID and property; take it for the LT article,RN2164[108-9]
+moc-NegExType,moc,NegExType,Complete Difference from SN: Lexical item,,there is also a special neg of ID and property; take it for the LT article,veselinova2013
+mdf-SN,mdf,SN,several: (1) part: af; (2) prefix: apak-; (3) Aux: əź-/iź-,,"I'm grouping it with all F-Cs; essentially, this is like Russian and Hungarian","RN1231[90, in passim]"
+mdf-NegEx_Form,mdf,NegEx_Form,"(1) aš, ajaš; (2) SN",,"I'm grouping it with all F-Cs; essentially, this is like Russian and Hungarian","RN1231[90, in passim]"
+mdf-NegExType,mdf,NegExType,Two_strategies_TA: (1) Lexical item;  (2) Constructionally different from SN,,"I'm grouping it with all F-Cs; essentially, this is like Russian and Hungarian",veselinova2013
+muw-SN,muw,SN,"prefix: ka- (attached to the subject pronoun, not the negated verb)",,"I'm grouping it with all F-Cs; essentially, this is like Russian and Hungarian",RN671[218]
+muw-NegEx_Form,muw,NegEx_Form,(1) baŋgaʔi (different forms according to animacy); (2),,"I'm grouping it with all F-Cs; essentially, this is like Russian and Hungarian","RN223[119, 390]"
+muw-NegExType,muw,NegExType,Two_strategies_TA: (1) Lexical item; (2) SN,,"I'm grouping it with all F-Cs; essentially, this is like Russian and Hungarian",veselinova2013
+mur-SN,mur,SN,part: alaŋ or ŋaan,,,RN671[318]
+mur-NegEx_Form,mur,NegEx_Form,adhi,,,RN690[135-136]
+mur-NegExType,mur,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+hur-SN,hur,SN,part: ʔə̀wə,,was listed as Halkomelem,RN1202[31]
+hur-NegEx_Form,hur,NegEx_Form,ʔə̀wəteʔ,,was listed as Halkomelem,RN1202[128]
+hur-NegExType,hur,NegExType,Complete Difference from SN: Lexical item,,was listed as Halkomelem,veselinova2013
+mwe-SN,mwe,SN,prefix: -ka-,,,"RN1209[92, 100]"
+mwe-NegEx_Form,mwe,NegEx_Form,jwakwa,,,RN1209[116]
+mwe-NegExType,mwe,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+mbj-SN,mbj,SN,verb: dooh,,,RN671[318]
+mbj-NegEx_Form,mbj,NegEx_Form,dooh,,,"RN1033[295-6,,301]"
+mbj-NegExType,mbj,NegExType,Constructionally different from SN,,,veselinova2013
+cox-SN,cox,SN,"Part: tera, hara, matsi V",,,RN2322[245]
+cox-NegEx_Form,cox,NegEx_Form,mameri,,,RN2322[186]
+cox-NegExType,cox,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 nav-SN,nav,SN,bi-partite: dòò…-dà,,,
 nav-NegEx_Form,nav,NegEx_Form,dòò…-dà,,,
-nav-NegExType,nav,NegExType,SN,,,
-nde-SN,nde,SN,bi-partite: ka-….-i,,"very interesting nominal and copula negation, both distinct from SN",
-nde-NegEx_Form,nde,NegEx_Form,a-/nga-,,"very interesting nominal and copula negation, both distinct from SN",
-nde-NegExType,nde,NegExType,Complete Difference from SN: Lexical item,,"very interesting nominal and copula negation, both distinct from SN",
-njt-SN,njt,SN,part: (n)á,,Ndyuka is creole; correct this is when the table is finalized,
-njt-NegEx_Form,njt,NegEx_Form,(n)á,,Ndyuka is creole; correct this is when the table is finalized,
-njt-NegExType,njt,NegExType,SN,,Ndyuka is creole; correct this is when the table is finalized,
+nav-NegExType,nav,NegExType,SN,,,veselinova2013
+nde-SN,nde,SN,bi-partite: ka-….-i,,"very interesting nominal and copula negation, both distinct from SN",RN2122[43-44]
+nde-NegEx_Form,nde,NegEx_Form,a-/nga-,,"very interesting nominal and copula negation, both distinct from SN",RN2122[57]
+nde-NegExType,nde,NegExType,Complete Difference from SN: Lexical item,,"very interesting nominal and copula negation, both distinct from SN",veselinova2013
+njt-SN,njt,SN,part: (n)á,,Ndyuka is creole; correct this is when the table is finalized,"RN132[134-6, 141]"
+njt-NegEx_Form,njt,NegEx_Form,(n)á,,Ndyuka is creole; correct this is when the table is finalized,"RN132[134-6, 141]"
+njt-NegExType,njt,NegExType,SN,,Ndyuka is creole; correct this is when the table is finalized,veselinova2013
 yrk-SN,yrk,SN,several: (1) Aux: ńí; (2) verb(?): jaŋku,,,
 yrk-NegEx_Form,yrk,NegEx_Form,jaŋku,,,
-yrk-NegExType,yrk,NegExType,Complete Difference from SN: Lexical item,,,
-nez-SN,nez,SN,part: wéeʔu,,,
+yrk-NegExType,yrk,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+nez-SN,nez,SN,part: wéeʔu,,,RN671[237-238]
 nez-NegEx_Form,nez,NegEx_Form,cáʔya,,,
-nez-NegExType,nez,NegExType,Complete Difference from SN: Lexical item,,,
+nez-NegExType,nez,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 nio-SN,nio,SN,part: ńì,,,
 nio-NegEx_Form,nio,NegEx_Form,d'aŋku,,,
-nio-NegExType,nio,NegExType,Complete Difference from SN: Lexical item,,,
-nlr-SN,nlr,SN,part: ngurra,,,
-nlr-NegEx_Form,nlr,NegEx_Form,ngurra,,,
-nlr-NegExType,nlr,NegExType,Complete Difference from SN: Lexical item,,,
+nio-NegExType,nio,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+nlr-SN,nlr,SN,part: ngurra,,,RN2129[83]
+nlr-NegEx_Form,nlr,NegEx_Form,ngurra,,,RN2129[83]
+nlr-NegExType,nlr,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 nge-SN,nge,SN,part: kà,,NOUN special negative loc/ex item LOCATIVE PHRASE regular neg,
 nge-NegEx_Form,nge,NegEx_Form,kà,,NOUN special negative loc/ex item LOCATIVE PHRASE regular neg,
-nge-NegExType,nge,NegExType,SN,,NOUN special negative loc/ex item LOCATIVE PHRASE regular neg,
-niu-SN,niu,SN,"verb/part: nakai, fakai",,,
-niu-NegEx_Form,niu,NegEx_Form,"nakai, fakai",,,
-niu-NegExType,niu,NegExType,SN,,,
-niv-SN,niv,SN,several: (1) k'au- 'not be'; (2) khavr-/ghavr- ’not have’,,,
+nge-NegExType,nge,NegExType,SN,,NOUN special negative loc/ex item LOCATIVE PHRASE regular neg,veselinova2013
+niu-SN,niu,SN,"verb/part: nakai, fakai",,,"RN1272[78, in passim]"
+niu-NegEx_Form,niu,NegEx_Form,"nakai, fakai",,,RN1272[78]
+niu-NegExType,niu,NegExType,SN,,,veselinova2013
+niv-SN,niv,SN,several: (1) k'au- 'not be'; (2) khavr-/ghavr- ’not have’,,,RN671[324-325]
 niv-NegEx_Form,niv,NegEx_Form,-ghavr-,,,
-niv-NegExType,niv,NegExType,Mophologically different from SN,,,
-mrq-SN,mrq,SN,several: (1) part: 'a'o'e; (2) 'a'e; (3) ē,,,
-mrq-NegEx_Form,mrq,NegEx_Form,a'o'e,,,
-mrq-NegExType,mrq,NegExType,Constructionally different from SN,,,
-sme-SN,sme,SN,Aux: i-,,,
-sme-NegEx_Form,sme,NegEx_Form,i-,,,
-sme-NegExType,sme,NegExType,SN,,,
-emp-SN,emp,SN,verbal enclitic: ẽ,,,
-emp-NegEx_Form,emp,NegEx_Form,nẽ ẽ-a,,,
-emp-NegExType,emp,NegExType,Complete Difference from SN: Lexical item,,,
-nkr-SN,nkr,SN,part: de,,,
-nkr-NegEx_Form,nkr,NegEx_Form,deai,,,
-nkr-NegExType,nkr,NegExType,Complete Difference from SN: Lexical item,,,
-ciw-SN,ciw,SN,bi-partite: gaa/gaawii…-sii,,the name used in the GMI database was Chippewa; the code is the same,
-ciw-NegEx_Form,ciw,NegEx_Form,gaawii gegoo,,the name used in the GMI database was Chippewa; the code is the same,
-ciw-NegExType,ciw,NegExType,Complete Difference from SN: Lexical item,,the name used in the GMI database was Chippewa; the code is the same,
-one-SN,one,SN,part:  yah (teʔ-),,,
-one-NegEx_Form,one,NegEx_Form,yah (teʔ-),,,
-one-NegExType,one,NegExType,SN,,,
-ojv-SN,ojv,SN,part: se,,,
-ojv-NegEx_Form,ojv,NegEx_Form,seai,,,
-ojv-NegExType,ojv,NegExType,Complete Difference from SN: Lexical item,,,
-plu-SN,plu,SN,Part: ka V,,,
-plu-NegEx_Form,plu,NegEx_Form,yuma(h),,,
-plu-NegExType,plu,NegExType,Complete Difference from SN: Lexical item,,,
-pab-SN,pab,SN,"Part: maitsa, maiha V-nmkz/prog",,,
+niv-NegExType,niv,NegExType,Mophologically different from SN,,,veselinova2013
+mrq-SN,mrq,SN,several: (1) part: 'a'o'e; (2) 'a'e; (3) ē,,,RN1247[in passim]
+mrq-NegEx_Form,mrq,NegEx_Form,a'o'e,,,RN1247[in passim]
+mrq-NegExType,mrq,NegExType,Constructionally different from SN,,,veselinova2013
+sme-SN,sme,SN,Aux: i-,,,RN2127[56]
+sme-NegEx_Form,sme,NegEx_Form,i-,,,RN2127[56]
+sme-NegExType,sme,NegExType,SN,,,veselinova2013
+emp-SN,emp,SN,verbal enclitic: ẽ,,,RN1216[11-12]
+emp-NegEx_Form,emp,NegEx_Form,nẽ ẽ-a,,,RN1216[101]
+emp-NegExType,emp,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+nkr-SN,nkr,SN,part: de,,,RN1270[27]
+nkr-NegEx_Form,nkr,NegEx_Form,deai,,,RN1270[27]
+nkr-NegExType,nkr,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+ciw-SN,ciw,SN,bi-partite: gaa/gaawii…-sii,,the name used in the GMI database was Chippewa; the code is the same,RN2093[837 ff]
+ciw-NegEx_Form,ciw,NegEx_Form,gaawii gegoo,,the name used in the GMI database was Chippewa; the code is the same,RN2093[849]
+ciw-NegExType,ciw,NegExType,Complete Difference from SN: Lexical item,,the name used in the GMI database was Chippewa; the code is the same,veselinova2013
+one-SN,one,SN,part:  yah (teʔ-),,,"RN686[15, 20, 44, Karin Michelson p.c.]"
+one-NegEx_Form,one,NegEx_Form,yah (teʔ-),,,"RN686[15, 20, 44, Karin Michelson p.c.]"
+one-NegExType,one,NegExType,SN,,,veselinova2013
+ojv-SN,ojv,SN,part: se,,,RN1170[85]
+ojv-NegEx_Form,ojv,NegEx_Form,seai,,,RN1170[85]
+ojv-NegExType,ojv,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+plu-SN,plu,SN,Part: ka V,,,RN2322[245]
+plu-NegEx_Form,plu,NegEx_Form,yuma(h),,,RN2356[199]
+plu-NegExType,plu,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+pab-SN,pab,SN,"Part: maitsa, maiha V-nmkz/prog",,,RN2322[245]
 pab-NegEx_Form,pab,NegEx_Form,maiha + Ex predication,,,
-pab-NegExType,pab,NegExType,SN,,,
-pnh-SN,pnh,SN,verb: ee kore,,,
-pnh-NegEx_Form,pnh,NegEx_Form,kore,,,
-pnh-NegExType,pnh,NegExType,Constructionally different from SN,,,
+pab-NegExType,pab,NegExType,SN,,,veselinova2013
+pnh-SN,pnh,SN,verb: ee kore,,,RN1170[99]
+pnh-NegEx_Form,pnh,NegEx_Form,kore,,,RN1170[99]
+pnh-NegExType,pnh,NegExType,Constructionally different from SN,,,veselinova2013
 phl-SN,phl,SN,part: na,,,
 phl-NegEx_Form,phl,NegEx_Form,na 'SN',,,
-phl-NegExType,phl,NegExType,SN,,,
-pio-SN,pio,SN,"AUX/part: kami-agr(gen., num) v [habitual]",,,
+phl-NegExType,phl,NegExType,SN,,,veselinova2013
+pio-SN,pio,SN,"AUX/part: kami-agr(gen., num) v [habitual]",,,RN2322[247]
 pio-NegEx_Form,pio,NegEx_Form,caná,,,
-pio-NegExType,pio,NegExType,Complete Difference from SN: Lexical item,,,
+pio-NegExType,pio,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 piv-SN,piv,SN,part: siai,,,
 piv-NegEx_Form,piv,NegEx_Form,(hiek)khiloa or siai,,,
-piv-NegExType,piv,NegExType,Constructionally different from SN,,,
-ppl-SN,ppl,SN,part: tesu,,,
-ppl-NegEx_Form,ppl,NegEx_Form,tesu + EXISTENTIAL/LOC construction,,,
-ppl-NegExType,ppl,NegExType,SN,,,
-pol-SN,pol,SN,part/prefix:- ne,,,
-pol-NegEx_Form,pol,NegEx_Form,nie ma,,,
-pol-NegExType,pol,NegExType,Complete Difference from SN: Lexical item,,,
-tsz-SN,tsz,SN,part: 'no,,,
-tsz-NegEx_Form,tsz,NegEx_Form,nooNpe,,,
-tsz-NegExType,tsz,NegExType,Complete Difference from SN: Lexical item,,,
+piv-NegExType,piv,NegExType,Constructionally different from SN,,,veselinova2013
+ppl-SN,ppl,SN,part: tesu,,,RN36[268]
+ppl-NegEx_Form,ppl,NegEx_Form,tesu + EXISTENTIAL/LOC construction,,,RN36[268]
+ppl-NegExType,ppl,NegExType,SN,,,veselinova2013
+pol-SN,pol,SN,part/prefix:- ne,,,"RN1080[742, Marcin Kilarski, p.c.]"
+pol-NegEx_Form,pol,NegEx_Form,nie ma,,,RN1080[742]
+pol-NegExType,pol,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+tsz-SN,tsz,SN,part: 'no,,,RN671[364-365]
+tsz-NegEx_Form,tsz,NegEx_Form,nooNpe,,,RN1217[88]
+tsz-NegExType,tsz,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 alc-SN,alc,SN,several: part/suffix: qjawel; (2) part/suffix: qjep,,the material is too limited to fyully understand the function of qjep- But it looks like this word may have been a former negative existential that evolved into 'No' and 'nothing',
-alc-NegEx_Form,alc,NegEx_Form,qjawel/qjep,,the material is too limited to fyully understand the function of qjep- But it looks like this word may have been a former negative existential that evolved into 'No' and 'nothing',
-alc-NegExType,alc,NegExType,Constructionally different from SN,,the material is too limited to fyully understand the function of qjep- But it looks like this word may have been a former negative existential that evolved into 'No' and 'nothing',
-rap-SN,rap,SN,part: 'ina,,,
-rap-NegEx_Form,rap,NegEx_Form,ina,,,
-rap-NegExType,rap,NegExType,Constructionally different from SN,,,
-rar-SN,rar,SN,verb/part(?): kāre,,,
-rar-NegEx_Form,rar,NegEx_Form,kāre,,,
-rar-NegExType,rar,NegExType,Constructionally different from SN,,,
-mnv-SN,mnv,SN,part: he'e,,,
-mnv-NegEx_Form,mnv,NegEx_Form,si'ai,,,
-mnv-NegExType,mnv,NegExType,Complete Difference from SN: Lexical item,,,
-tnc-SN,tnc,SN,Morph:- be+ change of constituent order,,,
-tnc-NegEx_Form,tnc,NegEx_Form,-be(neg of LOC & POSS is unclear),,,
-tnc-NegExType,tnc,NegExType,SN,,,
+alc-NegEx_Form,alc,NegEx_Form,qjawel/qjep,,the material is too limited to fyully understand the function of qjep- But it looks like this word may have been a former negative existential that evolved into 'No' and 'nothing',RN456[in pasim]
+alc-NegExType,alc,NegExType,Constructionally different from SN,,the material is too limited to fyully understand the function of qjep- But it looks like this word may have been a former negative existential that evolved into 'No' and 'nothing',veselinova2013
+rap-SN,rap,SN,part: 'ina,,,RN73[35]
+rap-NegEx_Form,rap,NegEx_Form,ina,,,RN73[35]
+rap-NegExType,rap,NegExType,Constructionally different from SN,,,veselinova2013
+rar-SN,rar,SN,verb/part(?): kāre,,,RN1249[396]
+rar-NegEx_Form,rar,NegEx_Form,kāre,,,RN1249[396]
+rar-NegExType,rar,NegExType,Constructionally different from SN,,,veselinova2013
+mnv-SN,mnv,SN,part: he'e,,,RN1240[112]
+mnv-NegEx_Form,mnv,NegEx_Form,si'ai,,,RN1240[112]
+mnv-NegExType,mnv,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+tnc-SN,tnc,SN,Morph:- be+ change of constituent order,,,"RN2374[, 1456]"
+tnc-NegEx_Form,tnc,NegEx_Form,-be(neg of LOC & POSS is unclear),,,"RN2374[146, 174]"
+tnc-NegExType,tnc,NegExType,SN,,,veselinova2013
 rus-SN,rus,SN,part: ne,,,
 rus-NegEx_Form,rus,NegEx_Form,net,,,
-rus-NegExType,rus,NegExType,Complete Difference from SN: Lexical item,,,
-sbe-SN,sbe,SN,part: nige,,nige = SN,
-sbe-NegEx_Form,sbe,NegEx_Form,nige EXISTENTIALCONSTRUCTION [SN],,nige = SN,
-sbe-NegExType,sbe,NegExType,SN,,nige = SN,
-smo-SN,smo,SN,part: lē,,,
-smo-NegEx_Form,smo,NegEx_Form,leai,,,
-smo-NegExType,smo,NegExType,Complete Difference from SN: Lexical item,,,
+rus-NegExType,rus,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+sbe-SN,sbe,SN,part: nige,,nige = SN,RN1158[31]
+sbe-NegEx_Form,sbe,NegEx_Form,nige EXISTENTIALCONSTRUCTION [SN],,nige = SN,RN1158[31]
+sbe-NegExType,sbe,NegExType,SN,,nige = SN,veselinova2013
+smo-SN,smo,SN,part: lē,,,"RN204[376, in passim]"
+smo-NegEx_Form,smo,NegEx_Form,leai,,,RN204[526]
+smo-NegExType,smo,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 sey-SN,sey,SN,"Complex:-ma' or  Verb-Nominalizer + peo 'not.have, not.exist' or p├ú 'not.be, refuse'",,,
 sey-NegEx_Form,sey,NegEx_Form,peo,,,
-sey-NegExType,sey,NegExType,Complete Difference from SN: Lexical item,,,
-snw-SN,snw,SN,several: prefix (sometimes also tonal change); different markers for different TA categories,,need to see how nominal predications are negated,
+sey-NegExType,sey,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+snw-SN,snw,SN,several: prefix (sometimes also tonal change); different markers for different TA categories,,need to see how nominal predications are negated,RN2616[25-26]
 snw-NegEx_Form,snw,NegEx_Form,-naa,,need to see how nominal predications are negated,
-snw-NegExType,snw,NegExType,Complete Difference from SN: Lexical item,,need to see how nominal predications are negated,
+snw-NegExType,snw,NegExType,Complete Difference from SN: Lexical item,,need to see how nominal predications are negated,veselinova2013
 sel-SN,sel,SN,several: (1) part: ašša; (2) verb (?): cääŋka,,,
 sel-NegEx_Form,sel,NegEx_Form,cääŋka,,,
-sel-NegExType,sel,NegExType,Two_strategies_TA: (1) Lexical item;  (2) Constructionally different from SN,,,
-set-SN,set,SN,bi-partite: V-…-i,,classificatory negative markers/copulas,
-set-NegEx_Form,set,NegEx_Form,"olo [+human], an [+/-animate]; ban [+animate]; u [-animate]",,classificatory negative markers/copulas,
-set-NegExType,set,NegExType,Complete Difference from SN: Lexical item,,classificatory negative markers/copulas,
+sel-NegExType,sel,NegExType,Two_strategies_TA: (1) Lexical item;  (2) Constructionally different from SN,,,veselinova2013
+set-SN,set,SN,bi-partite: V-…-i,,classificatory negative markers/copulas,RN673[52-53]
+set-NegEx_Form,set,NegEx_Form,"olo [+human], an [+/-animate]; ban [+animate]; u [-animate]",,classificatory negative markers/copulas,RN673[60-1]
+set-NegExType,set,NegExType,Complete Difference from SN: Lexical item,,classificatory negative markers/copulas,veselinova2013
 srp-SN,srp,SN,part: ne,,,
 srp-NegEx_Form,srp,NegEx_Form,nema,,,
-srp-NegExType,srp,NegExType,Complete Difference from SN: Lexical item,,,
-sna-SN,sna,SN,prefix: ha-,,he  who seeks shall find,
+srp-NegExType,srp,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+sna-SN,sna,SN,prefix: ha-,,he  who seeks shall find,"RN2617[3-4, ff]"
 sna-NegEx_Form,sna,NegEx_Form,apana/amuna,,he  who seeks shall find,
-sna-NegExType,sna,NegExType,Complete Difference from SN: Lexical item,,he  who seeks shall find,
-sky-SN,sky,SN,part: hee,,,
-sky-NegEx_Form,sky,NegEx_Form,heai,,,
-sky-NegExType,sky,NegExType,Complete Difference from SN: Lexical item,,,
-snn-SN,snn,SN,Complex:-ma' or an auxiliary construction which indicates non-assertion,,,
-snn-NegEx_Form,snn,NegEx_Form,"beo (NegEx, NegLoc, NegPoss)",,,
-snn-NegExType,snn,NegExType,Complete Difference from SN: Lexical item,,,
-sri-SN,sri,SN,"Morph: -bẽ/-biri (occurence determined by tense, mood and clause type)",,,
-sri-NegEx_Form,sri,NegEx_Form,bãri,,,
-sri-NegExType,sri,NegExType,Complete Difference from SN: Lexical item,,,
+sna-NegExType,sna,NegExType,Complete Difference from SN: Lexical item,,he  who seeks shall find,veselinova2013
+sky-SN,sky,SN,part: hee,,,RN1170[86]
+sky-NegEx_Form,sky,NegEx_Form,heai,,,RN1170[86]
+sky-NegExType,sky,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+snn-SN,snn,SN,Complex:-ma' or an auxiliary construction which indicates non-assertion,,,"RN2368[211, 178]"
+snn-NegEx_Form,snn,NegEx_Form,"beo (NegEx, NegLoc, NegPoss)",,,"RN2368[244, 251]"
+snn-NegExType,snn,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+sri-SN,sri,SN,"Morph: -bẽ/-biri (occurence determined by tense, mood and clause type)",,,RN2372[403]
+sri-NegEx_Form,sri,NegEx_Form,bãri,,,RN2372[403-4]
+sri-NegExType,sri,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 sms-SN,sms,SN,several: (1) verb: ij; (2) verb (?): I'lla,,,
 sms-NegEx_Form,sms,NegEx_Form,(1) i'lla; (2) ij,,,
-sms-NegExType,sms,NegExType,Two_strategies: (1) Lexical item (2) SN,,,
-slk-SN,slk,SN,prefix: nie,,,
-slk-NegEx_Form,slk,NegEx_Form,(1) (nieto); (2) nie je,,,
-slk-NegExType,slk,NegExType,Two_strategies: (1) Lexical item (2) SN (dominant),,,
-slv-SN,slv,SN,part: ne,,,
-slv-NegEx_Form,slv,NegEx_Form,ne,,,
-slv-NegExType,slv,NegExType,SN,,,
-ses-SN,ses,SN,several: (1) part: mana (PFV); (2) part: sii (IPFV),,stealing the dot to represent Songhay,
-ses-NegEx_Form,ses,NegEx_Form,(1) sii 'be absent'; (2) SN,,stealing the dot to represent Songhay,
-ses-NegExType,ses,NegExType,Two_strategies: (1) Lexical item (2) SN,,stealing the dot to represent Songhay,
-mqm-SN,mqm,SN,verb: a'o'e,,,
-mqm-NegEx_Form,mqm,NegEx_Form,a'o'e,,,
-mqm-NegExType,mqm,NegExType,Constructionally different from SN,,,
+sms-NegExType,sms,NegExType,Two_strategies: (1) Lexical item (2) SN,,,veselinova2013
+slk-SN,slk,SN,prefix: nie,,,"RN1086[577, Markus Giger p.c.]"
+slk-NegEx_Form,slk,NegEx_Form,(1) (nieto); (2) nie je,,,"RN1086[577, Markus Giger p.c.]"
+slk-NegExType,slk,NegExType,Two_strategies: (1) Lexical item (2) SN (dominant),,,veselinova2013
+slv-SN,slv,SN,part: ne,,,RN596[112]
+slv-NegEx_Form,slv,NegEx_Form,ne,,,RN596[112]
+slv-NegExType,slv,NegExType,SN,,,veselinova2013
+ses-SN,ses,SN,several: (1) part: mana (PFV); (2) part: sii (IPFV),,stealing the dot to represent Songhay,RN114[143-152]
+ses-NegEx_Form,ses,NegEx_Form,(1) sii 'be absent'; (2) SN,,stealing the dot to represent Songhay,RN114[143-152]
+ses-NegExType,ses,NegExType,Two_strategies: (1) Lexical item (2) SN,,stealing the dot to represent Songhay,veselinova2013
+mqm-SN,mqm,SN,verb: a'o'e,,,RN1170[99]
+mqm-NegEx_Form,mqm,NegEx_Form,a'o'e,,,RN1170[99]
+mqm-NegExType,mqm,NegExType,Constructionally different from SN,,,veselinova2013
 sma-SN,sma,SN,aux: i-,,,
 sma-NegEx_Form,sma,NegEx_Form,i- [SN],,,
-sma-NegExType,sma,NegExType,SN,,,
-ggo-SN,ggo,SN,several: (1) suffix: -o-/-v-; (2) suffix: sil,,,
-ggo-NegEx_Form,ggo,NegEx_Form,sil,,,
-ggo-NegExType,ggo,NegExType,Mophologically different from SN,,,
+sma-NegExType,sma,NegExType,SN,,,veselinova2013
+ggo-SN,ggo,SN,several: (1) suffix: -o-/-v-; (2) suffix: sil,,,RN2107[122-134]
+ggo-NegEx_Form,ggo,NegEx_Form,sil,,,RN2107[122-134]
+ggo-NegExType,ggo,NegExType,Mophologically different from SN,,,veselinova2013
 spa-SN,spa,SN,part: no,,Find a grammar to stick in,
 spa-NegEx_Form,spa,NegEx_Form,no hay,,Find a grammar to stick in,
-spa-NegExType,spa,NegExType,SN,,Find a grammar to stick in,
-sue-SN,sue,SN,several: (1) part: kaka; (2) part: oko,,stealing the dot to represent Suena,
-sue-NegEx_Form,sue,NegEx_Form,tepo,,stealing the dot to represent Suena,
-sue-NegExType,sue,NegExType,Complete Difference from SN: Lexical item,,stealing the dot to represent Suena,
-spp-SN,spp,SN,bi-partite: (nye)…mʔ,,,
-spp-NegEx_Form,spp,NegEx_Form,(nye)…mʔ´ [SN],,,
-spp-NegExType,spp,NegExType,SN,,,
+spa-NegExType,spa,NegExType,SN,,Find a grammar to stick in,veselinova2013
+sue-SN,sue,SN,several: (1) part: kaka; (2) part: oko,,stealing the dot to represent Suena,RN671[350]
+sue-NegEx_Form,sue,NegEx_Form,tepo,,stealing the dot to represent Suena,RN344[112]
+sue-NegExType,sue,NegExType,Complete Difference from SN: Lexical item,,stealing the dot to represent Suena,veselinova2013
+spp-SN,spp,SN,bi-partite: (nye)…mʔ,,,RN38[247]
+spp-NegEx_Form,spp,NegEx_Form,(nye)…mʔ´ [SN],,,RN38[247]
+spp-NegExType,spp,NegExType,SN,,,veselinova2013
 swe-SN,swe,SN,part: inte,,,
 swe-NegEx_Form,swe,NegEx_Form,(1) ingen; (2) inte,,,
-swe-NegExType,swe,NegExType,Two_strategies: (1) negative indefinite pronoun (preferred) (2) SN (with expressions of quantification),,,
-mky-SN,mky,SN,part: te,,stealng hte dot to represent Taba,
-mky-NegEx_Form,mky,NegEx_Form,te [SN],,stealng hte dot to represent Taba,
-mky-NegExType,mky,NegExType,SN,,stealng hte dot to represent Taba,
-shy-SN,shy,SN,part: u(r/d),,,
-shy-NegEx_Form,shy,NegEx_Form,(1) ulliš; (2) ud--illi;,,,
-shy-NegExType,shy,NegExType,Two_strategies_TA: (1) Lexical item; (2) SN,,,
-shi-SN,shi,SN,part: ur,,,
-shi-NegEx_Form,shi,NegEx_Form,lah᷊,,,
-shi-NegExType,shi,NegExType,Complete Difference from SN: Lexical item,,,
-tgl-SN,tgl,SN,part: hindi,,,
-tgl-NegEx_Form,tgl,NegEx_Form,wala,,,
-tgl-NegExType,tgl,NegExType,Complete Difference from SN: Lexical item,,,
-tah-SN,tah,SN,verb/part: 'a'ita/'a'ore/'e'ita/'e'ore,,,
-tah-NegEx_Form,tah,NegEx_Form,(1) 'ai'ta; (2) 'aore,,,
-tah-NegExType,tah,NegExType,Two_strategies: (1) Constructionally different from SN (2) Lexical item,,,
-tam-SN,tam,SN,several: (1) suffix: -ill-; (2) suffix: ā,,,
+swe-NegExType,swe,NegExType,Two_strategies: (1) negative indefinite pronoun (preferred) (2) SN (with expressions of quantification),,,veselinova2013
+mky-SN,mky,SN,part: te,,stealng hte dot to represent Taba,RN681[238]
+mky-NegEx_Form,mky,NegEx_Form,te [SN],,stealng hte dot to represent Taba,RN681[238]
+mky-NegExType,mky,NegExType,SN,,stealng hte dot to represent Taba,veselinova2013
+shy-SN,shy,SN,part: u(r/d),,,RN2135[288-289]
+shy-NegEx_Form,shy,NegEx_Form,(1) ulliš; (2) ud--illi;,,,RN2135[288-289]
+shy-NegExType,shy,NegExType,Two_strategies_TA: (1) Lexical item; (2) SN,,,veselinova2013
+shi-SN,shi,SN,part: ur,,,RN2135[288-289]
+shi-NegEx_Form,shi,NegEx_Form,lah᷊,,,RN2135[288-289]
+shi-NegExType,shi,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+tgl-SN,tgl,SN,part: hindi,,,"RN671[352, Carl Rubino, p.c.]"
+tgl-NegEx_Form,tgl,NegEx_Form,wala,,,RN262[521-523]
+tgl-NegExType,tgl,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+tah-SN,tah,SN,verb/part: 'a'ita/'a'ore/'e'ita/'e'ore,,,RN1172[151-152]
+tah-NegEx_Form,tah,NegEx_Form,(1) 'ai'ta; (2) 'aore,,,RN1172[148]
+tah-NegExType,tah,NegExType,Two_strategies: (1) Constructionally different from SN (2) Lexical item,,,veselinova2013
+tam-SN,tam,SN,several: (1) suffix: -ill-; (2) suffix: ā,,,"RN2103[221, 229-230]"
 tam-NegEx_Form,tam,NegEx_Form,il-,,,
-tam-NegExType,tam,NegExType,Mophologically different from SN,,,
-tae-SN,tae,SN,Morph_C: ma-V-Kade/kasu,,SN for properties and states/,
-tae-NegEx_Form,tae,NegEx_Form,(1) sede; (2) kurripua,,SN for properties and states/,
-tae-NegExType,tae,NegExType,Two_strategies: (1) Lexical item; (2) Lexical item,,SN for properties and states/,
-rif-SN,rif,SN,part: ur,,,
-rif-NegEx_Form,rif,NegEx_Form,(1) ulaš; (2) (ur) … (ša);,,,
-rif-NegExType,rif,NegExType,Two_strategies_TA: (1) Lexical item; (2) SN,,,
-tav-SN,tav,SN,Morph: -ke/-keti,,,
-tav-NegEx_Form,tav,NegEx_Form,"mani (NegEx, NegLoc, Poss is unclear)",,,
-tav-NegExType,tav,NegExType,Complete Difference from SN: Lexical item,,,
-tel-SN,tel,SN,several: (1) aux: lēdu; (2) suffix: -a-,,,
-tel-NegEx_Form,tel,NegEx_Form,lee,,,
-tel-NegExType,tel,NegExType,Constructionally different from SN,,,
-tio-SN,tio,SN,bi-partite: san … haa,,,
-tio-NegEx_Form,tio,NegEx_Form,ahiki,,,
-tio-NegExType,tio,NegExType,Complete Difference from SN: Lexical item,,,
-ter-SN,ter,SN,"Part: ako, hyoko V",,perhaps the privative ma- is involved for the NegEx mano,
-ter-NegEx_Form,ter,NegEx_Form,ako N-ino (-OBJ)/ ako N,,perhaps the privative ma- is involved for the NegEx mano,
-ter-NegExType,ter,NegExType,Constructionally different from SN,,perhaps the privative ma- is involved for the NegEx mano,
-tet-SN,tet,SN,several: (1) part: ha'I; (2) part: la,,SN markers/exist,
-tet-NegEx_Form,tet,NegEx_Form,ha'i/la n'o,,SN markers/exist,
-tet-NegExType,tet,NegExType,SN,,SN markers/exist,
+tam-NegExType,tam,NegExType,Mophologically different from SN,,,veselinova2013
+tae-SN,tae,SN,Morph_C: ma-V-Kade/kasu,,SN for properties and states/,RN2322[254]
+tae-NegEx_Form,tae,NegEx_Form,(1) sede; (2) kurripua,,SN for properties and states/,"RN2316[108,110]"
+tae-NegExType,tae,NegExType,Two_strategies: (1) Lexical item; (2) Lexical item,,SN for properties and states/,veselinova2013
+rif-SN,rif,SN,part: ur,,,RN2135[288-289]
+rif-NegEx_Form,rif,NegEx_Form,(1) ulaš; (2) (ur) … (ša);,,,RN2135[288-289)]
+rif-NegExType,rif,NegExType,Two_strategies_TA: (1) Lexical item; (2) SN,,,veselinova2013
+tav-SN,tav,SN,Morph: -ke/-keti,,,"RN2373[60, in passim]"
+tav-NegEx_Form,tav,NegEx_Form,"mani (NegEx, NegLoc, Poss is unclear)",,,RN2373[61]
+tav-NegExType,tav,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+tel-SN,tel,SN,several: (1) aux: lēdu; (2) suffix: -a-,,,"RN2106[149, 155, 162, 218]"
+tel-NegEx_Form,tel,NegEx_Form,lee,,,"RN2106[149, 155, 162]"
+tel-NegExType,tel,NegExType,Constructionally different from SN,,,veselinova2013
+tio-SN,tio,SN,bi-partite: san … haa,,,RN1972[45]
+tio-NegEx_Form,tio,NegEx_Form,ahiki,,,RN1972[49]
+tio-NegExType,tio,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+ter-SN,ter,SN,"Part: ako, hyoko V",,perhaps the privative ma- is involved for the NegEx mano,RN2322[245]
+ter-NegEx_Form,ter,NegEx_Form,ako N-ino (-OBJ)/ ako N,,perhaps the privative ma- is involved for the NegEx mano,RN2357[67/Ekdahl & Butler 1979:74]
+ter-NegExType,ter,NegExType,Constructionally different from SN,,perhaps the privative ma- is involved for the NegEx mano,veselinova2013
+tet-SN,tet,SN,several: (1) part: ha'I; (2) part: la,,SN markers/exist,RN1211[228-231]
+tet-NegEx_Form,tet,NegEx_Form,ha'i/la n'o,,SN markers/exist,RN1211[187]
+tet-NegExType,tet,NegExType,SN,,SN markers/exist,veselinova2013
 tha-SN,tha,SN,part: may,,,
 tha-NegEx_Form,tha,NegEx_Form,may1 EXISTENTIAL CONSTRUCTION,,,
-tha-NegExType,tha,NegExType,SN,,,
-tkl-SN,tkl,SN,part: hē,,,
-tkl-NegEx_Form,tkl,NegEx_Form,heai,,,
-tkl-NegExType,tkl,NegExType,Complete Difference from SN: Lexical item,,,
-toi-SN,toi,SN,prefix: tií,,negation of licative predications seems special too but needs more work,
-toi-NegEx_Form,toi,NegEx_Form,(1) -kew; (2) -(ny)ina,,negation of licative predications seems special too but needs more work,
-toi-NegExType,toi,NegExType,Two_strategies: (1) Lexical item; (2) Lexical item,,negation of licative predications seems special too but needs more work,
-ton-SN,ton,SN,verb: 'ikai,,,
-ton-NegEx_Form,ton,NegEx_Form,'ikai,,,
-ton-NegExType,ton,NegExType,Constructionally different from SN,,,
+tha-NegExType,tha,NegExType,SN,,,veselinova2013
+tkl-SN,tkl,SN,part: hē,,,RN1171[136]
+tkl-NegEx_Form,tkl,NegEx_Form,heai,,,RN1171[135]
+tkl-NegExType,tkl,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+toi-SN,toi,SN,prefix: tií,,negation of licative predications seems special too but needs more work,RN2120[44]
+toi-NegEx_Form,toi,NegEx_Form,(1) -kew; (2) -(ny)ina,,negation of licative predications seems special too but needs more work,RN2120[70]
+toi-NegExType,toi,NegExType,Two_strategies: (1) Lexical item; (2) Lexical item,,negation of licative predications seems special too but needs more work,veselinova2013
+ton-SN,ton,SN,verb: 'ikai,,,RN1164[103]
+ton-NegEx_Form,ton,NegEx_Form,'ikai,,,RN1164[101]
+ton-NegExType,ton,NegExType,Constructionally different from SN,,,veselinova2013
 fit-SN,fit,SN,aux: e-,,,
 fit-NegEx_Form,fit,NegEx_Form,e- [SN],,,
-fit-NegExType,fit,NegExType,SN,,,
-trn-SN,trn,SN,AUX: wo~wi~woΓÇÖi-tam v-irr,,"the fom of the NegEx is translated as  'no haber, no estar,no ser'",
-trn-NegEx_Form,trn,NegEx_Form,GENDER.NUM.ANIM-jina,,"the fom of the NegEx is translated as  'no haber, no estar,no ser'",
-trn-NegExType,trn,NegExType,Complete Difference from SN: Lexical item,,"the fom of the NegEx is translated as  'no haber, no estar,no ser'",
-tsn-SN,tsn,SN,part: gá-góná,,Botswana --> S. Africa. SN seems to change according to tense but this marker shows up in the present and also with the existential particle,
-tsn-NegEx_Form,tsn,NegEx_Form,gá-góná,,Botswana --> S. Africa. SN seems to change according to tense but this marker shows up in the present and also with the existential particle,
-tsn-NegExType,tsn,NegExType,SN,,Botswana --> S. Africa. SN seems to change according to tense but this marker shows up in the present and also with the existential particle,
-thv-SN,thv,SN,part: ur,,,
-thv-NegEx_Form,thv,NegEx_Form,aba/ba,,,
-thv-NegExType,thv,NegExType,Complete Difference from SN: Lexical item,,,
-tuo-SN,tuo,SN,Morph: -ti main clauses/'-we'efor non-visuals and other non-present/-some for future,,,
+fit-NegExType,fit,NegExType,SN,,,veselinova2013
+trn-SN,trn,SN,AUX: wo~wi~woΓÇÖi-tam v-irr,,"the fom of the NegEx is translated as  'no haber, no estar,no ser'",RN2322[247]
+trn-NegEx_Form,trn,NegEx_Form,GENDER.NUM.ANIM-jina,,"the fom of the NegEx is translated as  'no haber, no estar,no ser'",RN2321[221]
+trn-NegExType,trn,NegExType,Complete Difference from SN: Lexical item,,"the fom of the NegEx is translated as  'no haber, no estar,no ser'",veselinova2013
+tsn-SN,tsn,SN,part: gá-góná,,Botswana --> S. Africa. SN seems to change according to tense but this marker shows up in the present and also with the existential particle,RN2119[41]
+tsn-NegEx_Form,tsn,NegEx_Form,gá-góná,,Botswana --> S. Africa. SN seems to change according to tense but this marker shows up in the present and also with the existential particle,RN2119[41]
+tsn-NegExType,tsn,NegExType,SN,,Botswana --> S. Africa. SN seems to change according to tense but this marker shows up in the present and also with the existential particle,veselinova2013
+thv-SN,thv,SN,part: ur,,,RN2135[288-289]
+thv-NegEx_Form,thv,NegEx_Form,aba/ba,,,RN2135[288-289)]
+thv-NegExType,thv,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+tuo-SN,tuo,SN,Morph: -ti main clauses/'-we'efor non-visuals and other non-present/-some for future,,,RN2377[152-3]
 tuo-NegEx_Form,tuo,NegEx_Form,"mãrí /bãdí/ 'no estar, estar ausente'",,,
-tuo-NegExType,tuo,NegExType,Complete Difference from SN: Lexical item,,,
-khc-SN,khc,SN,part: mbea(ka),,,
-khc-NegEx_Form,khc,NegEx_Form,mbea’a,,,
-khc-NegExType,khc,NegExType,Complete Difference from SN: Lexical item,,,
+tuo-NegExType,tuo,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+khc-SN,khc,SN,part: mbea(ka),,,RN70[450]
+khc-NegEx_Form,khc,NegEx_Form,mbea’a,,,RN70[364]
+khc-NegExType,khc,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 tuv-SN,tuv,SN,prefix: ɲi-,,,
 tuv-NegEx_Form,tuv,NegEx_Form,a-mamaka-ύ,,,
-tuv-NegExType,tuv,NegExType,Complete Difference from SN: Lexical item,,,
-tur-SN,tur,SN,suffix: mA,,,
+tuv-NegExType,tuv,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+tur-SN,tur,SN,suffix: mA,,,RN671[359]
 tur-NegEx_Form,tur,NegEx_Form,yok,,,
-tur-NegExType,tur,NegExType,Complete Difference from SN: Lexical item,,,
-tvl-SN,tvl,SN,part: see/hee,,,
-tvl-NegEx_Form,tvl,NegEx_Form,seeai,,,
-tvl-NegExType,tvl,NegExType,Complete Difference from SN: Lexical item,,,
-tue-SN,tue,SN,Morph:-riin main clauses/-e in nomiinalized and subordinate clauses,,,
-tue-NegEx_Form,tue,NegEx_Form,"mani (NegEx, Neg Poss); there is another NegPoss",,,
-tue-NegExType,tue,NegExType,Complete Difference from SN: Lexical item,,,
+tur-NegExType,tur,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+tvl-SN,tvl,SN,part: see/hee,,,RN1361[180]
+tvl-NegEx_Form,tvl,NegEx_Form,seeai,,,RN1361[121]
+tvl-NegExType,tvl,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+tue-SN,tue,SN,Morph:-riin main clauses/-e in nomiinalized and subordinate clauses,,,RN2375[37]
+tue-NegEx_Form,tue,NegEx_Form,"mani (NegEx, Neg Poss); there is another NegPoss",,,"RN2375[37, in passim]"
+tue-NegExType,tue,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 udi-SN,udi,SN,suffix: -te-,,,
 udi-NegEx_Form,udi,NegEx_Form,te-,,,
-udi-NegExType,udi,NegExType,SN,,,
-udm-SN,udm,SN,aux: ö-,,,
-udm-NegEx_Form,udm,NegEx_Form,övöl,,,
-udm-NegExType,udm,NegExType,Complete Difference from SN: Lexical item,,,
+udi-NegExType,udi,NegExType,SN,,,veselinova2013
+udm-SN,udm,SN,aux: ö-,,,RN1425[in passim]
+udm-NegEx_Form,udm,NegEx_Form,övöl,,,RN1425[in passim]
+udm-NegExType,udm,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 ukr-SN,ukr,SN,part: ne,,,
 ukr-NegEx_Form,ukr,NegEx_Form,nema(je),,,
-ukr-NegExType,ukr,NegExType,Complete Difference from SN: Lexical item,,,
+ukr-NegExType,ukr,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 sju-SN,sju,SN,aux: i-,,,
 sju-NegEx_Form,sju,NegEx_Form,i- [SN],,,
-sju-NegExType,sju,NegExType,SN,,,
-hsb-SN,hsb,SN,prefix: nje-,,,
+sju-NegExType,sju,NegExType,SN,,,veselinova2013
+hsb-SN,hsb,SN,prefix: nje-,,,RN1087[666]
 hsb-NegEx_Form,hsb,NegEx_Form,ne [SN],,,
-hsb-NegExType,hsb,NegExType,SN,,,
-wnu-SN,wnu,SN,several: (1) part: me + construction changes according TA,,,
-wnu-NegEx_Form,wnu,NegEx_Form,ue,,,
-wnu-NegExType,wnu,NegExType,Complete Difference from SN: Lexical item,,,
+hsb-NegExType,hsb,NegExType,SN,,,veselinova2013
+wnu-SN,wnu,SN,several: (1) part: me + construction changes according TA,,,"RN245[278, 57, 99]"
+wnu-NegEx_Form,wnu,NegEx_Form,ue,,,RN245[273-274]
+wnu-NegExType,wnu,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
 ute-SN,ute,SN,bi-partite: ka … wa,,'wa- is glossed as 'lack' with the noun but NEG when suffixed on verbs,
 ute-NegEx_Form,ute,NegEx_Form,ka-NOUN-'wa-,,'wa- is glossed as 'lack' with the noun but NEG when suffixed on verbs,
-ute-NegExType,ute,NegExType,Constructionally different from SN,,'wa- is glossed as 'lack' with the noun but NEG when suffixed on verbs,
+ute-NegExType,ute,NegExType,Constructionally different from SN,,'wa- is glossed as 'lack' with the noun but NEG when suffixed on verbs,veselinova2013
 vep-SN,vep,SN,part: ei,,,
 vep-NegEx_Form,vep,NegEx_Form,(1) pole; (2) ei 'SN',,,
-vep-NegExType,vep,NegExType,Two_strategies: (1) Lexical item (2) SN,,,
-vie-SN,vie,SN,part: không,,,
-vie-NegEx_Form,vie,NegEx_Form,không (cô) NOUN,,,
-vie-NegExType,vie,NegExType,SN,,,
-vot-SN,vot,SN,aux: e-,,,
-vot-NegEx_Form,vot,NegEx_Form,e- [SN],,,
-vot-NegExType,vot,NegExType,SN,,,
-wls-SN,wls,SN,verb: morel,,,
-wls-NegEx_Form,wls,NegEx_Form,mole,,,
-wls-NegExType,wls,NegExType,Constructionally different from SN,,,
-wyb-SN,wyb,SN,part: waŋa,,,
-wyb-NegEx_Form,wyb,NegEx_Form,Dhalaba: [PRIV],,,
-wyb-NegExType,wyb,NegExType,Complete Difference from SN: Suffix (Privative),,,
-wba-SN,wba,SN,suffix: -naka,,,
+vep-NegExType,vep,NegExType,Two_strategies: (1) Lexical item (2) SN,,,veselinova2013
+vie-SN,vie,SN,part: không,,,"RN294[208-9, 211, 216]"
+vie-NegEx_Form,vie,NegEx_Form,không (cô) NOUN,,,"RN294[208-9, 211, 216]"
+vie-NegExType,vie,NegExType,SN,,,veselinova2013
+vot-SN,vot,SN,aux: e-,,,RN1422[80]
+vot-NegEx_Form,vot,NegEx_Form,e- [SN],,,RN1422[80]
+vot-NegExType,vot,NegExType,SN,,,veselinova2013
+wls-SN,wls,SN,verb: morel,,,RN2047[in passim]
+wls-NegEx_Form,wls,NegEx_Form,mole,,,RN2047[in passim]
+wls-NegExType,wls,NegExType,Constructionally different from SN,,,veselinova2013
+wyb-SN,wyb,SN,part: waŋa,,,RN69[239]
+wyb-NegEx_Form,wyb,NegEx_Form,Dhalaba: [PRIV],,,RN69[111]
+wyb-NegExType,wyb,NegExType,Complete Difference from SN: Suffix (Privative),,,veselinova2013
+wba-SN,wba,SN,suffix: -naka,,,RN671[364-365]
 wba-NegEx_Form,wba,NegEx_Form,(1) ekira; (2) ana,,,
-wba-NegExType,wba,NegExType,Two_strategies: (1) negative indefinite determiner (2) negative indefinite determiner,,,
-mht-SN,mht,SN,Bi-partite: proclitic ya= + enclitic =pia,,I had used the lang with a code gae; find it in hte general Arawak file and correct it,
-mht-NegEx_Form,mht,NegEx_Form,ya-beda-pia (frozen),,I had used the lang with a code gae; find it in hte general Arawak file and correct it,
-mht-NegExType,mht,NegExType,Complete Difference from SN: Lexical item,,I had used the lang with a code gae; find it in hte general Arawak file and correct it,
-wau-SN,wau,SN,Part: aitsa V,,,
-wau-NegEx_Form,wau,NegEx_Form,mano,,,
-wau-NegExType,wau,NegExType,Complete Difference from SN: Lexical item,,,
-guc-SN,guc,SN,"AUX: noho(l)-(fut)-agr(gen, num) Vsub",,,
-guc-NegEx_Form,guc,NegEx_Form,nnojola/nnojoloo,,,
-guc-NegExType,guc,NegExType,Complete Difference from SN: Lexical item,,,
-kew-SN,kew,SN,proclitic: na-,,,
-kew-NegEx_Form,kew,NegEx_Form,dia (ta),,,
-kew-NegExType,kew,NegExType,Complete Difference from SN: Lexical item,,,
-uve-SN,uve,SN,part: hē,,,
-uve-NegEx_Form,uve,NegEx_Form,siai,,,
-uve-NegExType,uve,NegExType,Complete Difference from SN: Lexical item,,,
-pes-SN,pes,SN,prefix: na-,,,
-pes-NegEx_Form,pes,NegEx_Form,nist,,,
-pes-NegExType,pes,NegExType,Complete Difference from SN: Lexical item,,,
-jai-SN,jai,SN,several: (1) part: mach; (2) bi-partite: mat …-oj,,,
-jai-NegEx_Form,jai,NegEx_Form,mach,,,
-jai-NegExType,jai,NegExType,Constructionally different from SN,,,
-mrj-SN,mrj,SN,verb: a-,,,
-mrj-NegEx_Form,mrj,NegEx_Form,uke,,,
-mrj-NegExType,mrj,NegExType,Complete Difference from SN: Lexical item,,,
-wit-SN,wit,SN,bi-partite: Ɂelew …mina,,,
-wit-NegEx_Form,wit,NegEx_Form,mina,,,
-wit-NegExType,wit,NegExType,Mophologically different from SN,,,
-ame-SN,ame,SN,Morph_C:  ama V-e/o,,I have commnet and foud negated locatives in Duff-Trump 1997,
+wba-NegExType,wba,NegExType,Two_strategies: (1) negative indefinite determiner (2) negative indefinite determiner,,,veselinova2013
+mht-SN,mht,SN,Bi-partite: proclitic ya= + enclitic =pia,,I had used the lang with a code gae; find it in hte general Arawak file and correct it,RN2322[253]
+mht-NegEx_Form,mht,NegEx_Form,ya-beda-pia (frozen),,I had used the lang with a code gae; find it in hte general Arawak file and correct it,"RN2330[250, 266]"
+mht-NegExType,mht,NegExType,Complete Difference from SN: Lexical item,,I had used the lang with a code gae; find it in hte general Arawak file and correct it,veselinova2013
+wau-SN,wau,SN,Part: aitsa V,,,RN2322[245]
+wau-NegEx_Form,wau,NegEx_Form,mano,,,RN2318[166ff]
+wau-NegExType,wau,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+guc-SN,guc,SN,"AUX: noho(l)-(fut)-agr(gen, num) Vsub",,,RN2322[247]
+guc-NegEx_Form,guc,NegEx_Form,nnojola/nnojoloo,,,RN2332[37]
+guc-NegExType,guc,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+kew-SN,kew,SN,proclitic: na-,,,RN671[291]
+kew-NegEx_Form,kew,NegEx_Form,dia (ta),,,RN691[127]
+kew-NegExType,kew,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+uve-SN,uve,SN,part: hē,,,RN1170[86]
+uve-NegEx_Form,uve,NegEx_Form,siai,,,RN1170[86]
+uve-NegExType,uve,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+pes-SN,pes,SN,prefix: na-,,,RN671[336)]
+pes-NegEx_Form,pes,NegEx_Form,nist,,,"RN590[89, Donald Stilo p.c.]"
+pes-NegExType,pes,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+jai-SN,jai,SN,several: (1) part: mach; (2) bi-partite: mat …-oj,,,RN671[282]
+jai-NegEx_Form,jai,NegEx_Form,mach,,,"RN48[27, Day 1973: 62]"
+jai-NegExType,jai,NegExType,Constructionally different from SN,,,veselinova2013
+mrj-SN,mrj,SN,verb: a-,,,RN1415[72-73]
+mrj-NegEx_Form,mrj,NegEx_Form,uke,,,RN1415[72-73]
+mrj-NegExType,mrj,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+wit-SN,wit,SN,bi-partite: Ɂelew …mina,,,RN2091[197-199]
+wit-NegEx_Form,wit,NegEx_Form,mina,,,RN2091[197-199]
+wit-NegExType,wit,NegExType,Mophologically different from SN,,,veselinova2013
+ame-SN,ame,SN,Morph_C:  ama V-e/o,,I have commnet and foud negated locatives in Duff-Trump 1997,RN2322[257]
 ame-NegEx_Form,ame,NegEx_Form,ama eñalle 'NEG exist',,I have commnet and foud negated locatives in Duff-Trump 1997,
-ame-NegExType,ame,NegExType,SN,,I have commnet and foud negated locatives in Duff-Trump 1997,
-yvt-SN,yvt,SN,Part: jata V,,,
-yvt-NegEx_Form,yvt,NegEx_Form,jata/jáinta (frozen),,,
-yvt-NegExType,yvt,NegExType,Complete Difference from SN: Lexical item,,,
-yee-SN,yee,SN,several: (1) prefix: ta- + a lot of restructuring of all remaining affixation in the verb form; (2) proclitic: 'ina (borrowing from Tok Pisin),,,
-yee-NegEx_Form,yee,NegEx_Form,kayak,,,
-yee-NegExType,yee,NegExType,Complete Difference from SN: Lexical item,,,
-pib-SN,pib,SN,Part: hi V,,,
-pib-NegEx_Form,pib,NegEx_Form,maleSa,,,
-pib-NegExType,pib,NegExType,Complete Difference from SN: Lexical item,,,
-yor-SN,yor,SN,part: ko,,Perhaps Awa Pit and Yoruba should be in a separte type,
-yor-NegEx_Form,yor,NegEx_Form,(1) kó wà; (2) kó sí,,Perhaps Awa Pit and Yoruba should be in a separte type,
-yor-NegExType,yor,NegExType,Two_strategies: (1) Lexical item (2) SN,,Perhaps Awa Pit and Yoruba should be in a separte type,
-ycn-SN,ycn,SN,Morph_C: unka V-la-TAM,,"unk├í i'imal├í consists of NEG + a Conneg-form of the verb 'be, exist, have'; however, the two are often cited together, there is a separate dictionary entry so I'm wondering if it is not a stable collocation",
+ame-NegExType,ame,NegExType,SN,,I have commnet and foud negated locatives in Duff-Trump 1997,veselinova2013
+yvt-SN,yvt,SN,Part: jata V,,,RN2322[245]
+yvt-NegEx_Form,yvt,NegEx_Form,jata/jáinta (frozen),,,RN2333[87]
+yvt-NegExType,yvt,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+yee-SN,yee,SN,several: (1) prefix: ta- + a lot of restructuring of all remaining affixation in the verb form; (2) proclitic: 'ina (borrowing from Tok Pisin),,,"RN88[251-252, 263]"
+yee-NegEx_Form,yee,NegEx_Form,kayak,,,RN88[461]
+yee-NegExType,yee,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+pib-SN,pib,SN,Part: hi V,,,RN2322[245]
+pib-NegEx_Form,pib,NegEx_Form,maleSa,,,RN2334[303]
+pib-NegExType,pib,NegExType,Complete Difference from SN: Lexical item,,,veselinova2013
+yor-SN,yor,SN,part: ko,,Perhaps Awa Pit and Yoruba should be in a separte type,RN314[137]
+yor-NegEx_Form,yor,NegEx_Form,(1) kó wà; (2) kó sí,,Perhaps Awa Pit and Yoruba should be in a separte type,RN2117[260]
+yor-NegExType,yor,NegExType,Two_strategies: (1) Lexical item (2) SN,,Perhaps Awa Pit and Yoruba should be in a separte type,veselinova2013
+ycn-SN,ycn,SN,Morph_C: unka V-la-TAM,,"unk├í i'imal├í consists of NEG + a Conneg-form of the verb 'be, exist, have'; however, the two are often cited together, there is a separate dictionary entry so I'm wondering if it is not a stable collocation",RN2322[257]
 ycn-NegEx_Form,ycn,NegEx_Form,unká i'imalá,,"unk├í i'imal├í consists of NEG + a Conneg-form of the verb 'be, exist, have'; however, the two are often cited together, there is a separate dictionary entry so I'm wondering if it is not a stable collocation",
-ycn-NegExType,ycn,NegExType,Complete Difference from SN: Lexical item,,"unk├í i'imal├í consists of NEG + a Conneg-form of the verb 'be, exist, have'; however, the two are often cited together, there is a separate dictionary entry so I'm wondering if it is not a stable collocation",
-diq-SN,diq,SN,prefix: -'ne-/'ni,,was Dmili,
-diq-NegEx_Form,diq,NegEx_Form,’t͡shino,,was Dmili,
-diq-NegExType,diq,NegExType,Complete Difference from SN: Lexical item,,was Dmili,
+ycn-NegExType,ycn,NegExType,Complete Difference from SN: Lexical item,,"unk├í i'imal├í consists of NEG + a Conneg-form of the verb 'be, exist, have'; however, the two are often cited together, there is a separate dictionary entry so I'm wondering if it is not a stable collocation",veselinova2013
+diq-SN,diq,SN,prefix: -'ne-/'ni,,was Dmili,RN1019[130-131]
+diq-NegEx_Form,diq,NegEx_Form,’t͡shino,,was Dmili,RN1019[133]
+diq-NegExType,diq,NegExType,Complete Difference from SN: Lexical item,,was Dmili,veselinova2013
