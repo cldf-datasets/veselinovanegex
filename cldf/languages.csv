@@ -45,7 +45,7 @@ myv,Erzya,,52.8548,45.3901,erzy1239,myv
 est,Estonian,,,,,est
 evn,Evenki,,61.972,94.689,even1259,evn
 fin,Finnish,,64.7628,25.5577,finn1318,fin
-enf,Forest Enets,,69.9829,88.2121,fore1265,enf
+enf,Forest Enets,,68.6,86.5,fore1265,enf
 fra,French,,48.0,2.0,stan1290,fra
 fut,Futuna-Aniwa,,-19.5303,170.215,futu1245,fut
 cab,Garifuna,,15.3529,-86.9091,gari1256,cab
@@ -58,7 +58,7 @@ ell,Greek,,38.36,23.13,mode1248,ell
 bsq,Greenlandic Inuktitut,,7.27501,-11.543,nucl1418,bsq
 gug,Guarani,,-25.60551,-57.08816,para1311,gug
 afb,Gulf Spoken Arabic,,30.17,47.5,gulf1241,afb
-khk,Halh Mongolian,,48.324,106.289,halh1238,khk
+khk,Halh Mongolian,,48.32397,106.28874,halh1238,khk
 hau,Hausa,,11.1513,8.7804,haus1257,hau
 haw,Hawaiian,,19.6297,-155.43,hawa1245,haw
 heb,Hebrew,,31.1056,35.0179,hebr1245,heb
@@ -88,7 +88,7 @@ kfa,Kodagu,,12.2443,75.9161,koda1255,kfa
 koi,Komi-Permyak,,59.6602,54.7959,komi1269,koi
 kpv,Komi-Zyrian,,64.0527,54.946,komi1268,kpv
 kfc,Konda-Dora,,18.26754,82.93402,kond1295,kfc
-kor,Korean,,37.5,128.0,kore1280,kor
+kor,Korean,,37.54,126.98,kore1280,kor
 coe,Koreguaje,,0.92316,-75.3475,kore1283,coe
 gvc,Kotiria,,1.07554,-69.5705,guan1269,gvc
 kff,Koya,,17.6772,81.2096,koya1251,kff
@@ -136,7 +136,7 @@ njt,Ndyuka-Trio Pidgin,,2.94789,-56.0182,ndyu1241,njt
 yrk,Nenets,,66.1775,71.0234,nene1249,yrk
 nez,Nez Perce,,46.3073,-116.408,nezp1238,nez
 nio,Nganasan,,73.1354,86.2106,ngan1291,nio
-nlr,Ngarla,,,,ngar1286,nlr
+nlr,Ngarla,,-20.37356,118.82594,ngar1286,nlr
 nge,Ngemba,,5.97864,10.1469,ngem1255,nge
 niu,Niue,,-19.06,-169.86,niue1239,niu
 niv,Nivkh,,52.59,140.681,gily1242,niv
@@ -179,7 +179,7 @@ slv,Slovenian,,46.2543,14.7766,slov1268,slv
 ses,Songhay Koyraborro Senni,,16.9634,-0.55187,koyr1242,ses
 mqm,South Marquesan,,-9.75663,-138.979,sout2866,mqm
 sma,South Saami,,62.8801,13.7006,sout2674,sma
-ggo,Southern Gondi,,20.10446,80.27811,sout2711,ggo
+ggo,Southern Gondi,,,,,ggo
 spa,Spanish,,40.4414,-1.11788,stan1288,spa
 sue,Suena,,-7.76339,147.534,suen1241,sue
 spp,Supyire Senoufo,,11.632,-5.87709,supy1237,spp

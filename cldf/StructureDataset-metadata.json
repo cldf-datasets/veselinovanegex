@@ -10,22 +10,22 @@
     "dcat:accessURL": "https://github.com/cldf-datasets/veselinovanegex",
     "prov:wasDerivedFrom": [
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/veselinovanegex",
-            "dc:created": "959ba29"
+            "rdf:type": "prov:Entity",
+            "dc:created": "b03c796",
+            "dc:title": "Repository"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3-3-g5fd5ffb"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v4.8",
+            "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.6.12"
+            "dc:description": "3.8.10"
         },
         {
             "dc:title": "python-packages",
@@ -34,9 +34,6 @@
     ],
     "rdf:ID": "veselinovanegex",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
-    "dialect": {
-        "commentPrefix": null
-    },
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
@@ -53,18 +50,21 @@
                         "name": "ID"
                     },
                     {
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
                         "required": true,
                         "name": "Language_ID"
                     },
                     {
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
                         "required": true,
                         "name": "Parameter_ID"
                     },
                     {
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "null": [
                             "?",
@@ -75,6 +75,7 @@
                         "name": "Value"
                     },
                     {
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#codeReference",
                         "required": false,
@@ -101,6 +102,17 @@
                         ],
                         "reference": {
                             "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Parameter_ID"
+                        ],
+                        "reference": {
+                            "resource": "parameters.csv",
                             "columnReference": [
                                 "ID"
                             ]
@@ -142,8 +154,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -90,
-                            "maximum": 90
+                            "minimum": "-90",
+                            "maximum": "90"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
                         "required": false,
@@ -152,8 +164,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -180,
-                            "maximum": 180
+                            "minimum": "-180",
+                            "maximum": "180"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
                         "required": false,
@@ -166,7 +178,7 @@
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
                         "required": false,
-                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottocode}",
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
                         "name": "Glottocode"
                     },
                     {
@@ -184,6 +196,45 @@
                 ]
             },
             "url": "languages.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:extent": 3,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
+                    },
+                    {
+                        "datatype": "json",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#columnSpec",
+                        "required": false,
+                        "name": "ColumnSpec"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "parameters.csv"
         }
     ]
 }
