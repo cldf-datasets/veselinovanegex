@@ -64,12 +64,23 @@ class Dataset(BaseDataset):
 }
 """)
         args.writer.cldf.add_component('LanguageTable')
-        args.writer.cldf.add_component('ParameterTable')
+        args.writer.cldf.add_component(
+            'ParameterTable',
+            {
+                'name': 'Grammacodes',
+                'separator': ';',
+            })
 
         liso2gl = {l.iso: l for l in args.glottolog.api.languoids() if l.iso}
         language_errata = {r['NAM_LABEL']: r for r in self.etc_dir.read_csv('languages.csv', dicts=True)}
-        args.writer.objects['ParameterTable'] = list(
-            self.etc_dir.read_csv('parameters.csv', dicts=True))
+        parameters = list(
+            self.etc_dir.read_csv('parameters.csv', dicts=True)) 
+        for parameter in parameters:
+            if (grammacodes := parameter.get('Grammacodes')):
+                parameter['Grammacodes'] = [
+                    id_.strip()
+                    for id_ in grammacodes.split(',')]
+        args.writer.objects['ParameterTable'] = parameters
         for row in self.raw_dir.read_csv('NegEx_CLDF.NegExCLLD.csv', dicts=True):
             if row['NAM_LABEL'] in language_errata:
                 row.update(language_errata[row['NAM_LABEL']])
