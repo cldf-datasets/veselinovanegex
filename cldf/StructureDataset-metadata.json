@@ -12,13 +12,13 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/veselinovanegex",
             "rdf:type": "prov:Entity",
-            "dc:created": "bcfbb2d",
+            "dc:created": "12497d8",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.8",
+            "dc:created": "v5.0",
             "dc:title": "Glottolog"
         }
     ],
@@ -228,6 +228,10 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#columnSpec",
                         "required": false,
                         "name": "ColumnSpec"
+                    },
+                    {
+                        "separator": ";",
+                        "name": "Grammacodes"
                     }
                 ],
                 "primaryKey": [

@@ -4,7 +4,7 @@ Babel==2.12.1
 bs4==0.0.1
 certifi==2023.7.22
 cldfbench==1.13.0
--e git+https://github.com/cldf-datasets/veselinovanegex@bcfbb2dddeb74709b40790e95cc9a926f6a5ffbb#egg=cldfbench_veselinovanegex
+-e git+https://github.com/cldf-datasets/veselinovanegex@12497d8696b3d98cc133a7dccb8fa966834649af#egg=cldfbench_veselinovanegex
 cldfcatalog==1.5.1
 cldfzenodo==1.1.0
 clldutils==3.19.0
