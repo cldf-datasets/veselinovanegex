@@ -12,7 +12,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/veselinovanegex",
             "rdf:type": "prov:Entity",
-            "dc:created": "12497d8",
+            "dc:created": "acd3333",
             "dc:title": "Repository"
         },
         {
@@ -25,7 +25,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.8.19"
         },
         {
             "dc:title": "python-packages",
