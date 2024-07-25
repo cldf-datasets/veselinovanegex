@@ -111,7 +111,7 @@ class Dataset(BaseDataset):
                             key += '[{}]'.format(pages)
                         refs.append(key)
                 else:
-                    refs = ['veselinova2013']
+                    refs = []
                 args.writer.objects['ValueTable'].append(dict(
                     ID='{}-{}'.format(lid, pid),
                     Value=row[pid] if pid != 'NegExType' else NegNexType.get(row[pid], row[pid]),
