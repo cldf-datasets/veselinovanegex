@@ -5,12 +5,6 @@ from pybtex import errors
 from pycldf.sources import Sources
 from cldfbench import Dataset as BaseDataset, CLDFSpec
 
-NegNexType = {
-    'Complete difference from SN: lexical item' : 'Complete Difference from SN: Lexical item',
-    'Two_strategies: (1) Lexical item; (2) Lexical Item': 'Two_strategies: (1) Lexical item; (2) Lexical item',
-    'Two_strategies_TA: (1) Lexical item;  (2) SN': 'Two_strategies_TA: (1) Lexical item; (2) SN',
-}
-
 
 def citation(src):
     name, year = None, src.get('year')
@@ -70,17 +64,22 @@ class Dataset(BaseDataset):
                 'name': 'Grammacodes',
                 'separator': ';',
             })
+        args.writer.cldf.add_component('CodeTable', 'Map_Icon')
 
         liso2gl = {l.iso: l for l in args.glottolog.api.languoids() if l.iso}
         language_errata = {r['NAM_LABEL']: r for r in self.etc_dir.read_csv('languages.csv', dicts=True)}
         parameters = list(
-            self.etc_dir.read_csv('parameters.csv', dicts=True)) 
+            self.etc_dir.read_csv('parameters.csv', dicts=True))
+        codes = {
+            (row['Parameter_ID'], row['Original_Name']): row
+            for row in self.etc_dir.read_csv('codes.csv', dicts=True)}
         for parameter in parameters:
             if (grammacodes := parameter.get('Grammacodes')):
                 parameter['Grammacodes'] = [
                     id_.strip()
                     for id_ in grammacodes.split(',')]
         args.writer.objects['ParameterTable'] = parameters
+        args.writer.objects['CodeTable'] = codes.values()
         for row in self.raw_dir.read_csv('NegEx_CLDF.NegExCLLD.csv', dicts=True):
             if row['NAM_LABEL'] in language_errata:
                 row.update(language_errata[row['NAM_LABEL']])
@@ -112,11 +111,15 @@ class Dataset(BaseDataset):
                         refs.append(key)
                 else:
                     refs = []
+                original_value = row[pid]
+                code = codes.get((pid, original_value))
+                code_id = code['ID'] if code else ''
+                value = code['Name'] if code else original_value
                 args.writer.objects['ValueTable'].append(dict(
                     ID='{}-{}'.format(lid, pid),
-                    Value=row[pid] if pid != 'NegExType' else NegNexType.get(row[pid], row[pid]),
+                    Code_ID=code_id,
+                    Value=value,
                     Language_ID=lid,
                     Parameter_ID=pid,
                     Source=refs,
                 ))
-
