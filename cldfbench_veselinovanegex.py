@@ -117,7 +117,6 @@ class Dataset(BaseDataset):
                     Value=row[pid] if pid != 'NegExType' else NegNexType.get(row[pid], row[pid]),
                     Language_ID=lid,
                     Parameter_ID=pid,
-                    Comment=row['Comment'],
                     Source=refs,
                 ))
 
