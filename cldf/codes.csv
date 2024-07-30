@@ -1,0 +1,12 @@
+ID,Parameter_ID,Name,Description,Map_Icon
+NegexType-c01,NegExType,constructionally different from standard negation,,
+NegexType-c02,NegExType,different lexical item,,
+NegexType-c03,NegExType,identical with standard negation,,
+NegexType-c04,NegExType,lexical item; identical to standard negation,,
+NegexType-c05,NegExType,lexical item; morphologically different from standard negation,,
+NegexType-c06,NegExType,morphologically different from standard negation,,
+NegexType-c07,NegExType,negative indefinite,,
+NegexType-c08,NegExType,negative indefinite; standard negation,,
+NegexType-c09,NegExType,privative suffix,,
+NegexType-c10,NegExType,several,,
+NegexType-c11,NegExType,two lexical items,,
