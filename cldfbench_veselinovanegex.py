@@ -9,7 +9,9 @@ from cldfbench import Dataset as BaseDataset, CLDFSpec
 def citation(src):
     name, year = None, src.get('year')
     if 'author' in src:
-        name = ' & '.join([s.split(',')[0] for s in src['author'].split(' and ')])
+        name = ' & '.join(
+            s.split(',')[0]
+            for s in src['author'].split(' and '))
     return '{} {}'.format(name, year)
 
 
@@ -24,7 +26,7 @@ def parse_citation(text):
         .replace('MIchael', 'Michael') \
         .replace('MIestam', 'Miestam') \
         .replace('Brandup', 'Brandrup')
-    ref = re.sub('\s+', ' ', ref)
+    ref = re.sub(r'\s+', ' ', ref)
     ref = ref.replace(' and ', ' & ')
     if 'p.c.' not in ref.replace(' ', ''):
         return ref, pages.strip() if pages else pages
@@ -66,8 +68,12 @@ class Dataset(BaseDataset):
             })
         args.writer.cldf.add_component('CodeTable', 'Map_Icon')
 
-        liso2gl = {l.iso: l for l in args.glottolog.api.languoids() if l.iso}
-        language_errata = {r['NAM_LABEL']: r for r in self.etc_dir.read_csv('languages.csv', dicts=True)}
+        liso2gl = {
+            languoid.iso: languoid
+            for languoid in args.glottolog.api.languoids() if languoid.iso}
+        language_errata = {
+            r['NAM_LABEL']: r
+            for r in self.etc_dir.read_csv('languages.csv', dicts=True)}
         parameters = list(
             self.etc_dir.read_csv('parameters.csv', dicts=True))
         codes = {
