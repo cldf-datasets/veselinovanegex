@@ -6,13 +6,16 @@
         }
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
+    "dc:identifier": "https://crossgram.clld.org/contributions/veselinovanegex",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
+    "dc:title": "Negative existentials: A cross-linguistic study",
     "dcat:accessURL": "https://github.com/cldf-datasets/veselinovanegex",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/cldf-datasets/veselinovanegex",
             "rdf:type": "prov:Entity",
-            "dc:created": "d94f345",
+            "dc:created": "f647624",
             "dc:title": "Repository"
         },
         {
@@ -253,7 +256,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
-            "dc:extent": 11,
+            "dc:extent": 6,
             "tableSchema": {
                 "columns": [
                     {
