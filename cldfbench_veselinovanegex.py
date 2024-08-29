@@ -41,7 +41,7 @@ class Dataset(BaseDataset):
         return CLDFSpec(module='StructureDataset', dir=self.cldf_dir)
 
     def cmd_download(self, args):
-        self.raw_dir.xlsx2csv('NegEx_CLDF.xlsx')
+        pass
 
     def cmd_makecldf(self, args):
         errors.strict = False
@@ -86,7 +86,7 @@ class Dataset(BaseDataset):
                     for id_ in grammacodes.split(',')]
         args.writer.objects['ParameterTable'] = parameters
         args.writer.objects['CodeTable'] = codes.values()
-        for row in self.raw_dir.read_csv('NegEx_CLDF.NegExCLLD.csv', dicts=True):
+        for row in self.raw_dir.read_csv('NegEx_CLDF.csv', dicts=True):
             if row['NAM_LABEL'] in language_errata:
                 row.update(language_errata[row['NAM_LABEL']])
             lid = row['ID_ISO_A3']
