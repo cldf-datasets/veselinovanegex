@@ -1,724 +1,724 @@
-ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source
-aca-SN,aca,SN,ho-ka- (auxiliary/particle),,,RN2322[247]
-aca-NegEx_Form,aca,NegEx_Form,hiní; coacao,,,"RN2316[118, 117]"
-aca-NegExType_general_classificaiton,aca,NegExType,completely different from SN: lexical item,NegexType-c04,,
-xua-SN,xua,SN,–le (suffix),,,"RN2105[141, 151-152]"
-xua-NegEx_Form,xua,NegEx_Form,ille (non-PST); untji for PST,,,"RN2105[141, 151-152]"
-xua-NegExType_general_classificaiton,xua,NegExType,completely different from SN: lexical item,NegexType-c04,,
-pbg-SN,pbg,SN,–pe (suffix),,,RN2322[254]
-pbg-NegEx_Form,pbg,NegEx_Form,ee-pe,,,
-pbg-NegExType_general_classificaiton,pbg,NegExType,identical with standard negation,NegexType-c01,,
-tkp-SN,tkp,SN,sise (particle),,,RN1170[86]
-tkp-NegEx_Form,tkp,NegEx_Form,siei,,,RN1170[86]
-tkp-NegExType_general_classificaiton,tkp,NegExType,completely different from SN: lexical item,NegexType-c04,,
-apu-SN,apu,SN,kuna (particle),,,RN2322[245]
-apu-NegEx_Form,apu,NegEx_Form,kuna awa,,,RN2317[128]
-apu-NegExType_general_classificaiton,apu,NegExType,identical with standard negation,NegexType-c01,,
-ard-SN,ard,SN,"malyka (particle), padni 'privative', 'nothing'. Padni is is very common in locative phrases of circumstance and also in negative statements.",,,
-ard-NegEx_Form,ard,NegEx_Form,padni,,,
-ard-NegExType_general_classificaiton,ard,NegExType,constructionally different from standard negation,NegexType-c02,,
-arh-SN,arh,SN,–(u)ʔ (suffix),,,"RN93[49, 64]"
-arh-NegEx_Form,arh,NegEx_Form,be...–(u)ʔ,,,RN93[69]
-arh-NegExType_general_classificaiton,arh,NegExType,identical with standard negation,NegexType-c01,,
-kwi-SN,kwi,SN,shi ...-ma (bi-partite),,,RN380[331-333]
-kwi-NegEx_Form,kwi,NegEx_Form,way; 'lack'; shi--ma (SN),,,"RN380[332, 226]"
-kwi-NegExType_general_classificaiton,kwi,NegExType,completely different from SN: lexical item,NegexType-c04,,
-bfd-SN,bfd,SN,kaa ... wa’a/sì (bi-partite),,,RN1199[214-215]
-bfd-NegEx_Form,bfd,NegEx_Form,kaa...wa’a/sì,,,"RN1199[214-215, 233]"
-bfd-NegExType_general_classificaiton,bfd,NegExType,identical with standard negation,NegexType-c01,,
-bmi-SN,bmi,SN,li (particle),,,"RN280[83, 91, 130]"
-bmi-NegEx_Form,bmi,NegEx_Form,gwoto,,,RN280[165]
-bmi-NegExType_general_classificaiton,bmi,NegExType,completely different from SN: lexical item,NegexType-c04,,
-bsn-SN,bsn,SN,–be- (suffix),,,
-bsn-NegEx_Form,bsn,NegEx_Form,ba?di-,,,
-bsn-NegExType_general_classificaiton,bsn,NegExType,completely different from SN: lexical item,NegexType-c04,,
-bae-SN,bae,SN,hena V-(waka) (particle; optionally bi-partite),,,"RN2322[245, 252-3]"
-bae-NegEx_Form,bae,NegEx_Form,bed'waka; ind'waka 'nothing',,,"RN2618[43-4, in passim]"
-bae-NegExType_general_classificaiton,bae,NegExType,completely different from SN: lexical item,NegexType-c04,,
-eus-SN,eus,SN,ez (particle),,,
-eus-NegEx_Form,eus,NegEx_Form,ez izan/egon,,,
-eus-NegExType_general_classificaiton,eus,NegExType,identical with standard negation,NegexType-c01,,
-brg-SN,brg,SN,noka (particle),,,RN2322[245]
-brg-NegEx_Form,brg,NegEx_Form,nka-wo,,,
-brg-NegExType_general_classificaiton,brg,NegExType,completely different from SN: lexical item,NegexType-c04,,
-bel-SN,bel,SN,ne (particle),,,
-bel-NegEx_Form,bel,NegEx_Form,nema/njama,,,
-bel-NegExType_general_classificaiton,bel,NegExType,completely different from SN: lexical item,NegexType-c04,,
-gax-SN,gax,SN,kim- (prefix),,,RN283[83]
-gax-NegEx_Form,gax,NegEx_Form,kim-...-jira,,,RN283[83]
-gax-NegExType_general_classificaiton,gax,NegExType,identical with standard negation,NegexType-c01,,
-bos-SN,bos,SN,ne (particle),,,
-bos-NegEx_Form,bos,NegEx_Form,nema,,,
-bos-NegExType_general_classificaiton,bos,NegExType,completely different from SN: lexical item,NegexType-c04,,
-brh-SN,brh,SN,-pa-/-fa-/ta-/-par-/-far (suffix),,,"RN341[57, 61, 69, 72, 73, 76]"
-brh-NegEx_Form,brh,NegEx_Form,a-ffa-(non-PST); all-(PST),,,RN341[79]
-brh-NegExType_general_classificaiton,brh,NegExType,completely different from SN: lexical item,NegexType-c04,,
-bul-SN,bul,SN,ne (particle),,,
-bul-NegEx_Form,bul,NegEx_Form,njama,,,
-bul-NegExType_general_classificaiton,bul,NegExType,completely different from SN: lexical item,NegexType-c04,,
-mya-SN,mya,SN,ma-...í-hpù  (bi-partite),,,RN220[149]
-mya-NegEx_Form,mya,NegEx_Form,ma-hyí-hpù,,,RN220[149]
-mya-NegExType_general_classificaiton,mya,NegExType,identical with standard negation,NegexType-c01,,
-bsk-SN,bsk,SN,a- (prefix),,,RN169[305]
-bsk-NegEx_Form,bsk,NegEx_Form,up'i,,,
-bsk-NegExType_general_classificaiton,bsk,NegExType,completely different from SN: lexical item,NegexType-c04,,
-ram-SN,ram,SN,nare (particle),,,
-ram-NegEx_Form,ram,NegEx_Form,nare,,,
-ram-NegExType_general_classificaiton,ram,NegExType,identical with standard negation,NegexType-c01,,
-cbc-SN,cbc,SN,–e/eti or -ẽ/-ẽti (suffix),,,RN2361[61]
-cbc-NegEx_Form,cbc,NegEx_Form,"mani-'there is not, not have'",,,RN2361[97]
-cbc-NegExType_general_classificaiton,cbc,NegExType,completely different from SN: lexical item,NegexType-c04,,
-tzm-SN,tzm,SN,ur (particle),,,RN692[63]
-tzm-NegEx_Form,tzm,NegEx_Form,ur,,,RN692[63]
-tzm-NegExType_general_classificaiton,tzm,NegExType,identical with standard negation,NegexType-c01,,
-knc-SN,knc,SN,-bâ (PROG);  -(n)nyí (FUT) (suffixes),,,RN51[39-40]
-knc-NegEx_Form,knc,NegEx_Form,bâ (free form),,,
-knc-NegExType_general_classificaiton,knc,NegExType,completely different from SN: lexical item,NegexType-c04,,
-khm-SN,khm,SN,min (particle),,,RN671[245]
-khm-NegEx_Form,khm,NegEx_Form,khmian,,,
-khm-NegExType_general_classificaiton,khm,NegExType,completely different from SN: lexical item,NegexType-c04,,
-mam-SN,mam,SN,miyaal7 (nyaa7) (particle),,,RN2036[244]
-mam-NegEx_Form,mam,NegEx_Form,"mi7aal (human), mixti7 (non-human)",,,RN2036[88]
-mam-NegExType_general_classificaiton,mam,NegExType,constructionally different from standard negation,NegexType-c02,,
-esu-SN,esu,SN,-nrite  (suffix),,,RN136[25]
-esu-NegEx_Form,esu,NegEx_Form,taite; -nrite,,,
-esu-NegExType_general_classificaiton,esu,NegExType,completely different from SN: lexical item,NegexType-c04,,
-mig-SN,mig,SN,tu- (clitic),,,RN174[98]
-mig-NegEx_Form,mig,NegEx_Form,túu,,,RN174[122]
-mig-NegExType_general_classificaiton,mig,NegExType,constructionally different from standard negation,NegexType-c02,,
-cde-SN,cde,SN,lēdu/le (particle),,,"RN2113[54, 70, 80]"
-cde-NegEx_Form,cde,NegEx_Form,un-; le:-,,,"RN2113[46, 47]"
-cde-NegExType_general_classificaiton,cde,NegExType,completely different from SN: lexical item,NegexType-c04,,
-cap-SN,cap,SN,ana (particle),,,RN1218[203]
-cap-NegEx_Form,cap,NegEx_Form,ana N zhel-,,,RN1218[203]
-cap-NegExType_general_classificaiton,cap,NegExType,identical with standard negation,NegexType-c01,,
-ckt-SN,ckt,SN,a-Ví-ka (bi-partite),,,RN671[250]
-ckt-NegEx_Form,ckt,NegEx_Form,ujŋe,,,
-ckt-NegExType_general_classificaiton,ckt,NegExType,completely different from SN: lexical item,NegexType-c04,,
-hrv-SN,hrv,SN,ne (particle),,,
-hrv-NegEx_Form,hrv,NegEx_Form,nema,,,
-hrv-NegExType_general_classificaiton,hrv,NegExType,completely different from SN: lexical item,NegexType-c04,,
-cub-SN,cub,SN,-be-,,,"RN2362[45, in passim]"
-cub-NegEx_Form,cub,NegEx_Form,kÉ¨-be-,,,"RN2362[2, 76]"
-cub-NegExType_general_classificaiton,cub,NegExType,identical with standard negation,NegexType-c01,,
-ces-SN,ces,SN,ne- (prefix),,,"RN1086[512, Shirokova et al 1973: 396, Markus Giger (p.c.)]"
-ces-NegEx_Form,ces,NegEx_Form,ne-; neni,,,"RN1086[512, Shirokova et al 1973: 396, Markus Giger (p.c.)]"
-ces-NegExType_general_classificaiton,ces,NegExType,completely different from SN: lexical item,NegexType-c04,,
-des-SN,des,SN,---be/-bi/-bidi (suffix),,,"RN2363[76, in passim]"
-des-NegEx_Form,des,NegEx_Form,mãɾĩ; badi,,,"RN2363[209, in passim]"
-des-NegExType_general_classificaiton,des,NegExType,completely different from SN: lexical item,NegexType-c04,,
-bvx-SN,bvx,SN,ká- (prefix),,,RN1219[403]
-bvx-NegEx_Form,bvx,NegEx_Form,há-tí,,,RN1027[195-9]
-bvx-NegExType_general_classificaiton,bvx,NegExType,constructionally different from standard negation,NegexType-c02,,
-pci-SN,pci,SN,"--e/-o,PERS.NUM.GENDER (suffix)",,,RN2111[64-67]
-pci-NegEx_Form,pci,NegEx_Form,cila-,,,RN2111[64-67]
-pci-NegExType_general_classificaiton,pci,NegExType,morphologically different from standard negation,NegexType-c03,,
-fud-SN,fud,SN,"lee'se, le'aise (verb), le (particle)",,,"RN1169[116, in passim]"
-fud-NegEx_Form,fud,NegEx_Form,le'e/le'ai,,,"RN1169[116, in passim]"
-fud-NegExType_general_classificaiton,fud,NegExType,constructionally different from standard negation,NegexType-c02,,
-mhr-SN,mhr,SN,a- (auxiliary),,,"RN1415[72, Jeremy Bradley p.c.]"
-mhr-NegEx_Form,mhr,NegEx_Form,uke,,,"RN1415[72, Jeremy Bradley p.c.]"
-mhr-NegExType_general_classificaiton,mhr,NegExType,completely different from SN: lexical item,NegexType-c04,,
-mmw-SN,mmw,SN,s? (particle),,,RN1170[in passim]
-mmw-NegEx_Form,mmw,NegEx_Form,ikai,,,RN1170[in passim]
-mmw-NegExType_general_classificaiton,mmw,NegExType,completely different from SN: lexical item,NegexType-c04,,
-eng-SN,eng,SN,do/be not (auxiliary),,,
-eng-NegEx_Form,eng,NegEx_Form,no; SN,,,
-eng-NegExType_general_classificaiton,eng,NegExType,completely different from SN: negative indefinite pronouns,NegexType-c05,,
-myv-SN,myv,SN,a (particle),,,RN1231[in passim]
-myv-NegEx_Form,myv,NegEx_Form,aras,,,RN1231[91]
-myv-NegExType_general_classificaiton,myv,NegExType,completely different from SN: lexical item,NegexType-c04,,
-ekk-SN,ekk,SN,ei (particle),,,RN1424[in passim]
-ekk-NegEx_Form,ekk,NegEx_Form,pole 'not be'; eij (SN),,,RN1424[25]
-ekk-NegExType_general_classificaiton,ekk,NegExType,completely different from SN: lexical item,NegexType-c04,,
-evn-SN,evn,SN,e- (auxiliary),,,RN670[2]
-evn-NegEx_Form,evn,NegEx_Form,achin,,,"RN670[2, Nedjalkov 1997: 97]"
-evn-NegExType_general_classificaiton,evn,NegExType,completely different from SN: lexical item,NegexType-c04,,
-fin-SN,fin,SN,e- (auxiliary),,,
-fin-NegEx_Form,fin,NegEx_Form,e- olem,,,
-fin-NegExType_general_classificaiton,fin,NegExType,identical with standard negation,NegexType-c01,,
-enf-SN,enf,SN,?i- (auxiliary),,,
-enf-NegEx_Form,enf,NegEx_Form,d'ago,,,
-enf-NegExType_general_classificaiton,enf,NegExType,completely different from SN: lexical item,NegexType-c04,,
-fra-SN,fra,SN,ne ... pas (bi-partite),,,
-fra-NegEx_Form,fra,NegEx_Form,il n'y a pas,,,
-fra-NegExType_general_classificaiton,fra,NegExType,identical with standard negation,NegexType-c01,,
-fut-SN,fut,SN,se .... Ma (bi-partite),,,RN1170[in passim]
-fut-NegEx_Form,fut,NegEx_Form,"skikai, jikai",,,RN1170[in passim]
-fut-NegExType_general_classificaiton,fut,NegExType,completely different from SN: lexical item,NegexType-c04,,
-cab-SN,cab,SN,m(ama)-V; úwa V,,,"RN2322[245, 254, 256]"
-cab-NegEx_Form,cab,NegEx_Form,úwa,,,"RN2314[34-5, 38]"
-cab-NegExType_general_classificaiton,cab,NegExType,completely different from SN: lexical item,NegexType-c04,,
-grt-SN,grt,SN,--ja (suffix),,,RN27[74]
-grt-NegEx_Form,grt,NegEx_Form,dong-ja,,,RN27[74]
-grt-NegExType_general_classificaiton,grt,NegExType,identical with standard negation,NegexType-c01,,
-kat-SN,kat,SN,ar(a) (particle),,,RN671[263]
-kat-NegEx_Form,kat,NegEx_Form,ar uarsebniat,,,RN1204[274]
-kat-NegExType_general_classificaiton,kat,NegExType,identical with standard negation,NegexType-c01,,
-deu-SN,deu,SN,nicht (particle),,,
-deu-NegEx_Form,deu,NegEx_Form,kein,,,
-deu-NegExType_general_classificaiton,deu,NegExType,completely different from SN: negative indefinite pronouns,NegexType-c05,,
-zen-SN,zen,SN,wəl (particle),,,RN2135[288-289]
-zen-NegEx_Form,zen,NegEx_Form,wəl d,,,RN2135[288-289)]
-zen-NegExType_general_classificaiton,zen,NegExType,identical with standard negation,NegexType-c01,,
-gni-SN,gni,SN,mangaddi (particle),,,
-gni-NegEx_Form,gni,NegEx_Form,marlami,,,
-gni-NegExType_general_classificaiton,gni,NegExType,completely different from SN: lexical item,NegexType-c04,,
-ell-SN,ell,SN,dhen (particle),,,
-ell-NegEx_Form,ell,NegEx_Form,dhen écho,,,
-ell-NegExType_general_classificaiton,ell,NegExType,identical with standard negation,NegexType-c01,,
-bsq-SN,bsq,SN,--it (suffix),,,"RN89[136, Michael Forstescue p.c.]"
-bsq-NegEx_Form,bsq,NegEx_Form,--it (suffix),,,"RN89[136, Michael Forstescue p.c.]"
-bsq-NegExType_general_classificaiton,bsq,NegExType,identical with standard negation,NegexType-c01,,
-gug-SN,gug,SN,n(d)a ... i (bi-partite),,,RN671[268]
-gug-NegEx_Form,gug,NegEx_Form,n-oimé-i,,,"RN104[187, Dejan Matic, p.c.]"
-gug-NegExType_general_classificaiton,gug,NegExType,identical with standard negation,NegexType-c01,,
-afb-SN,afb,SN,ma(a)/mu(u) (particle),,,RN2125[236]
-afb-NegEx_Form,afb,NegEx_Form,maa'ku,,,RN2125[239]
-afb-NegExType_general_classificaiton,afb,NegExType,completely different from SN: lexical item,NegexType-c04,,
-khk-SN,khk,SN,--guy,,,
-khk-NegEx_Form,khk,NegEx_Form,guy,,,
-khk-NegExType_general_classificaiton,khk,NegExType,morphologically different from standard negation,NegexType-c03,,
-hau-SN,hau,SN,bá; bā (particles),,,RN384[357]
-hau-NegEx_Form,hau,NegEx_Form,babù; bâ,,,RN384[357]
-hau-NegExType_general_classificaiton,hau,NegExType,completely different from SN: lexical item,NegexType-c04,,
-haw-SN,haw,SN,a'ole (verb); 'a'ohe,,,RN641[142]
-haw-NegEx_Form,haw,NegEx_Form,a'ole;  a'o'he,,,"RN641[142, Pila Wilson, p.c.]"
-haw-NegExType_general_classificaiton,haw,NegExType,constructionally different from standard negation,NegexType-c02,,
-heb-SN,heb,SN,lo (particle),,,"RN680[220, Tal Linzen (p.c.)]"
-heb-NegEx_Form,heb,NegEx_Form,eyn; lo,,,"RN680[220, Tal Linzen (p.c.)]"
-heb-NegExType_general_classificaiton,heb,NegExType,completely different from SN: lexical item,NegexType-c04,,
-qub-SN,qub,SN,mana ...-cho (bi-partite),,,
-qub-NegEx_Form,qub,NegEx_Form,mana ...chu,,,
-qub-NegExType_general_classificaiton,qub,NegExType,identical with standard negation,NegexType-c01,,
-hun-SN,hun,SN,nem (particle),,,RN676[147-8]
-hun-NegEx_Form,hun,NegEx_Form,nincs,,,RN676[147-8]
-hun-NegExType_general_classificaiton,hun,NegExType,completely different from SN: lexical item,NegexType-c04,,
-isl-SN,isl,SN,ekki (particle),,,
-isl-NegEx_Form,isl,NegEx_Form,enginn; ekki … neinn,,,
-isl-NegExType_general_classificaiton,isl,NegExType,completely different from SN: negative indefinite pronouns,NegexType-c05,,
-qvi-SN,qvi,SN,(mana) -chu (bi-partite),,,
-qvi-NegEx_Form,qvi,NegEx_Form,(mana) -chu,,,
-qvi-NegExType_general_classificaiton,qvi,NegExType,identical with standard negation,NegexType-c01,,
-inp-SN,inp,SN,aa- (prefix),,,RN2322[254]
-inp-NegEx_Form,inp,NegEx_Form,aaráwama; paísini,,,RN2355[43]
-inp-NegExType_general_classificaiton,inp,NegExType,completely different from SN: lexical item,NegexType-c04,,
-smn-SN,smn,SN,i- (auxiliary),,,RN2127[56]
-smn-NegEx_Form,smn,NegEx_Form,i-,,,RN2127[56]
-smn-NegExType_general_classificaiton,smn,NegExType,identical with standard negation,NegexType-c01,,
-ind-SN,ind,SN,tidak (particle),,,RN273[195]
-ind-NegEx_Form,ind,NegEx_Form,"tidak ada, (tiada)",,,"RN273[264, in passim]"
-ind-NegExType_general_classificaiton,ind,NegExType,identical with standard negation,NegexType-c01,,
-ita-SN,ita,SN,non (particle),,,
-ita-NegEx_Form,ita,NegEx_Form,non,,,
-ita-NegExType_general_classificaiton,ita,NegExType,identical with standard negation,NegexType-c01,,
-otz-SN,otz,SN,hingi/hina/kho(ng) (particle),,,RN376[27]
-otz-NegEx_Form,otz,NegEx_Form,ša-kha,,,"RN376[28, Lastra 1997: in passim]"
-otz-NegExType_general_classificaiton,otz,NegExType,completely different from SN: lexical item,NegexType-c04,,
-dyo-SN,dyo,SN,"'-ut (suffix, non-FUT);  lɛt- (prefix, FUT)",,,"RN259[30, 33, 94]"
-dyo-NegEx_Form,dyo,NegEx_Form,lɛt (mostly free form but can appear as a bound morpheme too),,,"RN259[30, 33, 94]"
-dyo-NegExType_general_classificaiton,dyo,NegExType,completely different from SN: lexical item,NegexType-c04,,
-ktz-SN,ktz,SN,|óá (particle),,,RN664[in passim]
-ktz-NegEx_Form,ktz,NegEx_Form,|óá o [SN be],,,RN664[in passim]
-ktz-NegExType_general_classificaiton,ktz,NegExType,identical with standard negation,NegexType-c01,,
-kab-SN,kab,SN,u(r) (particle),,,RN2135[288-289]
-kab-NegEx_Form,kab,NegEx_Form,ulaš,,,"RN2135[288-289, Amina Mettouchi, p.c.]"
-kab-NegExType_general_classificaiton,kab,NegExType,completely different from SN: lexical item,NegexType-c04,,
-xas-SN,xas,SN,"ej (particle, non-FUT),  e- (auxiliary, FUT)",,,
-xas-NegEx_Form,xas,NegEx_Form,naga,,,
-xas-NegExType_general_classificaiton,xas,NegExType,completely different from SN: lexical item,NegexType-c04,,
-kan-SN,kan,SN,--illa (suffix),,,"RN277[111-112, 220]"
-kan-NegEx_Form,kan,NegEx_Form,illa,,,"RN277[111-2, 220]"
-kan-NegExType_general_classificaiton,kan,NegExType,morphologically different from standard negation,NegexType-c03,,
-kpg-SN,kpg,SN,tē (particle); hakarē (particle),,,"RN1235[30, 48, in passim]"
-kpg-NegEx_Form,kpg,NegEx_Form,hakaree; teai,,,"RN1235[30, 48, in passim]"
-kpg-NegExType_general_classificaiton,kpg,NegExType,completely different from SN: lexical item,NegexType-c04,,
-csb-SN,csb,SN,ne (particle),,,
-csb-NegEx_Form,csb,NegEx_Form,ni ma,,,
-csb-NegExType_general_classificaiton,csb,NegExType,completely different from SN: lexical item,NegexType-c04,,
-gyd-SN,gyd,SN,-Tharri (suffix);  Tharri; -nangku(ru) (suffix); -warri 'suffix',,,"RN81[256-257, 288, 374]"
-gyd-NegEx_Form,gyd,NegEx_Form,warrira,,,"RN81[375l, Round 2009: 158]"
-gyd-NegExType_general_classificaiton,gyd,NegExType,completely different from SN: lexical item,NegexType-c04,,
-ket-SN,ket,SN,bən (particle),,,RN684[181]
-ket-NegEx_Form,ket,NegEx_Form,bəŋsa,,,RN307[82]
-ket-NegExType_general_classificaiton,ket,NegExType,completely different from SN: lexical item,NegexType-c04,,
-kca-SN,kca,SN,at (particle); ăntom (unclear morphosyntactic status),,,
-kca-NegEx_Form,kca,NegEx_Form,ăntom,,,
-kca-NegExType_general_classificaiton,kca,NegExType,completely different from SN: lexical item,NegexType-c04,,
-kha-SN,kha,SN,m- (prefix),,,
-kha-NegEx_Form,kha,NegEx_Form,m-dong [SN-be],,,
-kha-NegExType_general_classificaiton,kha,NegExType,identical with standard negation,NegexType-c01,,
-kio-SN,kio,SN,hᴐ́́ˊn(C) ) -ᴐ́́ˊ/-gú (bi-partite),,,"RN315[204, 214]"
-kio-NegEx_Form,kio,NegEx_Form,hé,,,RN315[216]
-kio-NegExType_general_classificaiton,kio,NegExType,completely different from SN: lexical item,NegexType-c04,,
-cku-SN,cku,SN,PERS.NUMBER-ǫ(suffix),,,
-cku-NegEx_Form,cku,NegEx_Form,ǐkso-,,,
-cku-NegExType_general_classificaiton,cku,NegExType,completely different from SN: lexical item,NegexType-c04,,
-kfa-SN,kfa,SN,-le (non-PST); -le/-ille (PST) (suffix),,,"RN2128[22, 27, 41]"
-kfa-NegEx_Form,kfa,NegEx_Form,ille,,,"RN2128[22, 27, 41]"
-kfa-NegExType_general_classificaiton,kfa,NegExType,morphologically different from standard negation,NegexType-c03,,
-koi-SN,koi,SN,o-/e- (auxiliary),,,
-koi-NegEx_Form,koi,NegEx_Form,abu-,,,
-koi-NegExType_general_classificaiton,koi,NegExType,completely different from SN: lexical item,NegexType-c04,,
-kpv-SN,kpv,SN,o-/e-  (non-PERFECT) (auxiliary); abu (PERFECT) (particle),,,
-kpv-NegEx_Form,kpv,NegEx_Form,abu-; SN,,,
-kpv-NegExType_general_classificaiton,kpv,NegExType,completely different from SN: lexical item,NegexType-c04,,
-kfc-SN,kfc,SN,--t (suffix),,,"RN2108[283, 289]"
-kfc-NegEx_Form,kfc,NegEx_Form,sil,,,RN2108[289]
-kfc-NegExType_general_classificaiton,kfc,NegExType,completely different from SN: lexical item,NegexType-c04,,
-kor-SN,kor,SN,an (particle),,,
-kor-NegEx_Form,kor,NegEx_Form,ops-ta,,,
-kor-NegExType_general_classificaiton,kor,NegExType,completely different from SN: lexical item,NegexType-c04,,
-coe-SN,coe,SN,"--máˀ, -ma, -mane",,,"RN2365[61, in passim]"
-coe-NegEx_Form,coe,NegEx_Form,peo-,,,RN2365[62]
-coe-NegExType_general_classificaiton,coe,NegExType,completely different from SN: lexical item,NegexType-c04,,
-gvc-SN,gvc,SN,--ér (suffix),,,RN2364[246 ff]
-gvc-NegEx_Form,gvc,NegEx_Form,bãdia,,,RN2364[202]
-gvc-NegExType_general_classificaiton,gvc,NegExType,completely different from SN: lexical item,NegexType-c04,,
-kff-SN,kff,SN,'-o-/-ō-/-ū-/-v-/-vō-/vū (non-PST) (suffix); ill- (PST) (auxiliary),,,"RN2109[83, 96-99]"
-kff-NegEx_Form,kff,NegEx_Form,ill-,,,RN2109[33-5]
-kff-NegExType_general_classificaiton,kff,NegExType,constructionally different from standard negation,NegexType-c02,,
-kgo-SN,kgo,SN,áŋ…é (bi-partite);  t-ittà (auxiliary),,,"RN467[253, 370]"
-kgo-NegEx_Form,kgo,NegEx_Form,t-ìttà,,,RN467[374]
-kgo-NegExType_general_classificaiton,kgo,NegExType,completely different from SN: lexical item,NegexType-c04,,
-nee-SN,nee,SN,kio,,,RN1161[60]
-nee-NegEx_Form,nee,NegEx_Form,kia,,,RN1161[61]
-nee-NegExType_general_classificaiton,nee,NegExType,constructionally different from standard negation,NegexType-c02,,
-kun-SN,kun,SN,"--mme, -nume (suffix)",,,RN671[298-9]
-kun-NegEx_Form,kun,NegEx_Form,kos-...-mme,,,RN368[41-43]
-kun-NegExType_general_classificaiton,kun,NegExType,identical with standard negation,NegexType-c01,,
-kto-SN,kto,SN,təle (particle),,,
-kto-NegEx_Form,kto,NegEx_Form,karuk,,,
-kto-NegExType_general_classificaiton,kto,NegExType,completely different from SN: lexical item,NegexType-c04,,
-kpc-SN,kpc,SN,khen (particle),,,RN2322[245]
-kpc-NegEx_Form,kpc,NegEx_Form,khenim + pa-kapa ‘special NEG + IMPERSONAL-see or SN,,,RN2315[76]
-kpc-NegExType_general_classificaiton,kpc,NegExType,constructionally different from standard negation,NegexType-c02,,
-kxv-SN,kxv,SN,'-ʔ(Vowel) (suffix),,,"RN2110[62-63, 135-136, 166]"
-kxv-NegEx_Form,kxv,NegEx_Form,hil-,,,"RN2110[60-63, 107]"
-kxv-NegExType_general_classificaiton,kxv,NegExType,constructionally different from standard negation,NegexType-c02,,
-xwa-SN,xwa,SN,-'he (suffix),,,
-xwa-NegEx_Form,xwa,NegEx_Form,a-'he,,,
-xwa-NegExType_general_classificaiton,xwa,NegExType,identical with standard negation,NegexType-c01,,
-cle-SN,cle,SN,ʔa1ʔe2/ʔa1- (particle/prefix),,,"RN254[30, 44]"
-cle-NegEx_Form,cle,NegEx_Form,ʔa1ʔe2 sia2,,,RN254[11]
-cle-NegExType_general_classificaiton,cle,NegExType,identical with standard negation,NegexType-c01,,
-lln-SN,lln,SN,ᶑé (particle),,,RN642[297]
-lln-NegEx_Form,lln,NegEx_Form,wíléʔ; màní ʔé;,,,RN642[213]
-lln-NegExType_general_classificaiton,lln,NegExType,completely different from SN: lexical item,NegexType-c04,,
-lww-SN,lww,SN,pe…re (poli) (poli) (bi-partite),,,RN671[305)]
-lww-NegEx_Form,lww,NegEx_Form,pe…re (poli),,,RN671[401]
-lww-NegExType_general_classificaiton,lww,NegExType,identical with standard negation,NegexType-c01,,
-lez-SN,lez,SN,'-č (suffix),,,"RN112[127, 245]"
-lez-NegEx_Form,lez,NegEx_Form,Awa-č,,,RN112[136]
-lez-NegExType_general_classificaiton,lez,NegExType,identical with standard negation,NegexType-c01,,
-arw-SN,arw,SN,khro/ kho/ma- (prefix),,,RN2322[245]
-arw-NegEx_Form,arw,NegEx_Form,kawan,,,RN2313[71]
-arw-NegExType_general_classificaiton,arw,NegExType,completely different from SN: lexical item,NegexType-c04,,
-dsb-SN,dsb,SN,nje- (prefix),,,RN1087[666]
-dsb-NegEx_Form,dsb,NegEx_Form,nje-dajo,,,
-dsb-NegExType_general_classificaiton,dsb,NegExType,identical with standard negation,NegexType-c01,,
-lua-SN,lua,SN,ka- (prefix),,,RN2182[58]
-lua-NegEx_Form,lua,NegEx_Form,ka-ena,,,"RN2182[80, 333]"
-lua-NegExType_general_classificaiton,lua,NegExType,identical with standard negation,NegexType-c01,,
-lun-SN,lun,SN,nehi (particle); hí-….-kú (bi-partite); wányi (negative word),,,"RN2118[218, in passim]"
-lun-NegEx_Form,lun,NegEx_Form,osi,,,RN2118[234]
-lun-NegExType_general_classificaiton,lun,NegExType,completely different from SN: lexical item,NegexType-c04,,
-mkd-SN,mkd,SN,ne (particle),,,
-mkd-NegEx_Form,mkd,NegEx_Form,nema,,,
-mkd-NegExType_general_classificaiton,mkd,NegExType,completely different from SN: lexical item,NegexType-c04,,
-myy-SN,myy,SN,--be (suffix),,,
-myy-NegEx_Form,myy,NegEx_Form,bãdi,,,
-myy-NegExType_general_classificaiton,myy,NegExType,completely different from SN: lexical item,NegexType-c04,,
-mbc-SN,mbc,SN,pra (particle),,,RN2[55]
-mbc-NegEx_Form,mbc,NegEx_Form,pîn,,,RN2[55-58]
-mbc-NegExType_general_classificaiton,mbc,NegExType,completely different from SN: lexical item,NegexType-c04,,
-ayz-SN,ayz,SN,fe (particle),,,RN66[315]
-ayz-NegEx_Form,ayz,NegEx_Form,fe/mfe,,,RN66[192]
-ayz-NegExType_general_classificaiton,ayz,NegExType,constructionally different from standard negation,NegexType-c02,,
-mkz-SN,mkz,SN,nomo (particle),,,"RN2096[242, in passim]"
-mkz-NegEx_Form,mkz,NegEx_Form,na'an,,,
-mkz-NegExType_general_classificaiton,mkz,NegExType,completely different from SN: lexical item,NegexType-c04,,
-mal-SN,mal,SN,--illa (suffix),,,"RN2104[30,  53]"
-mal-NegEx_Form,mal,NegEx_Form,illa,,,"RN2104[21, 23]"
-mal-NegExType_general_classificaiton,mal,NegExType,morphologically different from standard negation,NegexType-c03,,
-cmn-SN,cmn,SN,bù (particle); méi(yǒu) (auxiliary),,,RN671[248]
-cmn-NegEx_Form,cmn,NegEx_Form,méi(yǒu),,,RN674[103]
-cmn-NegExType_general_classificaiton,cmn,NegExType,completely different from SN: lexical item,NegexType-c04,,
-mrv-SN,mrv,SN,e kore/kakkore (verb),,,RN2042[in passim]
-mrv-NegEx_Form,mrv,NegEx_Form,kore,,,RN2042[in passim]
-mrv-NegExType_general_classificaiton,mrv,NegExType,constructionally different from standard negation,NegexType-c02,,
-mns-SN,mns,SN,"at, āt'im (particle)",,,
-mns-NegEx_Form,mns,NegEx_Form,"āt'I, āt'im",,,
-mns-NegExType_general_classificaiton,mns,NegExType,constructionally different from standard negation,NegexType-c02,,
-mri-SN,mri,SN,kaōre (verb),,,"RN1348[154, 161]"
-mri-NegEx_Form,mri,NegEx_Form,kaōre,,,"RN1348[154, 161]"
-mri-NegExType_general_classificaiton,mri,NegExType,constructionally different from standard negation,NegexType-c02,,
-arn-SN,arn,SN,--la (suffix),,,
-arn-NegEx_Form,arn,NegEx_Form,nge-la-e-i-i-mew,,,
-arn-NegExType_general_classificaiton,arn,NegExType,identical with standard negation,NegexType-c01,,
-mec-SN,mec,SN,ganagu (particle) (non-FUT); gu- (prefix) (non-FUT); ?ula (FUT),,,RN113[191]
-mec-NegEx_Form,mec,NegEx_Form,maƛuy,,,RN113[149-150]
-mec-NegExType_general_classificaiton,mec,NegExType,completely different from SN: lexical item,NegexType-c04,,
-mrc-SN,mrc,SN,waly-/aly-…-ma (bi-partite),,,"RN458[26, 144]"
-mrc-NegEx_Form,mrc,NegEx_Form,kuvar,,,RN458[81]
-mrc-NegExType_general_classificaiton,mrc,NegExType,completely different from SN: lexical item,NegexType-c04,,
-vma-SN,vma,SN,mir.ta (particle),,,"RN59[235, 178]"
-vma-NegEx_Form,vma,NegEx_Form,mir.ta,,,
-vma-NegExType_general_classificaiton,vma,NegExType,constructionally different from standard negation,NegexType-c02,,
-mxe-SN,mxe,SN,(se)…kē (bi-partite),,,RN1256[in passim]
-mxe-NegEx_Form,mxe,NegEx_Form,saai,,,RN1256[692]
-mxe-NegExType_general_classificaiton,mxe,NegExType,completely different from SN: lexical item,NegexType-c04,,
-moc-SN,moc,SN,se (particle); mesqay,,,"RN2164[121, in passim]"
-moc-NegEx_Form,moc,NegEx_Form,qayka,,,RN2164[108-9]
-moc-NegExType_general_classificaiton,moc,NegExType,completely different from SN: lexical item,NegexType-c04,,
-mdf-SN,mdf,SN,af (particle); apak- (prefix); əź-/iź- (auxiliary),,,"RN1231[90, in passim]"
-mdf-NegEx_Form,mdf,NegEx_Form,"aš, ajaš; SN",,,"RN1231[90, in passim]"
-mdf-NegExType_general_classificaiton,mdf,NegExType,completely different from SN: lexical item,NegexType-c04,,
-muw-SN,muw,SN,ka- (prefix),,,RN671[218]
-muw-NegEx_Form,muw,NegEx_Form,baŋgaʔi; ka-,,,"RN223[119, 390]"
-muw-NegExType_general_classificaiton,muw,NegExType,completely different from SN: lexical item,NegexType-c04,,
-mur-SN,mur,SN,"alaŋ, ŋaan   (particle)",,,RN671[318]
-mur-NegEx_Form,mur,NegEx_Form,adhi,,,RN690[135-136]
-mur-NegExType_general_classificaiton,mur,NegExType,completely different from SN: lexical item,NegexType-c04,,
-hur-SN,hur,SN,ʔə`wə  (particle),,,RN1202[31]
-hur-NegEx_Form,hur,NegEx_Form,ʔə`wəteʔ,,,RN1202[128]
-hur-NegExType_general_classificaiton,hur,NegExType,completely different from SN: lexical item,NegexType-c04,,
-mwe-SN,mwe,SN,ka- (prefix),,,"RN1209[92, 100]"
-mwe-NegEx_Form,mwe,NegEx_Form,jwakwa,,,RN1209[116]
-mwe-NegExType_general_classificaiton,mwe,NegExType,completely different from SN: lexical item,NegexType-c04,,
-mbj-SN,mbj,SN,dooh (verb),,,RN671[318]
-mbj-NegEx_Form,mbj,NegEx_Form,dooh,,,"RN1033[295-6,,301]"
-mbj-NegExType_general_classificaiton,mbj,NegExType,constructionally different from standard negation,NegexType-c02,,
-cox-SN,cox,SN,"tera, hara, matsi (particles)",,,RN2322[245]
-cox-NegEx_Form,cox,NegEx_Form,mameri,,,RN2322[186]
-cox-NegExType_general_classificaiton,cox,NegExType,completely different from SN: lexical item,NegexType-c04,,
-nav-SN,nav,SN,dòò…-dà  (bi-partite),,,
-nav-NegEx_Form,nav,NegEx_Form,dòò…-dà,,,
-nav-NegExType_general_classificaiton,nav,NegExType,identical with standard negation,NegexType-c01,,
-nde-SN,nde,SN,ka-...-i (bi-partite),,,RN2122[43-44]
-nde-NegEx_Form,nde,NegEx_Form,a-/nga-,,,RN2122[57]
-nde-NegExType_general_classificaiton,nde,NegExType,completely different from SN: lexical item,NegexType-c04,,
-njt-SN,njt,SN,(n)á (particle),,,"RN132[134-6, 141]"
-njt-NegEx_Form,njt,NegEx_Form,(n)á,,,"RN132[134-6, 141]"
-njt-NegExType_general_classificaiton,njt,NegExType,identical with standard negation,NegexType-c01,,
-yrk-SN,yrk,SN,ńí (auxiliary); jaŋku (verb),,,
-yrk-NegEx_Form,yrk,NegEx_Form,jaŋku,,,
-yrk-NegExType_general_classificaiton,yrk,NegExType,completely different from SN: lexical item,NegexType-c04,,
-nez-SN,nez,SN,wéeʔu   (particle),,,RN671[237-238]
-nez-NegEx_Form,nez,NegEx_Form,cáʔya,,,
-nez-NegExType_general_classificaiton,nez,NegExType,completely different from SN: lexical item,NegexType-c04,,
-nio-SN,nio,SN,ńí  (particle),,,
-nio-NegEx_Form,nio,NegEx_Form,d'aŋku,,,
-nio-NegExType_general_classificaiton,nio,NegExType,completely different from SN: lexical item,NegexType-c04,,
-nrk-SN,nrk,SN,mirta (particle),,,RN2129[83]
-nrk-NegEx_Form,nrk,NegEx_Form,ngurra(pirli),,,RN2129[83]
-nrk-NegExType_general_classificaiton,nrk,NegExType,completely different from SN: lexical item,NegexType-c04,,
-nge-SN,nge,SN,kà  (particle),,,
-nge-NegEx_Form,nge,NegEx_Form,kà,,,
-nge-NegExType_general_classificaiton,nge,NegExType,identical with standard negation,NegexType-c01,,
-niu-SN,niu,SN,"nakai, fakai (verb/particle)",,,"RN1272[78, in passim]"
-niu-NegEx_Form,niu,NegEx_Form,"nakai, fakai",,,RN1272[78]
-niu-NegExType_general_classificaiton,niu,NegExType,identical with standard negation,NegexType-c01,,
-niv-SN,niv,SN,k'au-; khavr-/ghavr-,,,RN671[324-325]
-niv-NegEx_Form,niv,NegEx_Form,khavr-/ghavr-,,,
-niv-NegExType_general_classificaiton,niv,NegExType,morphologically different from standard negation,NegexType-c03,,
-mrq-SN,mrq,SN,a'o'e;  'a'e; ? (particles),,,RN1247[in passim]
-mrq-NegEx_Form,mrq,NegEx_Form,a'o'e,,,RN1247[in passim]
-mrq-NegExType_general_classificaiton,mrq,NegExType,constructionally different from standard negation,NegexType-c02,,
-sme-SN,sme,SN,i- (auxiliary),,,RN2127[56]
-sme-NegEx_Form,sme,NegEx_Form,i-,,,RN2127[56]
-sme-NegExType_general_classificaiton,sme,NegExType,identical with standard negation,NegexType-c01,,
-emp-SN,emp,SN,ẽ (enclitic),,,RN1216[11-12]
-emp-NegEx_Form,emp,NegEx_Form,nẽ ẽ-a,,,RN1216[101]
-emp-NegExType_general_classificaiton,emp,NegExType,completely different from SN: lexical item,NegexType-c04,,
-nkr-SN,nkr,SN,de (particle),,,RN1270[27]
-nkr-NegEx_Form,nkr,NegEx_Form,deai,,,RN1270[27]
-nkr-NegExType_general_classificaiton,nkr,NegExType,completely different from SN: lexical item,NegexType-c04,,
-ciw-SN,ciw,SN,gaa/gaawii-...-sii (bi-partite),,,RN2093[837 ff]
-ciw-NegEx_Form,ciw,NegEx_Form,gaawii gegoo,,,RN2093[849]
-ciw-NegExType_general_classificaiton,ciw,NegExType,identical with standard negation,NegexType-c01,,
-one-SN,one,SN,yah (teʔ-) (particle),,,"RN686[15, 20, 44, Karin Michelson p.c.]"
-one-NegEx_Form,one,NegEx_Form,yah (teʔ-),,,"RN686[15, 20, 44, Karin Michelson p.c.]"
-one-NegExType_general_classificaiton,one,NegExType,identical with standard negation,NegexType-c01,,
-ojv-SN,ojv,SN,se (particle),,,RN1170[85]
-ojv-NegEx_Form,ojv,NegEx_Form,seai,,,RN1170[85]
-ojv-NegExType_general_classificaiton,ojv,NegExType,completely different from SN: lexical item,NegexType-c04,,
-plu-SN,plu,SN,ka (particle),,,RN2322[245]
-plu-NegEx_Form,plu,NegEx_Form,yuma(h),,,RN2356[199]
-plu-NegExType_general_classificaiton,plu,NegExType,completely different from SN: lexical item,NegexType-c04,,
-pab-SN,pab,SN,"maitsa, maiha (particle)",,,RN2322[245]
-pab-NegEx_Form,pab,NegEx_Form,maiha,,,
-pab-NegExType_general_classificaiton,pab,NegExType,identical with standard negation,NegexType-c01,,
-pnh-SN,pnh,SN,ee kore,,,RN1170[99]
-pnh-NegEx_Form,pnh,NegEx_Form,kore,,,RN1170[99]
-pnh-NegExType_general_classificaiton,pnh,NegExType,constructionally different from standard negation,NegexType-c02,,
-phl-SN,phl,SN,na (particle),,,
-phl-NegEx_Form,phl,NegEx_Form,na,,,
-phl-NegExType_general_classificaiton,phl,NegExType,identical with standard negation,NegexType-c01,,
-pio-SN,pio,SN,kami- (auxiliary),,,RN2322[247]
-pio-NegEx_Form,pio,NegEx_Form,caná,,,RN2316[118]
-pio-NegExType_general_classificaiton,pio,NegExType,completely different from SN: lexical item,NegexType-c04,,
-piv-SN,piv,SN,siai (particle),,,
-piv-NegEx_Form,piv,NegEx_Form,(hiek)khiloa; siai,,,
-piv-NegExType_general_classificaiton,piv,NegExType,constructionally different from standard negation,NegexType-c02,,
-ppl-SN,ppl,SN,tesu (particle),,,RN36[268]
-ppl-NegEx_Form,ppl,NegEx_Form,tesu,,,RN36[268]
-ppl-NegExType_general_classificaiton,ppl,NegExType,identical with standard negation,NegexType-c01,,
-pol-SN,pol,SN,nie (prefix),,,"RN1080[742, Marcin Kilarski, p.c.]"
-pol-NegEx_Form,pol,NegEx_Form,nie ma,,,RN1080[742]
-pol-NegExType_general_classificaiton,pol,NegExType,completely different from SN: lexical item,NegexType-c04,,
-tsz-SN,tsz,SN,'no (particle),,,RN671[364-365]
-tsz-NegEx_Form,tsz,NegEx_Form,nooNpe,,,RN1217[88]
-tsz-NegExType_general_classificaiton,tsz,NegExType,completely different from SN: lexical item,NegexType-c04,,
-alc-SN,alc,SN,qjawel/qjep (particle/suffix),,,
-alc-NegEx_Form,alc,NegEx_Form,qjawel/qjep,,,RN456[in pasim]
-alc-NegExType_general_classificaiton,alc,NegExType,constructionally different from standard negation,NegexType-c02,,
-rap-SN,rap,SN,'ina (particle),,,RN73[35]
-rap-NegEx_Form,rap,NegEx_Form,ina,,,RN73[35]
-rap-NegExType_general_classificaiton,rap,NegExType,constructionally different from standard negation,NegexType-c02,,
-rar-SN,rar,SN,kāre (particle/verb),,,RN1249[396]
-rar-NegEx_Form,rar,NegEx_Form,kāre,,,RN1249[396]
-rar-NegExType_general_classificaiton,rar,NegExType,constructionally different from standard negation,NegexType-c02,,
-mnv-SN,mnv,SN,he'e (particle),,,RN1240[112]
-mnv-NegEx_Form,mnv,NegEx_Form,si'ai,,,RN1240[112]
-mnv-NegExType_general_classificaiton,mnv,NegExType,completely different from SN: lexical item,NegexType-c04,,
-tnc-SN,tnc,SN,--be (suffix),,,"RN2374[, 1456]"
-tnc-NegEx_Form,tnc,NegEx_Form,--be,,,"RN2374[146, 174]"
-tnc-NegExType_general_classificaiton,tnc,NegExType,identical with standard negation,NegexType-c01,,
-rus-SN,rus,SN,ne (particle),,,
-rus-NegEx_Form,rus,NegEx_Form,net,,,
-rus-NegExType_general_classificaiton,rus,NegExType,completely different from SN: lexical item,NegexType-c04,,
-sbe-SN,sbe,SN,nige particle),,,RN1158[31]
-sbe-NegEx_Form,sbe,NegEx_Form,nige,,,RN1158[31]
-sbe-NegExType_general_classificaiton,sbe,NegExType,identical with standard negation,NegexType-c01,,
-smo-SN,smo,SN,lē (particle),,,"RN204[376, in passim]"
-smo-NegEx_Form,smo,NegEx_Form,leai,,,RN204[526]
-smo-NegExType_general_classificaiton,smo,NegExType,completely different from SN: lexical item,NegexType-c04,,
-sey-SN,sey,SN,-ma',,,
-sey-NegEx_Form,sey,NegEx_Form,peo,,,
-sey-NegExType_general_classificaiton,sey,NegExType,completely different from SN: lexical item,NegexType-c04,,
-snw-SN,snw,SN,prefix (sometimes also tonal change); different markers for different TA categories,,,RN2616[25-26]
-snw-NegEx_Form,snw,NegEx_Form,-naa,,,
-snw-NegExType_general_classificaiton,snw,NegExType,completely different from SN: lexical item,NegexType-c04,,
-sel-SN,sel,SN,ašša; (particle); cääŋka (verb?),,,
-sel-NegEx_Form,sel,NegEx_Form,cääŋka,,,
-sel-NegExType_general_classificaiton,sel,NegExType,constructionally different from standard negation,NegexType-c02,,
-set-SN,set,SN,V-...-i (bi-partite),,,RN673[52-53]
-set-NegEx_Form,set,NegEx_Form,"olo [+human], an [+/-animate]",,,RN673[60-1]
-set-NegExType_general_classificaiton,set,NegExType,completely different from SN: other solutions,NegexType-c06,,
-srp-SN,srp,SN,ne (particle),,,
-srp-NegEx_Form,srp,NegEx_Form,nema,,,
-srp-NegExType_general_classificaiton,srp,NegExType,completely different from SN: lexical item,NegexType-c04,,
-sna-SN,sna,SN,ha- (prefix),,,"RN2617[3-4, ff]"
-sna-NegEx_Form,sna,NegEx_Form,apana/amuna,,,
-sna-NegExType_general_classificaiton,sna,NegExType,completely different from SN: lexical item,NegexType-c04,,
-sky-SN,sky,SN,hee (particle),,,RN1170[86]
-sky-NegEx_Form,sky,NegEx_Form,heai,,,RN1170[86]
-sky-NegExType_general_classificaiton,sky,NegExType,completely different from SN: lexical item,NegexType-c04,,
-snn-SN,snn,SN,-ma' (suffix),,,"RN2368[211, 178]"
-snn-NegEx_Form,snn,NegEx_Form,beo,,,"RN2368[244, 251]"
-snn-NegExType_general_classificaiton,snn,NegExType,completely different from SN: lexical item,NegexType-c04,,
-sri-SN,sri,SN,-b?/-biri (suffix),,,RN2372[403]
-sri-NegEx_Form,sri,NegEx_Form,bãri,,,RN2372[403-4]
-sri-NegExType_general_classificaiton,sri,NegExType,completely different from SN: lexical item,NegexType-c04,,
-sms-SN,sms,SN,ij (verb); i'lla (verb),,,
-sms-NegEx_Form,sms,NegEx_Form,i'lla; ij,,,
-sms-NegExType_general_classificaiton,sms,NegExType,completely different from SN: lexical item,NegexType-c04,,
-slk-SN,slk,SN,nie- (prefix),,,"RN1086[577, Markus Giger p.c.]"
-slk-NegEx_Form,slk,NegEx_Form,"nje je, (nieto)",,,"RN1086[577, Markus Giger p.c.]"
-slk-NegExType_general_classificaiton,slk,NegExType,identical with standard negation,NegexType-c01,,
-slv-SN,slv,SN,ne (particle),,,RN596[112]
-slv-NegEx_Form,slv,NegEx_Form,ne,,,RN596[112]
-slv-NegExType_general_classificaiton,slv,NegExType,identical with standard negation,NegexType-c01,,
-ses-SN,ses,SN,mana (particle) (PFV); sii (particle) (IPFV),,,RN114[143-152]
-ses-NegEx_Form,ses,NegEx_Form,sii; SN,,,RN114[143-152]
-ses-NegExType_general_classificaiton,ses,NegExType,completely different from SN: lexical item,NegexType-c04,,
-mqm-SN,mqm,SN,a'o'e (verb),,,RN1170[99]
-mqm-NegEx_Form,mqm,NegEx_Form,a'o'e,,,RN1170[99]
-mqm-NegExType_general_classificaiton,mqm,NegExType,constructionally different from standard negation,NegexType-c02,,
-sma-SN,sma,SN,i- (auxiliary),,,
-sma-NegEx_Form,sma,NegEx_Form,i-,,,
-sma-NegExType_general_classificaiton,sma,NegExType,identical with standard negation,NegexType-c01,,
-wsg-SN,wsg,SN,-o-/-v- (suffix); -sil (suffix),,,RN2107[122-134]
-wsg-NegEx_Form,wsg,NegEx_Form,sil,,,RN2107[122-134]
-wsg-NegExType_general_classificaiton,wsg,NegExType,morphologically different from standard negation,NegexType-c03,,
-spa-SN,spa,SN,no (particle),,,
-spa-NegEx_Form,spa,NegEx_Form,no hay,,,
-spa-NegExType_general_classificaiton,spa,NegExType,identical with standard negation,NegexType-c01,,
-sue-SN,sue,SN,kaka (particle); oko (particle),,,RN671[350]
-sue-NegEx_Form,sue,NegEx_Form,tepo,,,RN344[112]
-sue-NegExType_general_classificaiton,sue,NegExType,completely different from SN: lexical item,NegexType-c04,,
-spp-SN,spp,SN,(nye)…mʔ (bi-partite),,,RN38[247]
-spp-NegEx_Form,spp,NegEx_Form,(nye)…mʔ´,,,RN38[247]
-spp-NegExType_general_classificaiton,spp,NegExType,identical with standard negation,NegexType-c01,,
-swe-SN,swe,SN,inte (particle),,,
-swe-NegEx_Form,swe,NegEx_Form,ingen (negative quantifier); inte (particle),,,
-swe-NegExType_general_classificaiton,swe,NegExType,completely different from SN: negative indefinite pronouns,NegexType-c05,,
-mky-SN,mky,SN,te (particle),,,RN681[238]
-mky-NegEx_Form,mky,NegEx_Form,te,,,RN681[238]
-mky-NegExType_general_classificaiton,mky,NegExType,identical with standard negation,NegexType-c01,,
-shy-SN,shy,SN,u(r/d) (particle),,,RN2135[288-289]
-shy-NegEx_Form,shy,NegEx_Form,ulliš; ud--illi;,,,RN2135[288-289]
-shy-NegExType_general_classificaiton,shy,NegExType,completely different from SN: lexical item,NegexType-c04,,
-shi-SN,shi,SN,ur (particle),,,RN2135[288-289]
-shi-NegEx_Form,shi,NegEx_Form,laḥ,,,RN2135[288-289]
-shi-NegExType_general_classificaiton,shi,NegExType,completely different from SN: lexical item,NegexType-c04,,
-tgl-SN,tgl,SN,hindi (particle),,,"RN671[352, Carl Rubino, p.c.]"
-tgl-NegEx_Form,tgl,NegEx_Form,wala,,,RN262[521-523]
-tgl-NegExType_general_classificaiton,tgl,NegExType,completely different from SN: lexical item,NegexType-c04,,
-tah-SN,tah,SN,'a'ita/'a'ore/'e'ita/'e'ore (verb/particle),,,RN1172[151-152]
-tah-NegEx_Form,tah,NegEx_Form,'ai'ta;  'aore,,,RN1172[148]
-tah-NegExType_general_classificaiton,tah,NegExType,completely different from SN: lexical item,NegexType-c04,,
-tam-SN,tam,SN,-ill- (suffix); -? (suffix),,,"RN2103[221, 229-230]"
-tam-NegEx_Form,tam,NegEx_Form,il-,,,"RN2103[221, 229-230]"
-tam-NegExType_general_classificaiton,tam,NegExType,morphologically different from standard negation,NegexType-c03,,
-tae-SN,tae,SN,ma-V-Kade/kasu (bi-partite),,,RN2322[254]
-tae-NegEx_Form,tae,NegEx_Form,sede; kurripua,,,"RN2316[108,110]"
-tae-NegExType_general_classificaiton,tae,NegExType,completely different from SN: lexical item,NegexType-c04,,
-rif-SN,rif,SN,ur (particle),,,RN2135[288-289]
-rif-NegEx_Form,rif,NegEx_Form,ulaš; (ur) … (ša),,,RN2135[288-289]
-rif-NegExType_general_classificaiton,rif,NegExType,completely different from SN: lexical item,NegexType-c04,,
-tav-SN,tav,SN,"--ke, -keti (suffix)",,,"RN2373[60, in passim]"
-tav-NegEx_Form,tav,NegEx_Form,mani,,,RN2373[61]
-tav-NegExType_general_classificaiton,tav,NegExType,completely different from SN: lexical item,NegexType-c04,,
-tel-SN,tel,SN,lēdu (auxiliary); -a- (suffix),,,"RN2106[149, 155, 162, 218]"
-tel-NegEx_Form,tel,NegEx_Form,lee,,,"RN2106[149, 155, 162]"
-tel-NegExType_general_classificaiton,tel,NegExType,completely different from SN: lexical item,NegexType-c04,,
-tio-SN,tio,SN,san … haa (bi-partite),,,RN1972[45]
-tio-NegEx_Form,tio,NegEx_Form,ahiki,,,RN1972[49]
-tio-NegExType_general_classificaiton,tio,NegExType,completely different from SN: lexical item,NegexType-c04,,
-ter-SN,ter,SN,"ako, hyoko (particles)",,,RN2322[245]
-ter-NegEx_Form,ter,NegEx_Form,ako N-ino,,,RN2357[67/Ekdahl & Butler 1979:74]
-ter-NegExType_general_classificaiton,ter,NegExType,constructionally different from standard negation,NegexType-c02,,
-tet-SN,tet,SN,ha'I; la (particles),,,RN1211[228-231]
-tet-NegEx_Form,tet,NegEx_Form,ha'i/la n'o,,,RN1211[187]
-tet-NegExType_general_classificaiton,tet,NegExType,identical with standard negation,NegexType-c01,,
-tha-SN,tha,SN,may1 (particle),,,
-tha-NegEx_Form,tha,NegEx_Form,may1,,,
-tha-NegExType_general_classificaiton,tha,NegExType,identical with standard negation,NegexType-c01,,
-tkl-SN,tkl,SN,hē (particle),,,RN1171[136]
-tkl-NegEx_Form,tkl,NegEx_Form,heai,,,RN1171[135]
-tkl-NegExType_general_classificaiton,tkl,NegExType,completely different from SN: lexical item,NegexType-c04,,
-toi-SN,toi,SN,tií- (prefix),,,RN2120[44]
-toi-NegEx_Form,toi,NegEx_Form,-kew; -(ny)ina,,,RN2120[70]
-toi-NegExType_general_classificaiton,toi,NegExType,completely different from SN: lexical item,NegexType-c04,,
-ton-SN,ton,SN,'ikai (verb),,,RN1164[103]
-ton-NegEx_Form,ton,NegEx_Form,'ikai,,,RN1164[101]
-ton-NegExType_general_classificaiton,ton,NegExType,constructionally different from standard negation,NegexType-c02,,
-fit-SN,fit,SN,e- (auxiliary),,,
-fit-NegEx_Form,fit,NegEx_Form,e-,,,
-fit-NegExType_general_classificaiton,fit,NegExType,identical with standard negation,NegexType-c01,,
-trn-SN,trn,SN,wo~wi~wo'i-TAM V-IRR (auxiliary),,,RN2322[247]
-trn-NegEx_Form,trn,NegEx_Form,--jina,,,RN2321[221]
-trn-NegExType_general_classificaiton,trn,NegExType,completely different from SN: lexical item,NegexType-c04,,
-tsn-SN,tsn,SN,gá-góná (particle),,,RN2119[41]
-tsn-NegEx_Form,tsn,NegEx_Form,gá-góná,,,RN2119[41]
-tsn-NegExType_general_classificaiton,tsn,NegExType,identical with standard negation,NegexType-c01,,
-thv-SN,thv,SN,ur (particle),,,RN2135[288-289]
-thv-NegEx_Form,thv,NegEx_Form,aba/ba,,,RN2135[288-289)]
-thv-NegExType_general_classificaiton,thv,NegExType,completely different from SN: lexical item,NegexType-c04,,
-tuo-SN,tuo,SN,"-ti (suffix, main clauses); -we'e (non-visible, non-present); -some (future)",,,RN2377[152-3]
-tuo-NegEx_Form,tuo,NegEx_Form,mãrí /bãdí/,,,
-tuo-NegExType_general_classificaiton,tuo,NegExType,completely different from SN: lexical item,NegexType-c04,,
-khc-SN,khc,SN,mbea(ka) (particle),,,RN70[450]
-khc-NegEx_Form,khc,NegEx_Form,mbea'a,,,RN70[364]
-khc-NegExType_general_classificaiton,khc,NegExType,completely different from SN: lexical item,NegexType-c04,,
-tuv-SN,tuv,SN,ɲi- (prefix),,,
-tuv-NegEx_Form,tuv,NegEx_Form,A-mamaka-ʋ′,,,
-tuv-NegExType_general_classificaiton,tuv,NegExType,completely different from SN: lexical item,NegexType-c04,,
-tur-SN,tur,SN,--ma (suffix),,,RN671[359]
-tur-NegEx_Form,tur,NegEx_Form,yok,,,
-tur-NegExType_general_classificaiton,tur,NegExType,completely different from SN: lexical item,NegexType-c04,,
-tvl-SN,tvl,SN,see/hee (particle),,,RN1361[180]
-tvl-NegEx_Form,tvl,NegEx_Form,seeai,,,RN1361[121]
-tvl-NegExType_general_classificaiton,tvl,NegExType,completely different from SN: lexical item,NegexType-c04,,
-tue-SN,tue,SN,"---riin (suffix) main clauses, -e (suffix) in nomiinalized and subordinate clauses",,,RN2375[37]
-tue-NegEx_Form,tue,NegEx_Form,mani,,,"RN2375[37, in passim]"
-tue-NegExType_general_classificaiton,tue,NegExType,completely different from SN: lexical item,NegexType-c04,,
-udi-SN,udi,SN,--te (suffix),,,
-udi-NegEx_Form,udi,NegEx_Form,te-,,,
-udi-NegExType_general_classificaiton,udi,NegExType,identical with standard negation,NegexType-c01,,
-udm-SN,udm,SN,ö- (auxiliary),,,RN1425[in passim]
-udm-NegEx_Form,udm,NegEx_Form,övöl,,,RN1425[in passim]
-udm-NegExType_general_classificaiton,udm,NegExType,completely different from SN: lexical item,NegexType-c04,,
-ukr-SN,ukr,SN,ne (particle),,,
-ukr-NegEx_Form,ukr,NegEx_Form,nema(je),,,
-ukr-NegExType_general_classificaiton,ukr,NegExType,completely different from SN: lexical item,NegexType-c04,,
-sju-SN,sju,SN,i- (auxiliary),,,
-sju-NegEx_Form,sju,NegEx_Form,i-,,,
-sju-NegExType_general_classificaiton,sju,NegExType,identical with standard negation,NegexType-c01,,
-hsb-SN,hsb,SN,nje- (prefix),,,RN1087[666]
-hsb-NegEx_Form,hsb,NegEx_Form,ne,,,
-hsb-NegExType_general_classificaiton,hsb,NegExType,identical with standard negation,NegexType-c01,,
-wnu-SN,wnu,SN,me (particle),,,"RN245[278, 57, 99]"
-wnu-NegEx_Form,wnu,NegEx_Form,ue,,,RN245[273-274]
-wnu-NegExType_general_classificaiton,wnu,NegExType,completely different from SN: lexical item,NegexType-c04,,
-ute-SN,ute,SN,ka … wa (bi-partite),,,
-ute-NegEx_Form,ute,NegEx_Form,ka-NOUN-'wa,,,
-ute-NegExType_general_classificaiton,ute,NegExType,constructionally different from standard negation,NegexType-c02,,
-vep-SN,vep,SN,ei (particle),,,
-vep-NegEx_Form,vep,NegEx_Form,eole; ei,,,
-vep-NegExType_general_classificaiton,vep,NegExType,completely different from SN: lexical item,NegexType-c04,,
-vie-SN,vie,SN,không (particle),,,"RN294[208-9, 211, 216]"
-vie-NegEx_Form,vie,NegEx_Form,không (cô) NOUN,,,"RN294[208-9, 211, 216]"
-vie-NegExType_general_classificaiton,vie,NegExType,identical with standard negation,NegexType-c01,,
-vot-SN,vot,SN,e- (auxiliary),,,RN1422[80]
-vot-NegEx_Form,vot,NegEx_Form,e-,,,RN1422[80]
-vot-NegExType_general_classificaiton,vot,NegExType,identical with standard negation,NegexType-c01,,
-wls-SN,wls,SN,morel (verb),,,RN2047[in passim]
-wls-NegEx_Form,wls,NegEx_Form,mole,,,RN2047[in passim]
-wls-NegExType_general_classificaiton,wls,NegExType,constructionally different from standard negation,NegexType-c02,,
-wyb-SN,wyb,SN,waŋa (particle),,,RN69[239]
-wyb-NegEx_Form,wyb,NegEx_Form,dhalaba (privative),,,RN69[111]
-wyb-NegExType_general_classificaiton,wyb,NegExType,completely different from SN: other solutions,NegexType-c06,,
-wba-SN,wba,SN,–naka,,,RN671[364-365]
-wba-NegEx_Form,wba,NegEx_Form,ekira; ana,,,
-wba-NegExType_general_classificaiton,wba,NegExType,completely different from SN: negative indefinite pronouns,NegexType-c05,,
-mht-SN,mht,SN,ya=...=pia (bi-partite),,,RN2322[253]
-mht-NegEx_Form,mht,NegEx_Form,ya-beda-pia,,,"RN2330[250, 266]"
-mht-NegExType_general_classificaiton,mht,NegExType,completely different from SN: lexical item,NegexType-c04,,
-wau-SN,wau,SN,aitsa (particle),,,RN2322[245]
-wau-NegEx_Form,wau,NegEx_Form,mano,,,RN2318[166ff]
-wau-NegExType_general_classificaiton,wau,NegExType,completely different from SN: lexical item,NegexType-c04,,
-guc-SN,guc,SN,noho(l)- (auxiliary),,,RN2322[247]
-guc-NegEx_Form,guc,NegEx_Form,nnojola/nnojoloo,,,RN2332[37]
-guc-NegExType_general_classificaiton,guc,NegExType,completely different from SN: lexical item,NegexType-c04,,
-kew-SN,kew,SN,na- (particle),,,RN671[291]
-kew-NegEx_Form,kew,NegEx_Form,dia (ta),,,RN691[127]
-kew-NegExType_general_classificaiton,kew,NegExType,completely different from SN: lexical item,NegexType-c04,,
-uve-SN,uve,SN,hē (particle),,,RN1170[86]
-uve-NegEx_Form,uve,NegEx_Form,siai,,,RN1170[86]
-uve-NegExType_general_classificaiton,uve,NegExType,completely different from SN: lexical item,NegexType-c04,,
-pes-SN,pes,SN,na- (prefix),,,RN671[336)]
-pes-NegEx_Form,pes,NegEx_Form,nist,,,"RN590[89, Donald Stilo p.c.]"
-pes-NegExType_general_classificaiton,pes,NegExType,completely different from SN: lexical item,NegexType-c04,,
-jai-SN,jai,SN,mach (particle); mach … -oj (bi-partite),,,RN671[282]
-jai-NegEx_Form,jai,NegEx_Form,mach,,,"RN48[27, Day 1973: 62]"
-jai-NegExType_general_classificaiton,jai,NegExType,constructionally different from standard negation,NegexType-c02,,
-mrj-SN,mrj,SN,a- (verb),,,RN1415[72-73]
-mrj-NegEx_Form,mrj,NegEx_Form,uke,,,RN1415[72-73]
-mrj-NegExType_general_classificaiton,mrj,NegExType,completely different from SN: lexical item,NegexType-c04,,
-wit-SN,wit,SN,ʔelew … mina (bi-partite),,,RN2091[197-199]
-wit-NegEx_Form,wit,NegEx_Form,mina,,,RN2091[197-199]
-wit-NegExType_general_classificaiton,wit,NegExType,morphologically different from standard negation,NegexType-c03,,
-ame-SN,ame,SN,ama ...-e/o (bi-partite),,,RN2322[257]
-ame-NegEx_Form,ame,NegEx_Form,ama eñalle,,,
-ame-NegExType_general_classificaiton,ame,NegExType,identical with standard negation,NegexType-c01,,
-yvt-SN,yvt,SN,jata (particle),,,RN2322[245]
-yvt-NegEx_Form,yvt,NegEx_Form,jata/jainta,,,RN2333[87]
-yvt-NegExType_general_classificaiton,yvt,NegExType,completely different from SN: lexical item,NegexType-c04,,
-yee-SN,yee,SN,ta- (prefix); 'ina (proclitic),,,"RN88[251-252, 263]"
-yee-NegEx_Form,yee,NegEx_Form,kayak,,,RN88[461]
-yee-NegExType_general_classificaiton,yee,NegExType,completely different from SN: lexical item,NegexType-c04,,
-pib-SN,pib,SN,hi (particle),,,RN2322[245]
-pib-NegEx_Form,pib,NegEx_Form,maleSa,,,RN2334[303]
-pib-NegExType_general_classificaiton,pib,NegExType,completely different from SN: lexical item,NegexType-c04,,
-yor-SN,yor,SN,ko (particle),,,RN314[137]
-yor-NegEx_Form,yor,NegEx_Form,kò sí (sì is a negative polarity item),,,RN2117[267-269]
-yor-NegExType_general_classificaiton,yor,NegExType,completely different from SN: other solutions,NegexType-c06,,
-ycn-SN,ycn,SN,unka ...-la- (bi-partite),,,RN2322[257]
-ycn-NegEx_Form,ycn,NegEx_Form,unkÃ¡ i'imalÃ¡,,,
-ycn-NegExType_general_classificaiton,ycn,NegExType,completely different from SN: lexical item,NegexType-c04,,
-diq-SN,diq,SN,'ne-/'ni- (prefix),,,RN1019[130-131]
-diq-NegEx_Form,diq,NegEx_Form,t͡shino,,,RN1019[133]
-diq-NegExType_general_classificaiton,diq,NegExType,completely different from SN: lexical item,NegexType-c04,,
+ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Source_comment
+aca-SN,aca,SN,ho-ka- (auxiliary/particle),,,RN2322[247],Michael 2014: 247
+aca-NegEx_Form,aca,NegEx_Form,hiní; coacao,,,"RN2316[118, 117]","Aikhenvald 2014: 118, 117"
+aca-NegExType_general_classificaiton,aca,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+xua-SN,xua,SN,–le (suffix),,,"RN2105[141, 151-152]","Kapp 1982: 141, 151-152"
+xua-NegEx_Form,xua,NegEx_Form,ille (non-PST); untji for PST,,,"RN2105[141, 151-152]","Kapp 1982: 141, 151-152"
+xua-NegExType_general_classificaiton,xua,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+pbg-SN,pbg,SN,–pe (suffix),,,RN2322[254],Michael 2014: 254
+pbg-NegEx_Form,pbg,NegEx_Form,ee-pe,,,,Alvarez 2009: 150
+pbg-NegExType_general_classificaiton,pbg,NegExType,identical with standard negation,NegexType-c01,,,
+tkp-SN,tkp,SN,sise (particle),,,RN1170[86],Clark 1976: 86
+tkp-NegEx_Form,tkp,NegEx_Form,siei,,,RN1170[86],Clark 1976: 86
+tkp-NegExType_general_classificaiton,tkp,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+apu-SN,apu,SN,kuna (particle),,,RN2322[245],MIchael 2014: 245
+apu-NegEx_Form,apu,NegEx_Form,kuna awa,,,RN2317[128],Facundes 2014:128
+apu-NegExType_general_classificaiton,apu,NegExType,identical with standard negation,NegexType-c01,,,
+ard-SN,ard,SN,"malyka (particle), padni 'privative', 'nothing'. Padni is is very common in locative phrases of circumstance and also in negative statements.",,,,Hercus 1994: 237
+ard-NegEx_Form,ard,NegEx_Form,padni,,,,Hercus 1994: 292-293
+ard-NegExType_general_classificaiton,ard,NegExType,constructionally different from standard negation,NegexType-c02,,,
+arh-SN,arh,SN,–(u)ʔ (suffix),,,"RN93[49, 64]","Frank 1990: 49, 64"
+arh-NegEx_Form,arh,NegEx_Form,be...–(u)ʔ,,,RN93[69],Frank 1990: 69
+arh-NegExType_general_classificaiton,arh,NegExType,identical with standard negation,NegexType-c01,,,
+kwi-SN,kwi,SN,shi ...-ma (bi-partite),,,RN380[331-333],Curnow 1997: 331-333
+kwi-NegEx_Form,kwi,NegEx_Form,way; 'lack'; shi--ma (SN),,,"RN380[332, 226]","Curnow 1997: 332, 226"
+kwi-NegExType_general_classificaiton,kwi,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+bfd-SN,bfd,SN,kaa ... wa’a/sì (bi-partite),,,RN1199[214-215],Chumbow and Tamanji 1994: 214-215
+bfd-NegEx_Form,bfd,NegEx_Form,kaa...wa’a/sì,,,"RN1199[214-215, 233]","Chumbow and Tamanji 1994: 214-215, 233"
+bfd-NegExType_general_classificaiton,bfd,NegExType,identical with standard negation,NegexType-c01,,,
+bmi-SN,bmi,SN,li (particle),,,"RN280[83, 91, 130]","Stevenson 1969: 83, 91, 130"
+bmi-NegEx_Form,bmi,NegEx_Form,gwoto,,,RN280[165],Stevenson 1969: 165
+bmi-NegExType_general_classificaiton,bmi,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+bsn-SN,bsn,SN,–be- (suffix),,,,Jones & Jones 1991: 83
+bsn-NegEx_Form,bsn,NegEx_Form,ba?di-,,,,Jones & Jones 1991: 110
+bsn-NegExType_general_classificaiton,bsn,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+bae-SN,bae,SN,hena V-(waka) (particle; optionally bi-partite),,,"RN2322[245, 252-3]","Michael 2014: 245, 252-3"
+bae-NegEx_Form,bae,NegEx_Form,bed'waka; ind'waka 'nothing',,,"RN2618[43-4, in passim]","Aikhenvald 1995: 43-4, in passim"
+bae-NegExType_general_classificaiton,bae,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+eus-SN,eus,SN,ez (particle),,,,"Hualde 2003: 365, inpassim"
+eus-NegEx_Form,eus,NegEx_Form,ez izan/egon,,,,Hualde 2003: 365
+eus-NegExType_general_classificaiton,eus,NegExType,identical with standard negation,NegexType-c01,,,
+brg-SN,brg,SN,noka (particle),,,RN2322[245],MIchael 2014: 245
+brg-NegEx_Form,brg,NegEx_Form,nka-wo,,,,Danielsen 2007: 198-9
+brg-NegExType_general_classificaiton,brg,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+bel-SN,bel,SN,ne (particle),,,,Marian Sloboda (p.c.)
+bel-NegEx_Form,bel,NegEx_Form,nema/njama,,,,Marian Sloboda (p.c.)
+bel-NegExType_general_classificaiton,bel,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+gax-SN,gax,SN,kim- (prefix),,,RN283[83],Stroomer 1995: 83
+gax-NegEx_Form,gax,NegEx_Form,kim-...-jira,,,RN283[83],Stroomer 1995: 83
+gax-NegExType_general_classificaiton,gax,NegExType,identical with standard negation,NegexType-c01,,,
+bos-SN,bos,SN,ne (particle),,,,"Dejan Matic, p.c."
+bos-NegEx_Form,bos,NegEx_Form,nema,,,,"Dejan Matic, p.c."
+bos-NegExType_general_classificaiton,bos,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+brh-SN,brh,SN,-pa-/-fa-/ta-/-par-/-far (suffix),,,"RN341[57, 61, 69, 72, 73, 76]","Andronov 1980: 57, 61, 69, 72, 73, 76"
+brh-NegEx_Form,brh,NegEx_Form,a-ffa-(non-PST); all-(PST),,,RN341[79],Andronov 1980: 79
+brh-NegExType_general_classificaiton,brh,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+bul-SN,bul,SN,ne (particle),,,,personal knowledge
+bul-NegEx_Form,bul,NegEx_Form,njama,,,,personal knowledge
+bul-NegExType_general_classificaiton,bul,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+mya-SN,mya,SN,ma-...í-hpù (bi-partite),,,RN220[149],Okell 1994: 149
+mya-NegEx_Form,mya,NegEx_Form,ma-hyí-hpù,,,RN220[149],Okell 1994: 149
+mya-NegExType_general_classificaiton,mya,NegExType,identical with standard negation,NegexType-c01,,,
+bsk-SN,bsk,SN,a- (prefix),,,RN169[305],Lorimer 1935: 305
+bsk-NegEx_Form,bsk,NegEx_Form,up'i,,,,Lorimer 305
+bsk-NegExType_general_classificaiton,bsk,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+ram-SN,ram,SN,nare (particle),,,,Popjes & Popjes 1985: in passim
+ram-NegEx_Form,ram,NegEx_Form,nare,,,,Popjes & Popjes 1985: in passim
+ram-NegExType_general_classificaiton,ram,NegExType,identical with standard negation,NegexType-c01,,,
+cbc-SN,cbc,SN,–e/eti or -ẽ/-ẽti (suffix),,,RN2361[61],Metzger 1981: 61
+cbc-NegEx_Form,cbc,NegEx_Form,"mani-'there is not, not have'",,,RN2361[97],Metzger 1981: 97
+cbc-NegExType_general_classificaiton,cbc,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+tzm-SN,tzm,SN,ur (particle),,,RN692[63],Penchoen 1973: 63
+tzm-NegEx_Form,tzm,NegEx_Form,ur,,,RN692[63],Penchoen 1973: 63
+tzm-NegExType_general_classificaiton,tzm,NegExType,identical with standard negation,NegexType-c01,,,
+knc-SN,knc,SN,-bâ (PROG); -(n)nyí (FUT) (suffixes),,,RN51[39-40],Cyffer 1998: 39-40
+knc-NegEx_Form,knc,NegEx_Form,bâ (free form),,,,Hutchinson 1981: 172
+knc-NegExType_general_classificaiton,knc,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+khm-SN,khm,SN,min (particle),,,RN671[245],"Miestamo, 2003: 245"
+khm-NegEx_Form,khm,NegEx_Form,khmian,,,,Noss 1966: 119
+khm-NegExType_general_classificaiton,khm,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+mam-SN,mam,SN,miyaal7 (nyaa7) (particle),,,RN2036[244],England 1983: 244
+mam-NegEx_Form,mam,NegEx_Form,"mi7aal (human), mixti7 (non-human)",,,RN2036[88],England 1983: 88
+mam-NegExType_general_classificaiton,mam,NegExType,constructionally different from standard negation,NegexType-c02,,,
+esu-SN,esu,SN,-nrite (suffix),,,RN136[25],Jacobson and Jacobson 1995: 25
+esu-NegEx_Form,esu,NegEx_Form,taite; -nrite,,,,Steve Jaconbson (p.c.)
+esu-NegExType_general_classificaiton,esu,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+mig-SN,mig,SN,tu- (clitic),,,RN174[98],"Macaulay, 1996: 98"
+mig-NegEx_Form,mig,NegEx_Form,túu,,,RN174[122],Macaulay 1996: 122
+mig-NegExType_general_classificaiton,mig,NegExType,constructionally different from standard negation,NegexType-c02,,,
+cde-SN,cde,SN,lēdu/le (particle),,,"RN2113[54, 70, 80]","Trivedi 1978: 54, 70, 80"
+cde-NegEx_Form,cde,NegEx_Form,un-; le:-,,,"RN2113[46, 47]","Trivedi 1978: 46, 47"
+cde-NegExType_general_classificaiton,cde,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+cap-SN,cap,SN,ana (particle),,,RN1218[203],Cerrón-Palomino 2006: 203
+cap-NegEx_Form,cap,NegEx_Form,ana N zhel-,,,RN1218[203],Cerrón-Palomino 2006: 203
+cap-NegExType_general_classificaiton,cap,NegExType,identical with standard negation,NegexType-c01,,,
+ckt-SN,ckt,SN,a-Ví-ka (bi-partite),,,RN671[250],Miestamo 2003: 250
+ckt-NegEx_Form,ckt,NegEx_Form,ujŋe,,,,Dunn 1999: 332
+ckt-NegExType_general_classificaiton,ckt,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+hrv-SN,hrv,SN,ne (particle),,,,"Dejan Matic, p.c."
+hrv-NegEx_Form,hrv,NegEx_Form,nema,,,,"Dejan Matic, p.c."
+hrv-NegExType_general_classificaiton,hrv,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+cub-SN,cub,SN,-be-,,,"RN2362[45, in passim]","Chacon 2012: 45, in passim"
+cub-NegEx_Form,cub,NegEx_Form,kÉ¨-be-,,,"RN2362[2, 76]","Chacon 2012: 2, 76"
+cub-NegExType_general_classificaiton,cub,NegExType,identical with standard negation,NegexType-c01,,,
+ces-SN,ces,SN,ne- (prefix),,,RN1086[512],Short 1993: 512; Shirokova et al 1973: 396; Markus Giger (p.c.)
+ces-NegEx_Form,ces,NegEx_Form,ne-; neni,,,RN1086[512],Short 1993: 512; Shirokova et al 1973: 396; Markus Giger (p.c.)
+ces-NegExType_general_classificaiton,ces,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+des-SN,des,SN,---be/-bi/-bidi (suffix),,,"RN2363[76, in passim]","Silva 2012: 76, in passim"
+des-NegEx_Form,des,NegEx_Form,mãɾĩ; badi,,,"RN2363[209, in passim]","Silva 2012: 209, in passim"
+des-NegExType_general_classificaiton,des,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+bvx-SN,bvx,SN,ká- (prefix),,,RN1219[403],Leitch 2003: 403
+bvx-NegEx_Form,bvx,NegEx_Form,há-tí,,,RN1027[195-9],Leitch 1994: 195-9
+bvx-NegExType_general_classificaiton,bvx,NegExType,constructionally different from standard negation,NegexType-c02,,,
+pci-SN,pci,SN,"--e/-o,PERS.NUM.GENDER (suffix)",,,RN2111[64-67],Burrow & Bhattacharya 1953: 64-67
+pci-NegEx_Form,pci,NegEx_Form,cila-,,,RN2111[64-67],Burrow & Bhattacharya 1953: 64-67
+pci-NegExType_general_classificaiton,pci,NegExType,morphologically different from standard negation,NegexType-c03,,,
+fud-SN,fud,SN,"lee'se, le'aise (verb), le (particle)",,,"RN1169[116, in passim]","Moyse-Faurie 1999: 116, in passim"
+fud-NegEx_Form,fud,NegEx_Form,le'e/le'ai,,,"RN1169[116, in passim]","Moyse-Faurie 1999: 116, in passim"
+fud-NegExType_general_classificaiton,fud,NegExType,constructionally different from standard negation,NegexType-c02,,,
+mhr-SN,mhr,SN,a- (auxiliary),,,RN1415[72],Vasikova 1990: 72; Jeremy Bradley p.c.
+mhr-NegEx_Form,mhr,NegEx_Form,uke,,,RN1415[72],Vasikova 1990: 72; Jeremy Bradley p.c.
+mhr-NegExType_general_classificaiton,mhr,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+mmw-SN,mmw,SN,s? (particle),,,RN1170[in passim],Clark 1976: in passim
+mmw-NegEx_Form,mmw,NegEx_Form,ikai,,,RN1170[in passim],Clark 1976: in passim
+mmw-NegExType_general_classificaiton,mmw,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+eng-SN,eng,SN,do/be not (auxiliary),,,,personal knowledge
+eng-NegEx_Form,eng,NegEx_Form,no; SN,,,,personal knowledge
+eng-NegExType_general_classificaiton,eng,NegExType,completely different from SN: negative indefinite pronouns,NegexType-c05,,,
+myv-SN,myv,SN,a (particle),,,RN1231[in passim],Hamari 2007: in passim
+myv-NegEx_Form,myv,NegEx_Form,aras,,,RN1231[91],Hamari 2007: 91
+myv-NegExType_general_classificaiton,myv,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+ekk-SN,ekk,SN,ei (particle),,,RN1424[in passim],Tuldava 1994: in passim
+ekk-NegEx_Form,ekk,NegEx_Form,pole 'not be'; eij (SN),,,RN1424[25],Tuldava 1994: 25
+ekk-NegExType_general_classificaiton,ekk,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+evn-SN,evn,SN,e- (auxiliary),,,RN670[2],Nedjalkov 1994: 2
+evn-NegEx_Form,evn,NegEx_Form,achin,,,RN670[2];RN210[97],Nedjalkov 1994: 2; Nedjalkov 1997: 97
+evn-NegExType_general_classificaiton,evn,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+fin-SN,fin,SN,e- (auxiliary),,,,"Matti Miestamo, p.c."
+fin-NegEx_Form,fin,NegEx_Form,e- olem,,,,Matti Miestamo p.c.
+fin-NegExType_general_classificaiton,fin,NegExType,identical with standard negation,NegexType-c01,,,
+enf-SN,enf,SN,?i- (auxiliary),,,,Laakso et al. 2012
+enf-NegEx_Form,enf,NegEx_Form,d'ago,,,,Laakso et al. 2012
+enf-NegExType_general_classificaiton,enf,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+fra-SN,fra,SN,ne ... pas (bi-partite),,,,personal knowledge
+fra-NegEx_Form,fra,NegEx_Form,il n'y a pas,,,,personal knowledge
+fra-NegExType_general_classificaiton,fra,NegExType,identical with standard negation,NegexType-c01,,,
+fut-SN,fut,SN,se .... Ma (bi-partite),,,RN1170[in passim],Clark 1976: in passim
+fut-NegEx_Form,fut,NegEx_Form,"skikai, jikai",,,RN1170[in passim],Clark 1976: in passim
+fut-NegExType_general_classificaiton,fut,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+cab-SN,cab,SN,m(ama)-V; úwa V,,,"RN2322[245, 254, 256]","Michael 2014: 245, 254, 256"
+cab-NegEx_Form,cab,NegEx_Form,úwa,,,"RN2314[34-5, 38]","Munro & Gallagher 2014: 34-5, 38"
+cab-NegExType_general_classificaiton,cab,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+grt-SN,grt,SN,--ja (suffix),,,RN27[74],Burling 1961: 74
+grt-NegEx_Form,grt,NegEx_Form,dong-ja,,,RN27[74],Burling 1961: 74
+grt-NegExType_general_classificaiton,grt,NegExType,identical with standard negation,NegexType-c01,,,
+kat-SN,kat,SN,ar(a) (particle),,,RN671[263],Miestamo 2003: 263
+kat-NegEx_Form,kat,NegEx_Form,ar uarsebniat,,,RN1204[274],Harris 1981: 274
+kat-NegExType_general_classificaiton,kat,NegExType,identical with standard negation,NegexType-c01,,,
+deu-SN,deu,SN,nicht (particle),,,,Bernhard Wälchli p.c.
+deu-NegEx_Form,deu,NegEx_Form,kein,,,,Berhard Wälchli p.c.
+deu-NegExType_general_classificaiton,deu,NegExType,completely different from SN: negative indefinite pronouns,NegexType-c05,,,
+zen-SN,zen,SN,wəl (particle),,,RN2135[288-289],Mettouchi 2009: 288-289
+zen-NegEx_Form,zen,NegEx_Form,wəl d,,,RN2135[288-289)],Mettouchi (2009: 288-289)
+zen-NegExType_general_classificaiton,zen,NegExType,identical with standard negation,NegexType-c01,,,
+gni-SN,gni,SN,mangaddi (particle),,,,"McGregor, 1990: 361, 390"
+gni-NegEx_Form,gni,NegEx_Form,marlami,,,,McGregor1990: 490
+gni-NegExType_general_classificaiton,gni,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+ell-SN,ell,SN,dhen (particle),,,,"Gerassimia Mattson, p.c."
+ell-NegEx_Form,ell,NegEx_Form,dhen écho,,,,Creissels 2014: 30
+ell-NegExType_general_classificaiton,ell,NegExType,identical with standard negation,NegexType-c01,,,
+bsq-SN,bsq,SN,--it (suffix),,,RN89[136],Fortescue 1984: 136; Michael Forstescue p.c.
+bsq-NegEx_Form,bsq,NegEx_Form,--it (suffix),,,RN89[136],Fortescue 1984: 136; Michael Forstescue p.c.
+bsq-NegExType_general_classificaiton,bsq,NegExType,identical with standard negation,NegexType-c01,,,
+gug-SN,gug,SN,n(d)a ... i (bi-partite),,,RN671[268],Miestamo 2003: 268
+gug-NegEx_Form,gug,NegEx_Form,n-oimé-i,,,RN104[187],"Guasch 1996: 187; Dejan Matic, p.c."
+gug-NegExType_general_classificaiton,gug,NegExType,identical with standard negation,NegexType-c01,,,
+afb-SN,afb,SN,ma(a)/mu(u) (particle),,,RN2125[236],Mahdi 1985: 236
+afb-NegEx_Form,afb,NegEx_Form,maa'ku,,,RN2125[239],Mahdi 1985: 239
+afb-NegExType_general_classificaiton,afb,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+khk-SN,khk,SN,--guy,,,,"Benjamin Brosig, p.c."
+khk-NegEx_Form,khk,NegEx_Form,guy,,,,Benjamin Brosig p.c.
+khk-NegExType_general_classificaiton,khk,NegExType,morphologically different from standard negation,NegexType-c03,,,
+hau-SN,hau,SN,bá; bā (particles),,,RN384[357],Newman 2000: 357
+hau-NegEx_Form,hau,NegEx_Form,babù; bâ,,,RN384[357],Newman 2000: 357
+hau-NegExType_general_classificaiton,hau,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+haw-SN,haw,SN,a'ole (verb); 'a'ohe,,,RN641[142],Elbert and Pukui 1979: 142
+haw-NegEx_Form,haw,NegEx_Form,a'ole; a'o'he,,,RN641[142],"Elbert and Pukui 1979: 142; Pila Wilson, p.c."
+haw-NegExType_general_classificaiton,haw,NegExType,constructionally different from standard negation,NegexType-c02,,,
+heb-SN,heb,SN,lo (particle),,,RN680[220],Berman 1978: 220; Tal Linzen (p.c.)
+heb-NegEx_Form,heb,NegEx_Form,eyn; lo,,,RN680[220],Berman 1978: 220; Tal Linzen (p.c.)
+heb-NegExType_general_classificaiton,heb,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+qub-SN,qub,SN,mana ...-cho (bi-partite),,,,Weber 1996: 444
+qub-NegEx_Form,qub,NegEx_Form,mana ...chu,,,,Weber 1996: 444
+qub-NegExType_general_classificaiton,qub,NegExType,identical with standard negation,NegexType-c01,,,
+hun-SN,hun,SN,nem (particle),,,RN676[147-8],de Groot 1994: 147-8
+hun-NegEx_Form,hun,NegEx_Form,nincs,,,RN676[147-8],de Groot 1994: 147-8
+hun-NegExType_general_classificaiton,hun,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+isl-SN,isl,SN,ekki (particle),,,,Elisabet Eír Cortes p.c.
+isl-NegEx_Form,isl,NegEx_Form,enginn; ekki … neinn,,,,Elisabet Eír Cortes p.c.
+isl-NegExType_general_classificaiton,isl,NegExType,completely different from SN: negative indefinite pronouns,NegexType-c05,,,
+qvi-SN,qvi,SN,(mana) -chu (bi-partite),,,,Peter Cole p.c.
+qvi-NegEx_Form,qvi,NegEx_Form,(mana) -chu,,,,Peter Cole p.c.
+qvi-NegExType_general_classificaiton,qvi,NegExType,identical with standard negation,NegexType-c01,,,
+inp-SN,inp,SN,aa- (prefix),,,RN2322[254],Michael 2014: 254
+inp-NegEx_Form,inp,NegEx_Form,aaráwama; paísini,,,RN2355[43],Parker 1995: 43
+inp-NegExType_general_classificaiton,inp,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+smn-SN,smn,SN,i- (auxiliary),,,RN2127[56],Korhonen 1988: 56
+smn-NegEx_Form,smn,NegEx_Form,i-,,,RN2127[56],Korhonen 1988: 56
+smn-NegExType_general_classificaiton,smn,NegExType,identical with standard negation,NegexType-c01,,,
+ind-SN,ind,SN,tidak (particle),,,RN273[195],Sneddon 1996: 195
+ind-NegEx_Form,ind,NegEx_Form,"tidak ada, (tiada)",,,"RN273[264, in passim]","Sneddon 1996: 264, in passim"
+ind-NegExType_general_classificaiton,ind,NegExType,identical with standard negation,NegexType-c01,,,
+ita-SN,ita,SN,non (particle),,,,"Francesca Di Garbo, p.c."
+ita-NegEx_Form,ita,NegEx_Form,non,,,,Francesca di Garbo (p.c.)
+ita-NegExType_general_classificaiton,ita,NegExType,identical with standard negation,NegexType-c01,,,
+otz-SN,otz,SN,hingi/hina/kho(ng) (particle),,,RN376[27],Lastra 1998: 27
+otz-NegEx_Form,otz,NegEx_Form,ša-kha,,,RN376[28],Lastra 1998: 28; Lastra 1997: in passim
+otz-NegExType_general_classificaiton,otz,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+dyo-SN,dyo,SN,"'-ut (suffix, non-FUT); lɛt- (prefix, FUT)",,,"RN259[30, 33, 94]","Sapir 1965: 30, 33, 94"
+dyo-NegEx_Form,dyo,NegEx_Form,lɛt (mostly free form but can appear as a bound morpheme too),,,"RN259[30, 33, 94]","Sapir 1965: 30, 33, 94"
+dyo-NegExType_general_classificaiton,dyo,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+ktz-SN,ktz,SN,|óá (particle),,,RN664[in passim],Snyman 1970: in passim
+ktz-NegEx_Form,ktz,NegEx_Form,|óá o [SN be],,,RN664[in passim],Snyman 1970: in passim
+ktz-NegExType_general_classificaiton,ktz,NegExType,identical with standard negation,NegexType-c01,,,
+kab-SN,kab,SN,u(r) (particle),,,RN2135[288-289],Mettouchi 2009: 288-289
+kab-NegEx_Form,kab,NegEx_Form,ulaš,,,RN2135[288-289],"Mettouchi 2009: 288-289; Amina Mettouchi, p.c."
+kab-NegExType_general_classificaiton,kab,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+xas-SN,xas,SN,"ej (particle, non-FUT), e- (auxiliary, FUT)",,,,Simoncsics 1988: 594; Donner 1944; Laakso et al. 2012
+xas-NegEx_Form,xas,NegEx_Form,naga,,,,Simoncsics 1988: 594; Donner 1944; Laakso et al. 2012
+xas-NegExType_general_classificaiton,xas,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+kan-SN,kan,SN,--illa (suffix),,,"RN277[111-112, 220]","Sridhar 1990: 111-112, 220"
+kan-NegEx_Form,kan,NegEx_Form,illa,,,"RN277[111-2, 220]","Sridhar 1990: 111-2, 220"
+kan-NegExType_general_classificaiton,kan,NegExType,morphologically different from standard negation,NegexType-c03,,,
+kpg-SN,kpg,SN,tē (particle); hakarē (particle),,,"RN1235[30, 48, in passim]","Elbert 1948: 30, 48, in passim"
+kpg-NegEx_Form,kpg,NegEx_Form,hakaree; teai,,,"RN1235[30, 48, in passim]","Elbert 1948: 30, 48, in passim"
+kpg-NegExType_general_classificaiton,kpg,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+csb-SN,csb,SN,ne (particle),,,,Vladislav Knoll p.c.
+csb-NegEx_Form,csb,NegEx_Form,ni ma,,,,Vladislav Knoll p.c.
+csb-NegExType_general_classificaiton,csb,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+gyd-SN,gyd,SN,-Tharri (suffix); Tharri; -nangku(ru) (suffix); -warri 'suffix',,,"RN81[256-257, 288, 374]","Evans 1995: 256-257, 288, 374"
+gyd-NegEx_Form,gyd,NegEx_Form,warrira,,,RN81[375l],Evans 1995: 375l; Round 2009: 158
+gyd-NegExType_general_classificaiton,gyd,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+ket-SN,ket,SN,bən (particle),,,RN684[181],Werner 1997: 181
+ket-NegEx_Form,ket,NegEx_Form,bəŋsa,,,RN307[82],Vall & Kanakin 1990: 82
+ket-NegExType_general_classificaiton,ket,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+kca-SN,kca,SN,at (particle); ăntom (unclear morphosyntactic status),,,,"Beáta Wagner-Nagy, p.c."
+kca-NegEx_Form,kca,NegEx_Form,ăntom,,,,"Beáta Wagner-Nagy, p.c."
+kca-NegExType_general_classificaiton,kca,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+kha-SN,kha,SN,m- (prefix),,,,Grace Temsen p.c.
+kha-NegEx_Form,kha,NegEx_Form,m-dong [SN-be],,,,Grace Temsen p.c.
+kha-NegExType_general_classificaiton,kha,NegExType,identical with standard negation,NegexType-c01,,,
+kio-SN,kio,SN,hᴐ́́ˊn(C) ) -ᴐ́́ˊ/-gú (bi-partite),,,"RN315[204, 214]","Watkins 1984: 204, 214"
+kio-NegEx_Form,kio,NegEx_Form,hé,,,RN315[216],Watkins 1984: 216
+kio-NegExType_general_classificaiton,kio,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+cku-SN,cku,SN,PERS.NUMBER-ǫ(suffix),,,,Kimball 1991: in passim
+cku-NegEx_Form,cku,NegEx_Form,ǐkso-,,,,Martin forthcoming
+cku-NegExType_general_classificaiton,cku,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+kfa-SN,kfa,SN,-le (non-PST); -le/-ille (PST) (suffix),,,"RN2128[22, 27, 41]","Ebert 1996: 22, 27, 41"
+kfa-NegEx_Form,kfa,NegEx_Form,ille,,,"RN2128[22, 27, 41]","Ebert 1996: 22, 27, 41"
+kfa-NegExType_general_classificaiton,kfa,NegExType,morphologically different from standard negation,NegexType-c03,,,
+koi-SN,koi,SN,o-/e- (auxiliary),,,,"Arja Hamari, p.c."
+koi-NegEx_Form,koi,NegEx_Form,abu-,,,,"Arja Hamari, p.c."
+koi-NegExType_general_classificaiton,koi,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+kpv-SN,kpv,SN,o-/e- (non-PERFECT) (auxiliary); abu (PERFECT) (particle),,,,"Arja Hamari, p.c."
+kpv-NegEx_Form,kpv,NegEx_Form,abu-; SN,,,,"Arja Hamari, p.c."
+kpv-NegExType_general_classificaiton,kpv,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+kfc-SN,kfc,SN,--t (suffix),,,"RN2108[283, 289]","Krishnamurti 1969: 283, 289"
+kfc-NegEx_Form,kfc,NegEx_Form,sil,,,RN2108[289],Krishnamurti 1969: 289
+kfc-NegExType_general_classificaiton,kfc,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+kor-SN,kor,SN,an (particle),,,,Sohn 1999: 289-291
+kor-NegEx_Form,kor,NegEx_Form,ops-ta,,,,Patrick Chew p.c.
+kor-NegExType_general_classificaiton,kor,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+coe-SN,coe,SN,"--máˀ, -ma, -mane",,,"RN2365[61, in passim]","Cook & Criswell 1993: 61, in passim"
+coe-NegEx_Form,coe,NegEx_Form,peo-,,,RN2365[62],Cook & Criswell 1993: 62
+coe-NegExType_general_classificaiton,coe,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+gvc-SN,gvc,SN,--ér (suffix),,,RN2364[246 ff],Stenzel 2013: 246 ff
+gvc-NegEx_Form,gvc,NegEx_Form,bãdia,,,RN2364[202],Stenzel 2013: 202
+gvc-NegExType_general_classificaiton,gvc,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+kff-SN,kff,SN,'-o-/-ō-/-ū-/-v-/-vō-/vū (non-PST) (suffix); ill- (PST) (auxiliary),,,"RN2109[83, 96-99]","Tyler 1969: 83, 96-99"
+kff-NegEx_Form,kff,NegEx_Form,ill-,,,RN2109[33-5],Tyler 1969: 33-5
+kff-NegExType_general_classificaiton,kff,NegExType,constructionally different from standard negation,NegexType-c02,,,
+kgo-SN,kgo,SN,áŋ…é (bi-partite); t-ittà (auxiliary),,,"RN467[253, 370]","Reh 1985: 253, 370"
+kgo-NegEx_Form,kgo,NegEx_Form,t-ìttà,,,RN467[374],Reh 1985: 374
+kgo-NegExType_general_classificaiton,kgo,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+nee-SN,nee,SN,kio,,,RN1161[60],Moyse-Faurie and Ozanne-Rivierre 1999: 60
+nee-NegEx_Form,nee,NegEx_Form,kia,,,RN1161[61],Moyse-Faurie and Ozanne-Rivierre 1999: 61
+nee-NegExType_general_classificaiton,nee,NegExType,constructionally different from standard negation,NegexType-c02,,,
+kun-SN,kun,SN,"--mme, -nume (suffix)",,,RN671[298-9],Miestamo 2003: 298-9
+kun-NegEx_Form,kun,NegEx_Form,kos-...-mme,,,RN368[41-43],Bender 1996: 41-43
+kun-NegExType_general_classificaiton,kun,NegExType,identical with standard negation,NegexType-c01,,,
+kto-SN,kto,SN,təle (particle),,,,"Eva Lindström, p.c."
+kto-NegEx_Form,kto,NegEx_Form,karuk,,,,"Eva Lindström, p.c."
+kto-NegExType_general_classificaiton,kto,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+kpc-SN,kpc,SN,khen (particle),,,RN2322[245],Michael 2014: 245
+kpc-NegEx_Form,kpc,NegEx_Form,khenim + pa-kapa ‘special NEG + IMPERSONAL-see or SN,,,RN2315[76],Granadillo 2014: 76
+kpc-NegExType_general_classificaiton,kpc,NegExType,constructionally different from standard negation,NegexType-c02,,,
+kxv-SN,kxv,SN,'-ʔ(Vowel) (suffix),,,"RN2110[62-63, 135-136, 166]","Israel 1979: 62-63, 135-136, 166"
+kxv-NegEx_Form,kxv,NegEx_Form,hil-,,,"RN2110[60-63, 107]","Israel 1979: 60-63, 107"
+kxv-NegExType_general_classificaiton,kxv,NegExType,constructionally different from standard negation,NegexType-c02,,,
+xwa-SN,xwa,SN,-'he (suffix),,,,"van der Voort 2000: 429, in passim"
+xwa-NegEx_Form,xwa,NegEx_Form,a-'he,,,,"van der Voort 2000: 429, in passim"
+xwa-NegExType_general_classificaiton,xwa,NegExType,identical with standard negation,NegexType-c01,,,
+cle-SN,cle,SN,ʔa1ʔe2/ʔa1- (particle/prefix),,,"RN254[30, 44]","Rupp 1989: 30, 44"
+cle-NegEx_Form,cle,NegEx_Form,ʔa1ʔe2 sia2,,,RN254[11],Rupp 1989:11
+cle-NegExType_general_classificaiton,cle,NegExType,identical with standard negation,NegexType-c01,,,
+lln-SN,lln,SN,ᶑé (particle),,,RN642[297],Frajzyngier 2001: 297
+lln-NegEx_Form,lln,NegEx_Form,wíléʔ; màní ʔé;,,,RN642[213],Frajzyngier 2001: 213
+lln-NegExType_general_classificaiton,lln,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+lww-SN,lww,SN,pe…re (poli) (poli) (bi-partite),,,RN671[305)],"Miestamo, 2003: 305)"
+lww-NegEx_Form,lww,NegEx_Form,pe…re (poli),,,RN671[401],MIestamo 2003: 401
+lww-NegExType_general_classificaiton,lww,NegExType,identical with standard negation,NegexType-c01,,,
+lez-SN,lez,SN,'-č (suffix),,,"RN112[127, 245]","Haspelmath 1993: 127, 245"
+lez-NegEx_Form,lez,NegEx_Form,Awa-č,,,RN112[136],Haspelmath 1993: 136
+lez-NegExType_general_classificaiton,lez,NegExType,identical with standard negation,NegexType-c01,,,
+arw-SN,arw,SN,khro/ kho/ma- (prefix),,,RN2322[245],Michael 2014: 245
+arw-NegEx_Form,arw,NegEx_Form,kawan,,,RN2313[71],Patte 2014: 71
+arw-NegExType_general_classificaiton,arw,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+dsb-SN,dsb,SN,nje- (prefix),,,RN1087[666],Stone 1993: 666
+dsb-NegEx_Form,dsb,NegEx_Form,nje-dajo,,,,"Eduard Werner, p.c."
+dsb-NegExType_general_classificaiton,dsb,NegExType,identical with standard negation,NegexType-c01,,,
+lua-SN,lua,SN,ka- (prefix),,,RN2182[58],Morrison 1906: 58
+lua-NegEx_Form,lua,NegEx_Form,ka-ena,,,"RN2182[80, 333]","Morrison 1906: 80, 333"
+lua-NegExType_general_classificaiton,lua,NegExType,identical with standard negation,NegexType-c01,,,
+lun-SN,lun,SN,nehi (particle); hí-….-kú (bi-partite); wányi (negative word),,,"RN2118[218, in passim]","Kawasha 2003: 218, in passim"
+lun-NegEx_Form,lun,NegEx_Form,osi,,,RN2118[234],Kawasha 2003: 234
+lun-NegExType_general_classificaiton,lun,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+mkd-SN,mkd,SN,ne (particle),,,,personal knowledge
+mkd-NegEx_Form,mkd,NegEx_Form,nema,,,,personal knowledge
+mkd-NegExType_general_classificaiton,mkd,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+myy-SN,myy,SN,--be (suffix),,,,Smothermon et al. 1995:60
+myy-NegEx_Form,myy,NegEx_Form,bãdi,,,,Smothermon et al. 1995: 60
+myy-NegExType_general_classificaiton,myy,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+mbc-SN,mbc,SN,pra (particle),,,RN2[55],Abott 1991: 55
+mbc-NegEx_Form,mbc,NegEx_Form,pîn,,,RN2[55-58],Abott 1991: 55-58
+mbc-NegExType_general_classificaiton,mbc,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+ayz-SN,ayz,SN,fe (particle),,,RN66[315],Dol 1999: 315
+ayz-NegEx_Form,ayz,NegEx_Form,fe/mfe,,,RN66[192],Dol 1999: 192
+ayz-NegExType_general_classificaiton,ayz,NegExType,constructionally different from standard negation,NegexType-c02,,,
+mkz-SN,mkz,SN,nomo (particle),,,"RN2096[242, in passim]","Huber 2011: 242, in passim"
+mkz-NegEx_Form,mkz,NegEx_Form,na'an,,,,"Juliette Huber, p.c."
+mkz-NegExType_general_classificaiton,mkz,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+mal-SN,mal,SN,--illa (suffix),,,"RN2104[30, 53]","George 1971: 30, 53"
+mal-NegEx_Form,mal,NegEx_Form,illa,,,"RN2104[21, 23]","George 1971: 21, 23"
+mal-NegExType_general_classificaiton,mal,NegExType,morphologically different from standard negation,NegexType-c03,,,
+cmn-SN,cmn,SN,bù (particle); méi(yǒu) (auxiliary),,,RN671[248],Miestamo 2003: 248
+cmn-NegEx_Form,cmn,NegEx_Form,méi(yǒu),,,RN674[103],Wiedenhof 1994: 103
+cmn-NegExType_general_classificaiton,cmn,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+mrv-SN,mrv,SN,e kore/kakkore (verb),,,RN2042[in passim],Tregear 1899: in passim
+mrv-NegEx_Form,mrv,NegEx_Form,kore,,,RN2042[in passim],Tregear 1899: in passim
+mrv-NegExType_general_classificaiton,mrv,NegExType,constructionally different from standard negation,NegexType-c02,,,
+mns-SN,mns,SN,"at, āt'im (particle)",,,,"Bernadett Biril, p.c."
+mns-NegEx_Form,mns,NegEx_Form,"āt'I, āt'im",,,,"Bernadett Biril, p.c."
+mns-NegExType_general_classificaiton,mns,NegExType,constructionally different from standard negation,NegexType-c02,,,
+mri-SN,mri,SN,kaōre (verb),,,"RN1348[154, 161]","Harlow 2007: 154, 161"
+mri-NegEx_Form,mri,NegEx_Form,kaōre,,,"RN1348[154, 161]","Harlow 2007: 154, 161"
+mri-NegExType_general_classificaiton,mri,NegExType,constructionally different from standard negation,NegexType-c02,,,
+arn-SN,arn,SN,--la (suffix),,,,"Fernando Zúñiga, p. c."
+arn-NegEx_Form,arn,NegEx_Form,nge-la-e-i-i-mew,,,,"Fernando Zúñiga, p. c."
+arn-NegExType_general_classificaiton,arn,NegExType,identical with standard negation,NegexType-c01,,,
+mec-SN,mec,SN,ganagu (particle) (non-FUT); gu- (prefix) (non-FUT); ?ula (FUT),,,RN113[191],Heath 1981: 191
+mec-NegEx_Form,mec,NegEx_Form,maƛuy,,,RN113[149-150],Heath 1981: 149-150
+mec-NegExType_general_classificaiton,mec,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+mrc-SN,mrc,SN,waly-/aly-…-ma (bi-partite),,,"RN458[26, 144]","Gordon 1986: 26, 144"
+mrc-NegEx_Form,mrc,NegEx_Form,kuvar,,,RN458[81],Gordon 1986: 81
+mrc-NegExType_general_classificaiton,mrc,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+vma-SN,vma,SN,mir.ta (particle),,,"RN59[235, 178]","Dench 1995: 235, 178"
+vma-NegEx_Form,vma,NegEx_Form,mir.ta,,,,Alan Dench p.c.
+vma-NegExType_general_classificaiton,vma,NegExType,constructionally different from standard negation,NegexType-c02,,,
+mxe-SN,mxe,SN,(se)…kē (bi-partite),,,RN1256[in passim],Clark 2002: in passim
+mxe-NegEx_Form,mxe,NegEx_Form,saai,,,RN1256[692],Clark 2002: 692
+mxe-NegExType_general_classificaiton,mxe,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+moc-SN,moc,SN,se (particle); mesqay,,,"RN2164[121, in passim]","Gualdieri 1998: 121, in passim"
+moc-NegEx_Form,moc,NegEx_Form,qayka,,,RN2164[108-9],Gualdieri 1998: 108-9
+moc-NegExType_general_classificaiton,moc,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+mdf-SN,mdf,SN,af (particle); apak- (prefix); əź-/iź- (auxiliary),,,"RN1231[90, in passim]","Hamari 2007: 90, in passim"
+mdf-NegEx_Form,mdf,NegEx_Form,"aš, ajaš; SN",,,"RN1231[90, in passim]","Hamari 2007: 90, in passim"
+mdf-NegExType_general_classificaiton,mdf,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+muw-SN,muw,SN,ka- (prefix),,,RN671[218],Miestamo 2003: 218
+muw-NegEx_Form,muw,NegEx_Form,baŋgaʔi; ka-,,,"RN223[119, 390]","Osada 1992: 119, 390"
+muw-NegExType_general_classificaiton,muw,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+mur-SN,mur,SN,"alaŋ, ŋaan (particle)",,,RN671[318],Miestamo 2003: 318
+mur-NegEx_Form,mur,NegEx_Form,adhi,,,RN690[135-136],Lyth 1971: 135-136
+mur-NegExType_general_classificaiton,mur,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+hur-SN,hur,SN,ʔə`wə (particle),,,RN1202[31],Suttles 2004: 31
+hur-NegEx_Form,hur,NegEx_Form,ʔə`wəteʔ,,,RN1202[128],Suttles 2004: 128
+hur-NegExType_general_classificaiton,hur,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+mwe-SN,mwe,SN,ka- (prefix),,,"RN1209[92, 100]","Harries 1950: 92, 100"
+mwe-NegEx_Form,mwe,NegEx_Form,jwakwa,,,RN1209[116],Harries 1950: 116
+mwe-NegExType_general_classificaiton,mwe,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+mbj-SN,mbj,SN,dooh (verb),,,RN671[318],Miestamo 2003: 318
+mbj-NegEx_Form,mbj,NegEx_Form,dooh,,,"RN1033[295-6,,301]","Weir 1994:295-6,,301"
+mbj-NegExType_general_classificaiton,mbj,NegExType,constructionally different from standard negation,NegexType-c02,,,
+cox-SN,cox,SN,"tera, hara, matsi (particles)",,,RN2322[245],Michael 2014: 245
+cox-NegEx_Form,cox,NegEx_Form,mameri,,,RN2322[186],Michael 2014: 186
+cox-NegExType_general_classificaiton,cox,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+nav-SN,nav,SN,dòò…-dà (bi-partite),,,,Young 1987: 143-4
+nav-NegEx_Form,nav,NegEx_Form,dòò…-dà,,,,Young 1987: 143-4
+nav-NegExType_general_classificaiton,nav,NegExType,identical with standard negation,NegexType-c01,,,
+nde-SN,nde,SN,ka-...-i (bi-partite),,,RN2122[43-44],Bowern and Lotridge 2002: 43-44
+nde-NegEx_Form,nde,NegEx_Form,a-/nga-,,,RN2122[57],Bowern and Lotridge 2002: 57
+nde-NegExType_general_classificaiton,nde,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+njt-SN,njt,SN,(n)á (particle),,,"RN132[134-6, 141]","Huttar and Huttar 1994: 134-6, 141"
+njt-NegEx_Form,njt,NegEx_Form,(n)á,,,"RN132[134-6, 141]","Huttar and Huttar 1994: 134-6, 141"
+njt-NegExType_general_classificaiton,njt,NegExType,identical with standard negation,NegexType-c01,,,
+yrk-SN,yrk,SN,ńí (auxiliary); jaŋku (verb),,,,"Laakso et al. 2012; Beàta Wagner Nagy, p.c."
+yrk-NegEx_Form,yrk,NegEx_Form,jaŋku,,,,"Laakso et al. 2012; Beàta Wagner Nagy, p.c."
+yrk-NegExType_general_classificaiton,yrk,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+nez-SN,nez,SN,wéeʔu (particle),,,RN671[237-238],Miestamo 2003: 237-238
+nez-NegEx_Form,nez,NegEx_Form,cáʔya,,,,Aoki 1979: 124
+nez-NegExType_general_classificaiton,nez,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+nio-SN,nio,SN,ńí (particle),,,,"Laakso et al. 2012; Beàta Wagner-Nagy, p.c."
+nio-NegEx_Form,nio,NegEx_Form,d'aŋku,,,,"Laakso et al. 2012; Beàta Wagner-Nagy, p.c."
+nio-NegExType_general_classificaiton,nio,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+nrk-SN,nrk,SN,mirta (particle),,,RN2129[83],Westerlund 2013: 83
+nrk-NegEx_Form,nrk,NegEx_Form,ngurra(pirli),,,RN2129[83],Westerlund 2013: 83
+nrk-NegExType_general_classificaiton,nrk,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+nge-SN,nge,SN,kà (particle),,,,Solange Mekangoum p.c.
+nge-NegEx_Form,nge,NegEx_Form,kà,,,,Solange Mekangoum p.c.
+nge-NegExType_general_classificaiton,nge,NegExType,identical with standard negation,NegexType-c01,,,
+niu-SN,niu,SN,"nakai, fakai (verb/particle)",,,"RN1272[78, in passim]","Polinskaja 1995: 78, in passim"
+niu-NegEx_Form,niu,NegEx_Form,"nakai, fakai",,,RN1272[78],Polinskaja 1995: 78
+niu-NegExType_general_classificaiton,niu,NegExType,identical with standard negation,NegexType-c01,,,
+niv-SN,niv,SN,k'au-; khavr-/ghavr-,,,RN671[324-325],Miestamo 2003: 324-325
+niv-NegEx_Form,niv,NegEx_Form,khavr-/ghavr-,,,,Ekaterina Gruzhdeva p.c.
+niv-NegExType_general_classificaiton,niv,NegExType,morphologically different from standard negation,NegexType-c03,,,
+mrq-SN,mrq,SN,a'o'e; 'a'e; ? (particles),,,RN1247[in passim],Krupa 2005: in passim
+mrq-NegEx_Form,mrq,NegEx_Form,a'o'e,,,RN1247[in passim],Krupa 2005: in passim
+mrq-NegExType_general_classificaiton,mrq,NegExType,constructionally different from standard negation,NegexType-c02,,,
+sme-SN,sme,SN,i- (auxiliary),,,RN2127[56],Korhonen 1988: 56
+sme-NegEx_Form,sme,NegEx_Form,i-,,,RN2127[56],Korhonen 1988: 56
+sme-NegExType_general_classificaiton,sme,NegExType,identical with standard negation,NegexType-c01,,,
+emp-SN,emp,SN,ẽ (enclitic),,,RN1216[11-12],Mortensen 1999: 11-12
+emp-NegEx_Form,emp,NegEx_Form,nẽ ẽ-a,,,RN1216[101],Mortensen 1999: 101
+emp-NegExType_general_classificaiton,emp,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+nkr-SN,nkr,SN,de (particle),,,RN1270[27],Carroll 1965: 27
+nkr-NegEx_Form,nkr,NegEx_Form,deai,,,RN1270[27],Carroll 1965: 27
+nkr-NegExType_general_classificaiton,nkr,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+ciw-SN,ciw,SN,gaa/gaawii-...-sii (bi-partite),,,RN2093[837 ff],Valentine 2001: 837 ff
+ciw-NegEx_Form,ciw,NegEx_Form,gaawii gegoo,,,RN2093[849],Valentine 2001: 849
+ciw-NegExType_general_classificaiton,ciw,NegExType,identical with standard negation,NegexType-c01,,,
+one-SN,one,SN,yah (teʔ-) (particle),,,"RN686[15, 20, 44]","Abbott 2000: 15, 20, 44; Karin Michelson p.c."
+one-NegEx_Form,one,NegEx_Form,yah (teʔ-),,,"RN686[15, 20, 44]","Abbott 2000: 15, 20, 44; Karin Michelson p.c."
+one-NegExType_general_classificaiton,one,NegExType,identical with standard negation,NegexType-c01,,,
+ojv-SN,ojv,SN,se (particle),,,RN1170[85],Clark 1976: 85
+ojv-NegEx_Form,ojv,NegEx_Form,seai,,,RN1170[85],Clark 1976: 85
+ojv-NegExType_general_classificaiton,ojv,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+plu-SN,plu,SN,ka (particle),,,RN2322[245],MIchael 2014: 245
+plu-NegEx_Form,plu,NegEx_Form,yuma(h),,,RN2356[199],Launey 2003: 199
+plu-NegExType_general_classificaiton,plu,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+pab-SN,pab,SN,"maitsa, maiha (particle)",,,RN2322[245],MIchael 2014: 245
+pab-NegEx_Form,pab,NegEx_Form,maiha,,,,Brandão 2014:175
+pab-NegExType_general_classificaiton,pab,NegExType,identical with standard negation,NegexType-c01,,,
+pnh-SN,pnh,SN,ee kore,,,RN1170[99],Clark 1976: 99
+pnh-NegEx_Form,pnh,NegEx_Form,kore,,,RN1170[99],Clark 1976: 99
+pnh-NegExType_general_classificaiton,pnh,NegExType,constructionally different from standard negation,NegexType-c02,,,
+phl-SN,phl,SN,na (particle),,,,"Henrik Liljegren & Nasim Najder, p.c."
+phl-NegEx_Form,phl,NegEx_Form,na,,,,"Henrik Liljegren & Nasim Najder, p.c."
+phl-NegExType_general_classificaiton,phl,NegExType,identical with standard negation,NegexType-c01,,,
+pio-SN,pio,SN,kami- (auxiliary),,,RN2322[247],MIchael 2014: 247
+pio-NegEx_Form,pio,NegEx_Form,caná,,,RN2316[118],Aikhenvald 2014: 118
+pio-NegExType_general_classificaiton,pio,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+piv-SN,piv,SN,siai (particle),,,RN1253[57],Næss 2000: 57; Åshild Næss p.c.
+piv-NegEx_Form,piv,NegEx_Form,(hiek)khiloa; siai,,,RN1253[57],Næss 2000: 57; Åshild Næss p.c.
+piv-NegExType_general_classificaiton,piv,NegExType,constructionally different from standard negation,NegexType-c02,,,
+ppl-SN,ppl,SN,tesu (particle),,,RN36[268],Campbell 1985: 268
+ppl-NegEx_Form,ppl,NegEx_Form,tesu,,,RN36[268],Campbell 1985: 268
+ppl-NegExType_general_classificaiton,ppl,NegExType,identical with standard negation,NegexType-c01,,,
+pol-SN,pol,SN,nie (prefix),,,RN1080[742],"Rothstein 1993: 742; Marcin Kilarski, p.c."
+pol-NegEx_Form,pol,NegEx_Form,nie ma,,,RN1080[742],Rothstein 1993: 742
+pol-NegExType_general_classificaiton,pol,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+tsz-SN,tsz,SN,'no (particle),,,RN671[364-365],Miestamo 2003: 364-365
+tsz-NegEx_Form,tsz,NegEx_Form,nooNpe,,,RN1217[88],Chamoreau 2003: 88
+tsz-NegExType_general_classificaiton,tsz,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+alc-SN,alc,SN,qjawel/qjep (particle/suffix),,,,Clairis 1958: in passim
+alc-NegEx_Form,alc,NegEx_Form,qjawel/qjep,,,RN456[in pasim],Clairis 1985: in pasim
+alc-NegExType_general_classificaiton,alc,NegExType,constructionally different from standard negation,NegexType-c02,,,
+rap-SN,rap,SN,'ina (particle),,,RN73[35],Du Feu 1996: 35
+rap-NegEx_Form,rap,NegEx_Form,ina,,,RN73[35],Du Feu 1996: 35
+rap-NegExType_general_classificaiton,rap,NegExType,constructionally different from standard negation,NegexType-c02,,,
+rar-SN,rar,SN,kāre (particle/verb),,,RN1249[396],Buse 1963: 396
+rar-NegEx_Form,rar,NegEx_Form,kāre,,,RN1249[396],Buse 1963: 396
+rar-NegExType_general_classificaiton,rar,NegExType,constructionally different from standard negation,NegexType-c02,,,
+mnv-SN,mnv,SN,he'e (particle),,,RN1240[112],Elbert and Monberg 1965: 112
+mnv-NegEx_Form,mnv,NegEx_Form,si'ai,,,RN1240[112],Elbert and Monberg 1965: 112
+mnv-NegExType_general_classificaiton,mnv,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+tnc-SN,tnc,SN,--be (suffix),,,"RN2374[, 1456]","Strom 1992: , 1456"
+tnc-NegEx_Form,tnc,NegEx_Form,--be,,,"RN2374[146, 174]","Strom 1992: 146, 174"
+tnc-NegExType_general_classificaiton,tnc,NegExType,identical with standard negation,NegexType-c01,,,
+rus-SN,rus,SN,ne (particle),,,,personal knowledge
+rus-NegEx_Form,rus,NegEx_Form,net,,,,personal knowledge
+rus-NegExType_general_classificaiton,rus,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+sbe-SN,sbe,SN,nige particle),,,RN1158[31],Margetts 1999: 31
+sbe-NegEx_Form,sbe,NegEx_Form,nige,,,RN1158[31],Margetts 1999: 31
+sbe-NegExType_general_classificaiton,sbe,NegExType,identical with standard negation,NegexType-c01,,,
+smo-SN,smo,SN,lē (particle),,,"RN204[376, in passim]","Mosel and Hovhaugen 1994: 376, in passim"
+smo-NegEx_Form,smo,NegEx_Form,leai,,,RN204[526],Mosel and Hovhaugen 1994: 526
+smo-NegExType_general_classificaiton,smo,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+sey-SN,sey,SN,-ma',,,,Orville & Levinsohn 1990:64
+sey-NegEx_Form,sey,NegEx_Form,peo,,,,"Orville & Levinsohn 1990: 64, in passim"
+sey-NegExType_general_classificaiton,sey,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+snw-SN,snw,SN,prefix (sometimes also tonal change); different markers for different TA categories,,,RN2616[25-26],Agbetsoamedo 2014: 25-26
+snw-NegEx_Form,snw,NegEx_Form,-naa,,,,"Yvone Agbetsoamedo, p.c."
+snw-NegExType_general_classificaiton,snw,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+sel-SN,sel,SN,ašša; (particle); cääŋka (verb?),,,,Beàta Wagner-Nagu p.c.; Laakso et al. 2012
+sel-NegEx_Form,sel,NegEx_Form,cääŋka,,,,Beàta Wagner-Nagu p.c.; Laakso et al. 2012
+sel-NegExType_general_classificaiton,sel,NegExType,constructionally different from standard negation,NegexType-c02,,,
+set-SN,set,SN,V-...-i (bi-partite),,,RN673[52-53],Hartzler 1994: 52-53
+set-NegEx_Form,set,NegEx_Form,"olo [+human], an [+/-animate]",,,RN673[60-1],Hartzler 1994: 60-1
+set-NegExType_general_classificaiton,set,NegExType,completely different from SN: other solutions,NegexType-c06,,,
+srp-SN,srp,SN,ne (particle),,,,Dejan Matic p.c.
+srp-NegEx_Form,srp,NegEx_Form,nema,,,,Dejan Matic p.c.
+srp-NegExType_general_classificaiton,srp,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+sna-SN,sna,SN,ha- (prefix),,,"RN2617[3-4, ff]","Dale 1975: 3-4, ff"
+sna-NegEx_Form,sna,NegEx_Form,apana/amuna,,,,"Biehler 1950: 155, 229"
+sna-NegExType_general_classificaiton,sna,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+sky-SN,sky,SN,hee (particle),,,RN1170[86],Clark 1976: 86
+sky-NegEx_Form,sky,NegEx_Form,heai,,,RN1170[86],Clark 1976: 86
+sky-NegExType_general_classificaiton,sky,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+snn-SN,snn,SN,-ma' (suffix),,,"RN2368[211, 178]","Bruil 2014: 211, 178"
+snn-NegEx_Form,snn,NegEx_Form,beo,,,"RN2368[244, 251]","Bruil 2014: 244, 251"
+snn-NegExType_general_classificaiton,snn,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+sri-SN,sri,SN,-b?/-biri (suffix),,,RN2372[403],Criswell & Brandup 2000: 403
+sri-NegEx_Form,sri,NegEx_Form,bãri,,,RN2372[403-4],Criswell & Brandup 2000: 403-4
+sri-NegExType_general_classificaiton,sri,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+sms-SN,sms,SN,ij (verb); i'lla (verb),,,,Miestamo & Koponen 2015: 22
+sms-NegEx_Form,sms,NegEx_Form,i'lla; ij,,,,Miestamo & Koponen 2015: 22
+sms-NegExType_general_classificaiton,sms,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+slk-SN,slk,SN,nie- (prefix),,,RN1086[577],Short 1993: 577; Markus Giger p.c.
+slk-NegEx_Form,slk,NegEx_Form,"nje je, (nieto)",,,RN1086[577],Short 1993: 577; Markus Giger p.c.
+slk-NegExType_general_classificaiton,slk,NegExType,identical with standard negation,NegexType-c01,,,
+slv-SN,slv,SN,ne (particle),,,RN596[112],Herrity 2000: 112
+slv-NegEx_Form,slv,NegEx_Form,ne,,,RN596[112],Herrity 2000: 112
+slv-NegExType_general_classificaiton,slv,NegExType,identical with standard negation,NegexType-c01,,,
+ses-SN,ses,SN,mana (particle) (PFV); sii (particle) (IPFV),,,RN114[143-152],Heath 1999: 143-152
+ses-NegEx_Form,ses,NegEx_Form,sii; SN,,,RN114[143-152],Heath 1999: 143-152
+ses-NegExType_general_classificaiton,ses,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+mqm-SN,mqm,SN,a'o'e (verb),,,RN1170[99],Clark 1976: 99
+mqm-NegEx_Form,mqm,NegEx_Form,a'o'e,,,RN1170[99],Clark 1976: 99
+mqm-NegExType_general_classificaiton,mqm,NegExType,constructionally different from standard negation,NegexType-c02,,,
+sma-SN,sma,SN,i- (auxiliary),,,,Cecilia Hedlund p.c.
+sma-NegEx_Form,sma,NegEx_Form,i-,,,,Cecilia Hedlund p.c.
+sma-NegExType_general_classificaiton,sma,NegExType,identical with standard negation,NegexType-c01,,,
+wsg-SN,wsg,SN,-o-/-v- (suffix); -sil (suffix),,,RN2107[122-134],Lincoln 1969: 122-134
+wsg-NegEx_Form,wsg,NegEx_Form,sil,,,RN2107[122-134],Lincoln 1969: 122-134
+wsg-NegExType_general_classificaiton,wsg,NegExType,morphologically different from standard negation,NegexType-c03,,,
+spa-SN,spa,SN,no (particle),,,,personal knowledge
+spa-NegEx_Form,spa,NegEx_Form,no hay,,,,personal knowledge
+spa-NegExType_general_classificaiton,spa,NegExType,identical with standard negation,NegexType-c01,,,
+sue-SN,sue,SN,kaka (particle); oko (particle),,,RN671[350],Miestamo 2003: 350
+sue-NegEx_Form,sue,NegEx_Form,tepo,,,RN344[112],Wilson 1974: 112
+sue-NegExType_general_classificaiton,sue,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+spp-SN,spp,SN,(nye)…mʔ (bi-partite),,,RN38[247],Carlson 1994: 247
+spp-NegEx_Form,spp,NegEx_Form,(nye)…mʔ´,,,RN38[247],Carlson 1994: 247
+spp-NegExType_general_classificaiton,spp,NegExType,identical with standard negation,NegexType-c01,,,
+swe-SN,swe,SN,inte (particle),,,,personal knowledge
+swe-NegEx_Form,swe,NegEx_Form,ingen (negative quantifier); inte (particle),,,,personal knowledge
+swe-NegExType_general_classificaiton,swe,NegExType,completely different from SN: negative indefinite pronouns,NegexType-c05,,,
+mky-SN,mky,SN,te (particle),,,RN681[238],Bowden 2001: 238
+mky-NegEx_Form,mky,NegEx_Form,te,,,RN681[238],Bowden 2001: 238
+mky-NegExType_general_classificaiton,mky,NegExType,identical with standard negation,NegexType-c01,,,
+shy-SN,shy,SN,u(r/d) (particle),,,RN2135[288-289],Mettouchi 2009: 288-289
+shy-NegEx_Form,shy,NegEx_Form,ulliš; ud--illi;,,,RN2135[288-289],Mettouchi 2009: 288-289
+shy-NegExType_general_classificaiton,shy,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+shi-SN,shi,SN,ur (particle),,,RN2135[288-289],Mettouchi 2009: 288-289
+shi-NegEx_Form,shi,NegEx_Form,laḥ,,,RN2135[288-289],Mettouchi 2009: 288-289
+shi-NegExType_general_classificaiton,shi,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+tgl-SN,tgl,SN,hindi (particle),,,RN671[352],"Miestamo 2003: 352; Carl Rubino, p.c."
+tgl-NegEx_Form,tgl,NegEx_Form,wala,,,RN262[521-523],Schachter 1972: 521-523
+tgl-NegExType_general_classificaiton,tgl,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+tah-SN,tah,SN,'a'ita/'a'ore/'e'ita/'e'ore (verb/particle),,,RN1172[151-152],Lazard and Peltzer 1999: 151-152
+tah-NegEx_Form,tah,NegEx_Form,'ai'ta; 'aore,,,RN1172[148],Lazard and Peltzer 1999: 148
+tah-NegExType_general_classificaiton,tah,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+tam-SN,tam,SN,-ill- (suffix); -? (suffix),,,"RN2103[221, 229-230]","Lehmann 1993: 221, 229-230"
+tam-NegEx_Form,tam,NegEx_Form,il-,,,"RN2103[221, 229-230]","Lehmann 1993: 221, 229-230"
+tam-NegExType_general_classificaiton,tam,NegExType,morphologically different from standard negation,NegexType-c03,,,
+tae-SN,tae,SN,ma-V-Kade/kasu (bi-partite),,,RN2322[254],Michael 2014: 254
+tae-NegEx_Form,tae,NegEx_Form,sede; kurripua,,,"RN2316[108,110]","Aikhenvald 2014: 108,110"
+tae-NegExType_general_classificaiton,tae,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+rif-SN,rif,SN,ur (particle),,,RN2135[288-289],Mettouchi 2009: 288-289
+rif-NegEx_Form,rif,NegEx_Form,ulaš; (ur) … (ša),,,RN2135[288-289],Mettouchi 2009: 288-289
+rif-NegExType_general_classificaiton,rif,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+tav-SN,tav,SN,"--ke, -keti (suffix)",,,"RN2373[60, in passim]","Bostrom 1998: 60, in passim"
+tav-NegEx_Form,tav,NegEx_Form,mani,,,RN2373[61],Bostrom 1998: 61
+tav-NegExType_general_classificaiton,tav,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+tel-SN,tel,SN,lēdu (auxiliary); -a- (suffix),,,"RN2106[149, 155, 162, 218]","Krishnamurti & Gwynn 1985: 149, 155, 162, 218"
+tel-NegEx_Form,tel,NegEx_Form,lee,,,"RN2106[149, 155, 162]","Krishnamurti & Gwynn 1985: 149, 155, 162"
+tel-NegExType_general_classificaiton,tel,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+tio-SN,tio,SN,san … haa (bi-partite),,,RN1972[45],Mosel & Spriggs 1999: 45
+tio-NegEx_Form,tio,NegEx_Form,ahiki,,,RN1972[49],Mosel & Spriggs 1999: 49
+tio-NegExType_general_classificaiton,tio,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+ter-SN,ter,SN,"ako, hyoko (particles)",,,RN2322[245],Michael 2014: 245
+ter-NegEx_Form,ter,NegEx_Form,ako N-ino,,,RN2357[67];RN2358[74],Bendor-Samuel 1961: 67; Ekdahl & Butler 1979:74
+ter-NegExType_general_classificaiton,ter,NegExType,constructionally different from standard negation,NegexType-c02,,,
+tet-SN,tet,SN,ha'I; la (particles),,,RN1211[228-231],van Klinken 1999: 228-231
+tet-NegEx_Form,tet,NegEx_Form,ha'i/la n'o,,,RN1211[187],van Klinken 1999: 187
+tet-NegExType_general_classificaiton,tet,NegExType,identical with standard negation,NegexType-c01,,,
+tha-SN,tha,SN,may1 (particle),,,,"Tu Zlatev, p.c."
+tha-NegEx_Form,tha,NegEx_Form,may1,,,,"Tu Zlatev, p.c."
+tha-NegExType_general_classificaiton,tha,NegExType,identical with standard negation,NegexType-c01,,,
+tkl-SN,tkl,SN,hē (particle),,,RN1171[136],Vonen 1999: 136
+tkl-NegEx_Form,tkl,NegEx_Form,heai,,,RN1171[135],Vonen 1999: 135
+tkl-NegExType_general_classificaiton,tkl,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+toi-SN,toi,SN,tií- (prefix),,,RN2120[44],Carter 2002: 44
+toi-NegEx_Form,toi,NegEx_Form,-kew; -(ny)ina,,,RN2120[70],Carter 2002: 70
+toi-NegExType_general_classificaiton,toi,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+ton-SN,ton,SN,'ikai (verb),,,RN1164[103],Broschart 1999: 103
+ton-NegEx_Form,ton,NegEx_Form,'ikai,,,RN1164[101],Broschart 1999: 101
+ton-NegExType_general_classificaiton,ton,NegExType,constructionally different from standard negation,NegexType-c02,,,
+fit-SN,fit,SN,e- (auxiliary),,,,Berit Niva p.c.
+fit-NegEx_Form,fit,NegEx_Form,e-,,,,Berit Niva p.c.
+fit-NegExType_general_classificaiton,fit,NegExType,identical with standard negation,NegexType-c01,,,
+trn-SN,trn,SN,wo~wi~wo'i-TAM V-IRR (auxiliary),,,RN2322[247],MIchael 2014: 247
+trn-NegEx_Form,trn,NegEx_Form,--jina,,,RN2321[221],Rose 2014: 221
+trn-NegExType_general_classificaiton,trn,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+tsn-SN,tsn,SN,gá-góná (particle),,,RN2119[41],Cole & Mokaila 1962: 41
+tsn-NegEx_Form,tsn,NegEx_Form,gá-góná,,,RN2119[41],Cole & Mokaila 1962: 41
+tsn-NegExType_general_classificaiton,tsn,NegExType,identical with standard negation,NegexType-c01,,,
+thv-SN,thv,SN,ur (particle),,,RN2135[288-289],Mettouchi 2009: 288-289
+thv-NegEx_Form,thv,NegEx_Form,aba/ba,,,RN2135[288-289)],Mettouchi (2009: 288-289)
+thv-NegExType_general_classificaiton,thv,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+tuo-SN,tuo,SN,"-ti (suffix, main clauses); -we'e (non-visible, non-present); -some (future)",,,RN2377[152-3],Ramirez 1997: 152-3
+tuo-NegEx_Form,tuo,NegEx_Form,mãrí /bãdí/,,,,Ramilrez 1997: 154
+tuo-NegExType_general_classificaiton,tuo,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+khc-SN,khc,SN,mbea(ka) (particle),,,RN70[450],Donohue 1999: 450
+khc-NegEx_Form,khc,NegEx_Form,mbea'a,,,RN70[364],Donohue 1999: 364
+khc-NegExType_general_classificaiton,khc,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+tuv-SN,tuv,SN,ɲi- (prefix),,,,Dimmendaal 1983: 442
+tuv-NegEx_Form,tuv,NegEx_Form,A-mamaka-ʋ′,,,,Dimmendaal 1983: 455-456
+tuv-NegExType_general_classificaiton,tuv,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+tur-SN,tur,SN,--ma (suffix),,,RN671[359],Miestamo 2003: 359
+tur-NegEx_Form,tur,NegEx_Form,yok,,,,van Shaaik 1994: 44
+tur-NegExType_general_classificaiton,tur,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+tvl-SN,tvl,SN,see/hee (particle),,,RN1361[180],Besnier 2000: 180
+tvl-NegEx_Form,tvl,NegEx_Form,seeai,,,RN1361[121],Besnier 2000: 121
+tvl-NegExType_general_classificaiton,tvl,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+tue-SN,tue,SN,"---riin (suffix) main clauses, -e (suffix) in nomiinalized and subordinate clauses",,,RN2375[37],Barnes 2012: 37
+tue-NegEx_Form,tue,NegEx_Form,mani,,,"RN2375[37, in passim]","Barnes 2012: 37, in passim"
+tue-NegExType_general_classificaiton,tue,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+udi-SN,udi,SN,--te (suffix),,,,Timur Maisak p.c.
+udi-NegEx_Form,udi,NegEx_Form,te-,,,,Timur Maisak p.c.
+udi-NegExType_general_classificaiton,udi,NegExType,identical with standard negation,NegexType-c01,,,
+udm-SN,udm,SN,ö- (auxiliary),,,RN1425[in passim],Winkler 2001: in passim
+udm-NegEx_Form,udm,NegEx_Form,övöl,,,RN1425[in passim],Winkler 2001: in passim
+udm-NegExType_general_classificaiton,udm,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+ukr-SN,ukr,SN,ne (particle),,,,Pugh and Press: 292
+ukr-NegEx_Form,ukr,NegEx_Form,nema(je),,,,Pugh and Press: 292
+ukr-NegExType_general_classificaiton,ukr,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+sju-SN,sju,SN,i- (auxiliary),,,,Cecilia Hedlund p.c.
+sju-NegEx_Form,sju,NegEx_Form,i-,,,,Cecilia Hedlund p.c.
+sju-NegExType_general_classificaiton,sju,NegExType,identical with standard negation,NegexType-c01,,,
+hsb-SN,hsb,SN,nje- (prefix),,,RN1087[666],Stone 1993: 666
+hsb-NegEx_Form,hsb,NegEx_Form,ne,,,,Eduard Werner p.c.
+hsb-NegExType_general_classificaiton,hsb,NegExType,identical with standard negation,NegexType-c01,,,
+wnu-SN,wnu,SN,me (particle),,,"RN245[278, 57, 99]","Reesink 1987: 278, 57, 99"
+wnu-NegEx_Form,wnu,NegEx_Form,ue,,,RN245[273-274],Reesink 1987: 273-274
+wnu-NegExType_general_classificaiton,wnu,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+ute-SN,ute,SN,ka … wa (bi-partite),,,,Givón and Southern Ute Tribe 1980: 278
+ute-NegEx_Form,ute,NegEx_Form,ka-NOUN-'wa,,,,Givón and Southern Ute Tribe 1980: 278
+ute-NegExType_general_classificaiton,ute,NegExType,constructionally different from standard negation,NegexType-c02,,,
+vep-SN,vep,SN,ei (particle),,,,Grünthal forthcoming
+vep-NegEx_Form,vep,NegEx_Form,eole; ei,,,,Grünthal forthcoming
+vep-NegExType_general_classificaiton,vep,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+vie-SN,vie,SN,không (particle),,,"RN294[208-9, 211, 216]","Thompson 1965: 208-9, 211, 216"
+vie-NegEx_Form,vie,NegEx_Form,không (cô) NOUN,,,"RN294[208-9, 211, 216]","Thompson 1965: 208-9, 211, 216"
+vie-NegExType_general_classificaiton,vie,NegExType,identical with standard negation,NegexType-c01,,,
+vot-SN,vot,SN,e- (auxiliary),,,RN1422[80],Ariste 1968: 80
+vot-NegEx_Form,vot,NegEx_Form,e-,,,RN1422[80],Ariste 1968: 80
+vot-NegExType_general_classificaiton,vot,NegExType,identical with standard negation,NegexType-c01,,,
+wls-SN,wls,SN,morel (verb),,,RN2047[in passim],Rensch 1982: in passim
+wls-NegEx_Form,wls,NegEx_Form,mole,,,RN2047[in passim],Rensch 1982: in passim
+wls-NegExType_general_classificaiton,wls,NegExType,constructionally different from standard negation,NegexType-c02,,,
+wyb-SN,wyb,SN,waŋa (particle),,,RN69[239],Donaldson 1980: 239
+wyb-NegEx_Form,wyb,NegEx_Form,dhalaba (privative),,,RN69[111],Donaldson 1980: 111
+wyb-NegExType_general_classificaiton,wyb,NegExType,completely different from SN: other solutions,NegexType-c06,,,
+wba-SN,wba,SN,–naka,,,RN671[364-365],Miestamo 2003: 364-365
+wba-NegEx_Form,wba,NegEx_Form,ekira; ana,,,,Romero-Figeroa 1997: 88
+wba-NegExType_general_classificaiton,wba,NegExType,completely different from SN: negative indefinite pronouns,NegexType-c05,,,
+mht-SN,mht,SN,ya=...=pia (bi-partite),,,RN2322[253],MIchael 2014: 253
+mht-NegEx_Form,mht,NegEx_Form,ya-beda-pia,,,"RN2330[250, 266]","Aikhenvald 1998: 250, 266"
+mht-NegExType_general_classificaiton,mht,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+wau-SN,wau,SN,aitsa (particle),,,RN2322[245],MIchael 2014: 245
+wau-NegEx_Form,wau,NegEx_Form,mano,,,RN2318[166ff],Ball 2014: 166ff
+wau-NegExType_general_classificaiton,wau,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+guc-SN,guc,SN,noho(l)- (auxiliary),,,RN2322[247],MIchael 2014: 247
+guc-NegEx_Form,guc,NegEx_Form,nnojola/nnojoloo,,,RN2332[37],Captain & Captain 2005: 37
+guc-NegExType_general_classificaiton,guc,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+kew-SN,kew,SN,na- (particle),,,RN671[291],Miestamo 2003: 291
+kew-NegEx_Form,kew,NegEx_Form,dia (ta),,,RN691[127],Franklin and Franklin 1978: 127
+kew-NegExType_general_classificaiton,kew,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+uve-SN,uve,SN,hē (particle),,,RN1170[86],Clark 1976: 86
+uve-NegEx_Form,uve,NegEx_Form,siai,,,RN1170[86],Clark 1976: 86
+uve-NegExType_general_classificaiton,uve,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+pes-SN,pes,SN,na- (prefix),,,RN671[336],Miestamo 2003: 336
+pes-NegEx_Form,pes,NegEx_Form,nist,,,RN590[89],Mahootian 1997: 89; Donald Stilo p.c.
+pes-NegExType_general_classificaiton,pes,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+jai-SN,jai,SN,mach (particle); mach … -oj (bi-partite),,,RN671[282],Miestamo 2003: 282
+jai-NegEx_Form,jai,NegEx_Form,mach,,,RN48[27];RN53[62],Craig 1977: 27; Day 1973: 62
+jai-NegExType_general_classificaiton,jai,NegExType,constructionally different from standard negation,NegexType-c02,,,
+mrj-SN,mrj,SN,a- (verb),,,RN1415[72-73],Vasikova 1990: 72-73
+mrj-NegEx_Form,mrj,NegEx_Form,uke,,,RN1415[72-73],Vasikova 1990: 72-73
+mrj-NegExType_general_classificaiton,mrj,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+wit-SN,wit,SN,ʔelew … mina (bi-partite),,,RN2091[197-199],Pitkin 1984: 197-199
+wit-NegEx_Form,wit,NegEx_Form,mina,,,RN2091[197-199],Pitkin 1984: 197-199
+wit-NegExType_general_classificaiton,wit,NegExType,morphologically different from standard negation,NegexType-c03,,,
+ame-SN,ame,SN,ama ...-e/o (bi-partite),,,RN2322[257],MIchael 2014: 257
+ame-NegEx_Form,ame,NegEx_Form,ama eñalle,,,,"Duff-Tripp 1998: 155, in passim"
+ame-NegExType_general_classificaiton,ame,NegExType,identical with standard negation,NegexType-c01,,,
+yvt-SN,yvt,SN,jata (particle),,,RN2322[245],MIchael 2014: 245
+yvt-NegEx_Form,yvt,NegEx_Form,jata/jainta,,,RN2333[87],Mosonyi 1987: 87
+yvt-NegExType_general_classificaiton,yvt,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+yee-SN,yee,SN,ta- (prefix); 'ina (proclitic),,,"RN88[251-252, 263]","Foley, 1991: 251-252, 263"
+yee-NegEx_Form,yee,NegEx_Form,kayak,,,RN88[461],Foley 1991: 461
+yee-NegExType_general_classificaiton,yee,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+pib-SN,pib,SN,hi (particle),,,RN2322[245],MIchael 2014: 245
+pib-NegEx_Form,pib,NegEx_Form,maleSa,,,RN2334[303],Hanson 2010: 303
+pib-NegExType_general_classificaiton,pib,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+yor-SN,yor,SN,ko (particle),,,RN314[137],Ward 1952: 137
+yor-NegEx_Form,yor,NegEx_Form,kò sí (sì is a negative polarity item),,,RN2117[267-269],Bode 2000: 267-269
+yor-NegExType_general_classificaiton,yor,NegExType,completely different from SN: other solutions,NegexType-c06,,,
+ycn-SN,ycn,SN,unka ...-la- (bi-partite),,,RN2322[257],MIchael 2014: 257
+ycn-NegEx_Form,ycn,NegEx_Form,unkÃ¡ i'imalÃ¡,,,,"Schauer, Schauer, Yucuna & Yucuna 2005:154, in passim"
+ycn-NegExType_general_classificaiton,ycn,NegExType,completely different from SN: lexical item,NegexType-c04,,,
+diq-SN,diq,SN,'ne-/'ni- (prefix),,,RN1019[130-131],"Sandonato, 1994: 130-131"
+diq-NegEx_Form,diq,NegEx_Form,t͡shino,,,RN1019[133],Sandonato 1994: 133
+diq-NegExType_general_classificaiton,diq,NegExType,completely different from SN: lexical item,NegexType-c04,,,

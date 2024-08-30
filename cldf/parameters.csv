@@ -1,4 +1,4 @@
 ID,Name,Description,ColumnSpec,Grammacodes
 SN,Standard negation form,the shape of the standard negation marker in the language,,NEGR;STNEG
 NegEx_Form,Negative existential form,the shape of the negative existential marker in the language,,EXV;NEG
-NegExType,Negative existential type,the type of the existential marker,,EXV
+NegExType,Negative existential type,the type of the negative existential marker,,EXV

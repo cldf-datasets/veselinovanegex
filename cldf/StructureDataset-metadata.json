@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/veselinovanegex",
             "rdf:type": "prov:Entity",
-            "dc:created": "f647624",
+            "dc:created": "c4f891d",
             "dc:title": "Repository"
         },
         {
@@ -96,6 +96,10 @@
                         "required": false,
                         "separator": ";",
                         "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Source_comment"
                     }
                 ],
                 "foreignKeys": [
