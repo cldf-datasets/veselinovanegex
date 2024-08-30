@@ -1,5 +1,6 @@
-import re
 import pathlib
+import re
+import sys
 from itertools import islice
 
 from pybtex import errors
@@ -87,27 +88,50 @@ def citation_from_authoryear(text):
     citation = re.sub(r'\s+', ' ', citation)
     citation = citation.replace(' and ', ' & ')
 
-    if 'p.c.' not in citation.replace(' ', ''):
-        return citation, pages.strip() if pages else pages
-    else:
-        return None, None
+    return citation, pages.strip() if pages else pages
 
 
 def make_value(
     row, param_col, params_by_col, codes_by_value, sources_by_citation
 ):
-    citations = []
-    if param_col == 'SN':
-        citation, pages = citation_from_authoryear(row['Source_SN'])
-        if citation in sources_by_citation:
-            bibkey = sources_by_citation[citation].id
-            citations = [f'{bibkey}[{pages}]' if pages else bibkey]
-    elif param_col == 'NegEx_Form':
-        citation, pages = citation_from_authoryear(row['Source_NegEx'])
-        if citation in sources_by_citation:
-            bibkey = sources_by_citation[citation].id
-            citations = [f'{bibkey}[{pages}]' if pages else bibkey]
     language_id = row['ID_ISO_A3']
+
+    if param_col == 'SN':
+        original_source = row['Source_SN']
+    elif param_col == 'NegEx_Form':
+        original_source = row['Source_NegEx']
+    else:
+        original_source = ''
+
+    separate_sources = [source.strip() for source in original_source.split(';')]
+    parsed_sources = [
+        (original, (citation, pages))
+        for original, (citation, pages) in zip(
+            separate_sources,
+            map(citation_from_authoryear, separate_sources))
+        if original]
+
+    missing_sources = [
+        original
+        for original, (citation, _) in parsed_sources
+        if not citation
+        or ('p.c.' not in citation.replace(' ', '')
+            and citation not in sources_by_citation)]
+    matched_sources = (
+        (citation, pages)
+        for _, (citation, pages) in parsed_sources
+        if citation
+        and 'p.c.' not in citation.replace(' ', ''))
+
+    for original in missing_sources:
+        print(
+            f'{language_id}:{param_col}: unknown source: {original}',
+            file=sys.stderr)
+    sources = [
+        f'{entry.id}[{pages}]' if pages else entry.id
+        for citation, pages in matched_sources
+        if (entry := sources_by_citation.get(citation))]
+
     original_value = row[param_col].strip()
     parameter = params_by_col[param_col]
     parameter_id = parameter['ID']
@@ -118,7 +142,8 @@ def make_value(
         'Value': code['Name'] if code else original_value,
         'Language_ID': language_id,
         'Parameter_ID': parameter_id,
-        'Source': citations,
+        'Source': sources,
+        'Source_comment': original_source,
     }
 
 
@@ -139,6 +164,7 @@ def update_cldf_schema(cldf):
             'separator': ';',
         })
     cldf.add_component('CodeTable', 'Map_Icon')
+    cldf.add_columns('ValueTable', 'Source_comment')
 
 
 class Dataset(BaseDataset):
